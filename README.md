@@ -64,8 +64,9 @@ is documented. They need the proprietary engine to run. Their recorded outputs a
 
 - The category-to-rule mapping is author-defined. It was frozen before any result was computed and has not been
   validated by an independent legal expert.
-- DeBERTa-v2-xlarge's Step B run on the 516 unlabelled documents was in progress at submission. It enters no reported
-  metric. Its Step C, which uses its validated test-set predictions, is final and included.
+- Step B is incomplete for DeBERTa-v2-xlarge: when this archive was built, its run on the 516 documents without expert
+  labels had completed 43 of 294 chunks. Those documents enter no reported metric. DeBERTa's Step C uses its validated
+  test-set predictions, is final, and is included. A completed run would be added as a new version of this archive.
 - Engine findings in `runs/` contain short matched spans of the documents. MCC texts are licensed CC BY-NC-SA 4.0;
   CUAD and ContractNLI are CC BY 4.0.
 
