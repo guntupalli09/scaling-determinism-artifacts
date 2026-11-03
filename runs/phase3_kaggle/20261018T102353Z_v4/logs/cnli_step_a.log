@@ -1,0 +1,32 @@
+
+===== 2026-10-18T06:54:25+00:00 /usr/bin/python3 comparators/gpu/contractnli_step_a.py --metrics /kaggle/working/phase3_state/contractnli_bert-base/output_base/test_metrics.json --backbone bert-base --out /kaggle/working/phase3_state/contractnli_bert-base
+{
+  "checked_at": "2026-10-18T06:54:25.833913+00:00",
+  "backbone": "bert-base",
+  "targets": {
+    "map": 0.885,
+    "accuracy": 0.838,
+    "f1_entailment": 0.765
+  },
+  "tolerance": {
+    "map": 0.03,
+    "accuracy": 0.03,
+    "f1_entailment": 0.05
+  },
+  "reproduced": {
+    "accuracy": 0.8240076518412244,
+    "f1_entailment": 0.7750127279551728,
+    "map": 0.751117830634757
+  },
+  "key_paths_used": {
+    "accuracy": "macro_label_micro_doc.class.accuracy",
+    "f1_entailment": "macro_label_micro_doc.class.f1_entailment",
+    "map": "micro_label_micro_doc.span.map"
+  },
+  "delta": {
+    "map": -0.133882169365243,
+    "accuracy": -0.013992348158775592,
+    "f1_entailment": 0.010012727955172829
+  },
+  "status": "STEP_A_FAIL"
+}

@@ -1,0 +1,60 @@
+{
+  "experiment_id": "P4-BISECT-1",
+  "hypothesis": "nda-3",
+  "rows": [
+    {
+      "commit": "3600870f",
+      "nda3_tp": 47,
+      "gold": 73,
+      "message": "2026-06-30 fix(H_ATTFEE_01): correct attorneys' fees regex to match apostrophe + space"
+    },
+    {
+      "commit": "57d57340",
+      "nda3_tp": 47,
+      "gold": 73,
+      "message": "2026-07-06 Add v3 broader audience triage rules"
+    },
+    {
+      "commit": "cf16d68d",
+      "nda3_tp": 47,
+      "gold": 73,
+      "message": "2026-07-08 UX audit fixes: correct risk badges, in-app upload page, honest report content, inline upload errors"
+    },
+    {
+      "commit": "13532073",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Fix evidence offset drift by chunking on verbatim text slices"
+    },
+    {
+      "commit": "07aba790",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Surface full risk-phrase evidence for proximity rule findings"
+    },
+    {
+      "commit": "82ae77a1",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Require established directionality before labeling a rule \"one-way\""
+    },
+    {
+      "commit": "4b3a38b2",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Split \"missing clause\" rules into PresenceRisk vs RequiredSection"
+    },
+    {
+      "commit": "32850e4f",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Add a business workflow decision layer, separate from severity"
+    },
+    {
+      "commit": "decaa703",
+      "nda3_tp": 38,
+      "gold": 73,
+      "message": "2026-07-13 Add contract-to-cash rules and structured payment terms for Agree.com"
+    }
+  ]
+}

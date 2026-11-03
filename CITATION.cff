@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these artefacts, please cite them as below."
+title: 'Research artefacts for "The Cost of Scaling Determinism: Coverage, Regression Risk and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis"'
+type: dataset
+version: "1.0"
+license: CC-BY-4.0
+authors:
+  - family-names: Guntupalli
+    given-names: Santhosh
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0003-8648-2994"
+  - family-names: Laakkonen
+    given-names: Mika-Petri
+    affiliation: Vaasa University of Applied Sciences (VAMK)
+keywords:
+  - reproducibility
+  - deterministic execution
+  - neuro-symbolic systems
+  - large language models
+  - contract analysis
+  - prompt injection
+  - software regression

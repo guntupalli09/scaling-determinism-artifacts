@@ -1,0 +1,12 @@
+{
+ "experiment_id": "P6-STATS-1",
+ "timestamp": "20261017T010231Z",
+ "git_commit": "ec32d703844ded3c945915f682ce56a8e86a5c6b",
+ "corpus_manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+ "bootstrap": {
+  "type": "document-level cluster",
+  "iterations": 2000,
+  "seed": 20261017
+ },
+ "mapping_status": "DRAFT v0 (2026-10-16) - needs review by Prof. Laakkonen and the legal reviewer before any number derived from it is reported as final."
+}

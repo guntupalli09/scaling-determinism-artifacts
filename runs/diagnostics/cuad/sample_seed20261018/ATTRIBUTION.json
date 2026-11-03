@@ -1,0 +1,17 @@
+{
+  "experiment_id": "DIAG-CUAD-1",
+  "model": "akdeniz27/roberta-base-cuad (weights identical to the official Zenodo 4599830 checkpoint)",
+  "sample": "3 test contracts, random.Random(20261018).sample(sorted titles, 3); 123 questions (33 with question > 64 tokens)",
+  "reference_truth": "authors' released nbest_predictions_.json (Zenodo 4599830, roberta-base.zip)",
+  "top_answer_agreement_with_authors": {
+    "reference_pipeline_query_cut_64": {"all": "123/123", "long_questions": "33/33", "short_questions": "90/90", "max_abs_probability_diff": 0.004, "median_abs_null_probability_diff": "< 0.0005"},
+    "reference_pipeline_no_query_cut": {"all": "116/123", "long_questions": "26/33", "short_questions": "90/90"},
+    "ours_preregistered": {"all": "89/123", "long_questions": "25/33", "short_questions": "64/90"}
+  },
+  "attribution": [
+    "Question truncation to 64 tokens (reference max_query_length default) changes 7/33 long-question top answers and 0/90 short ones.",
+    "Our post-processing and windowing (no token_is_max_context filter, null answer outside the n-best competition, our own window construction with the fast tokenizer) changes 26/90 short-question top answers, where the question input is identical.",
+    "Answer-text formatting (raw slice vs whitespace-joined tokens) does not change top answers but lowers matching in evaluate.py: +1.4 (base), +1.8 (large), +1.0 (DeBERTa) AUPR on the full test split when only the formatting is corrected."
+  ],
+  "note": "Diagnostic only. Pre-registered Step A results are unchanged."
+}

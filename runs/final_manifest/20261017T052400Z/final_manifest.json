@@ -1,0 +1,1526 @@
+{
+  "freeze_id": "FINAL-MANIFEST-20261017T052400Z",
+  "git_head_at_freeze": "09e7990f4f5b959bec8079784243fd59028b1313",
+  "corpus_manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+  "entries": [
+    {
+      "id": "R01",
+      "claim": "Within-process executions across 12 engine states",
+      "stated": 26574,
+      "recomputed": 26574,
+      "match": true,
+      "experiment": "P1/P4 runs",
+      "sources": [
+        {
+          "path": "runs/v1.0.3-iccs/results.jsonl",
+          "sha256": "9f33eea6bafe3f1d52a051e9093681e4fbb91c3ea9410068130ad1bb351e3103"
+        },
+        {
+          "path": "runs/v1.0.3/results.jsonl",
+          "sha256": "1c5b822e2a61c5b96998fc09afeede8ea0a7d85e68b2e8523304768d0324a7f1"
+        },
+        {
+          "path": "runs/v2.0.0/results.jsonl",
+          "sha256": "581fb14fdab8c9e6aff5fc2fce8e6d2d97f336794d5c82f73b57a87bd9901f4f"
+        },
+        {
+          "path": "runs/v2.1.0/results.jsonl",
+          "sha256": "48f429b0b6fba5882a6747d53b17cc2ab4d2818fbd3b3b7ba2e6fc51e95c67a0"
+        },
+        {
+          "path": "runs/v3.0.0/results.jsonl",
+          "sha256": "2922405f462ae56ce6fedb4fc68b4425e0c7549d71cc4c895be452c8ffbb6889"
+        },
+        {
+          "path": "runs/v4.0.0/results.jsonl",
+          "sha256": "edfb81e1ade920de1d9ab68e38af085a4b3eecd3069cecc481e2608ec50183b1"
+        },
+        {
+          "path": "runs/v5.0.0/results.jsonl",
+          "sha256": "28b5b7ae77fe2d92b5e06056caeb1ca688b1af57c588024931e5e0d19ab892b7"
+        },
+        {
+          "path": "runs/v6.0.0/results.jsonl",
+          "sha256": "d96329ef3d02da5c90164b67d820f70b4fc0cfa6502ccffe3af17df805b36961"
+        },
+        {
+          "path": "runs/v7.0.0/results.jsonl",
+          "sha256": "4d3c9e61c43c41a4cb7616d5aeffe2e5258624cb7abf93064ceca1bc2b531ced"
+        },
+        {
+          "path": "runs/v7.1.0/results.jsonl",
+          "sha256": "b2a5eca6e8c09bb27a5a17e9f836179b42d425dfc3540d257b6776d379c3696c"
+        },
+        {
+          "path": "runs/v7.2.0/results.jsonl",
+          "sha256": "62a1623e6441167a411bf531cfc7481ba96e1157d959511e455e3b71c605d05a"
+        },
+        {
+          "path": "runs/v7.2.0+20294216/results.jsonl",
+          "sha256": "e6b758ccd48a391a1ff4104cf3ece2e59a42d6b1adb5ec6fe44b912af318f876"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v1.0.3",
+          "engine_commit": "1a270a56",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R02",
+      "claim": "Documents with any output/finding variance (within-process, all states)",
+      "stated": 0,
+      "recomputed": 0,
+      "match": true,
+      "experiment": "P1/P4 runs",
+      "sources": [
+        {
+          "path": "runs/v1.0.3-iccs/results.jsonl",
+          "sha256": "9f33eea6bafe3f1d52a051e9093681e4fbb91c3ea9410068130ad1bb351e3103"
+        },
+        {
+          "path": "runs/v1.0.3/results.jsonl",
+          "sha256": "1c5b822e2a61c5b96998fc09afeede8ea0a7d85e68b2e8523304768d0324a7f1"
+        },
+        {
+          "path": "runs/v2.0.0/results.jsonl",
+          "sha256": "581fb14fdab8c9e6aff5fc2fce8e6d2d97f336794d5c82f73b57a87bd9901f4f"
+        },
+        {
+          "path": "runs/v2.1.0/results.jsonl",
+          "sha256": "48f429b0b6fba5882a6747d53b17cc2ab4d2818fbd3b3b7ba2e6fc51e95c67a0"
+        },
+        {
+          "path": "runs/v3.0.0/results.jsonl",
+          "sha256": "2922405f462ae56ce6fedb4fc68b4425e0c7549d71cc4c895be452c8ffbb6889"
+        },
+        {
+          "path": "runs/v4.0.0/results.jsonl",
+          "sha256": "edfb81e1ade920de1d9ab68e38af085a4b3eecd3069cecc481e2608ec50183b1"
+        },
+        {
+          "path": "runs/v5.0.0/results.jsonl",
+          "sha256": "28b5b7ae77fe2d92b5e06056caeb1ca688b1af57c588024931e5e0d19ab892b7"
+        },
+        {
+          "path": "runs/v6.0.0/results.jsonl",
+          "sha256": "d96329ef3d02da5c90164b67d820f70b4fc0cfa6502ccffe3af17df805b36961"
+        },
+        {
+          "path": "runs/v7.0.0/results.jsonl",
+          "sha256": "4d3c9e61c43c41a4cb7616d5aeffe2e5258624cb7abf93064ceca1bc2b531ced"
+        },
+        {
+          "path": "runs/v7.1.0/results.jsonl",
+          "sha256": "b2a5eca6e8c09bb27a5a17e9f836179b42d425dfc3540d257b6776d379c3696c"
+        },
+        {
+          "path": "runs/v7.2.0/results.jsonl",
+          "sha256": "62a1623e6441167a411bf531cfc7481ba96e1157d959511e455e3b71c605d05a"
+        },
+        {
+          "path": "runs/v7.2.0+20294216/results.jsonl",
+          "sha256": "e6b758ccd48a391a1ff4104cf3ece2e59a42d6b1adb5ec6fe44b912af318f876"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v1.0.3",
+          "engine_commit": "1a270a56",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R03",
+      "claim": "v7.2.0 baseline executions (618 docs x 10)",
+      "stated": 6180,
+      "recomputed": 6180,
+      "match": true,
+      "experiment": "P1 baseline",
+      "sources": [
+        {
+          "path": "runs/v7.2.0/results.jsonl",
+          "sha256": "62a1623e6441167a411bf531cfc7481ba96e1157d959511e455e3b71c605d05a"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R04",
+      "claim": "Exact one-sided 95% upper bound, per-document variance rate (0/618)",
+      "stated": 0.0048,
+      "recomputed": 0.0048357332371694595,
+      "match": true,
+      "experiment": "P1 baseline",
+      "sources": [
+        {
+          "path": "runs/v7.2.0/results.jsonl",
+          "sha256": "62a1623e6441167a411bf531cfc7481ba96e1157d959511e455e3b71c605d05a"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R05",
+      "claim": "Cross-process executions (15 states x 60 docs x 6 seeds)",
+      "stated": 5400,
+      "recomputed": 5400,
+      "match": true,
+      "experiment": "DET-XPROC-1",
+      "sources": [
+        {
+          "path": "runs/determinism_crossprocess/20261017T002540Z/summary.json",
+          "sha256": "bdb6c5b8f26a46f4419208e45bd604d2a7bcc750a7f63adf0c197307f8051005"
+        },
+        {
+          "path": "runs/determinism_crossprocess/20261017T002540Z/raw.json",
+          "sha256": "f1dba4d30840ac52aeac20e788ef4568dc7a3c3186a2efb264526e47d1c67b9c"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v1.0.3",
+          "engine_commit": "1a270a56",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+f5257056",
+          "engine_commit": "f5257056",
+          "ruleset_sha256": "c7781b73bcdac7c5"
+        },
+        {
+          "release": "v7.2.0+8b79a386",
+          "engine_commit": "8b79a386",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+6b9bfc8e",
+          "engine_commit": "6b9bfc8e",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R06",
+      "claim": "Cross-process documents with output variance",
+      "stated": 0,
+      "recomputed": 0,
+      "match": true,
+      "experiment": "DET-XPROC-1",
+      "sources": [
+        {
+          "path": "runs/determinism_crossprocess/20261017T002540Z/summary.json",
+          "sha256": "bdb6c5b8f26a46f4419208e45bd604d2a7bcc750a7f63adf0c197307f8051005"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v1.0.3",
+          "engine_commit": "1a270a56",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+f5257056",
+          "engine_commit": "f5257056",
+          "ruleset_sha256": "c7781b73bcdac7c5"
+        },
+        {
+          "release": "v7.2.0+8b79a386",
+          "engine_commit": "8b79a386",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+6b9bfc8e",
+          "engine_commit": "6b9bfc8e",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R07",
+      "claim": "v7.2.0 cuad fixed_denominator precision/recall/F1",
+      "stated": [
+        0.663,
+        0.354,
+        0.462
+      ],
+      "recomputed": [
+        0.663,
+        0.354,
+        0.462
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/performance.json",
+          "sha256": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60"
+        },
+        {
+          "path": "runs/analysis/v7.2.0/units_cuad.csv",
+          "sha256": "10caf4ac467dcfe68e61d158acb8ec0d2a0e1ccb575479162b7e89d777f811bc"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R08",
+      "claim": "v7.2.0 cuad direct_mappings_only precision/recall/F1",
+      "stated": [
+        0.86,
+        0.451,
+        0.592
+      ],
+      "recomputed": [
+        0.86,
+        0.451,
+        0.592
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/performance.json",
+          "sha256": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60"
+        },
+        {
+          "path": "runs/analysis/v7.2.0/units_cuad.csv",
+          "sha256": "10caf4ac467dcfe68e61d158acb8ec0d2a0e1ccb575479162b7e89d777f811bc"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R09",
+      "claim": "v7.2.0 contractnli fixed_denominator precision/recall/F1",
+      "stated": [
+        0.623,
+        0.304,
+        0.409
+      ],
+      "recomputed": [
+        0.623,
+        0.304,
+        0.409
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/performance.json",
+          "sha256": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60"
+        },
+        {
+          "path": "runs/analysis/v7.2.0/units_contractnli.csv",
+          "sha256": "2247bd71a9a3fe07e59d4cc84fa1f4418bc92aa066bdb5daac22e00a82cc3b0f"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R10",
+      "claim": "CUAD gold labels agree between test.json and master_clauses.csv (units)",
+      "stated": 4284,
+      "recomputed": 4284,
+      "match": true,
+      "experiment": "VAL-DAY1",
+      "sources": [
+        {
+          "path": "runs/validation/20261017T021819Z/day1_validation.json",
+          "sha256": "fdbd230b46ef5c9318b309e122b4c30d527fb142d195d3e35cfb4c84c1eb13b6"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R11",
+      "claim": "Day 1 validation checks passing",
+      "stated": 19,
+      "recomputed": 19,
+      "match": true,
+      "experiment": "VAL-DAY1",
+      "sources": [
+        {
+          "path": "runs/validation/20261017T021819Z/day1_validation.json",
+          "sha256": "fdbd230b46ef5c9318b309e122b4c30d527fb142d195d3e35cfb4c84c1eb13b6"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R12-v1.0.3-iccs",
+      "claim": "v1.0.3-iccs CUAD fixed-denominator precision/recall",
+      "stated": [
+        0.712,
+        0.213
+      ],
+      "recomputed": [
+        0.712,
+        0.213
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/performance.json",
+          "sha256": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60"
+        },
+        {
+          "path": "runs/analysis/v1.0.3-iccs/units_cuad.csv",
+          "sha256": "15b16a5f8c4da6cbc75d9f8e474d6262914af11c86d9c973dfa66e30c5e04e29"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R12-v7.2.0",
+      "claim": "v7.2.0 CUAD fixed-denominator precision/recall",
+      "stated": [
+        0.663,
+        0.354
+      ],
+      "recomputed": [
+        0.663,
+        0.354
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/performance.json",
+          "sha256": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60"
+        },
+        {
+          "path": "runs/analysis/v7.2.0/units_cuad.csv",
+          "sha256": "10caf4ac467dcfe68e61d158acb8ec0d2a0e1ccb575479162b7e89d777f811bc"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R13",
+      "claim": "ICCS->v7.2.0 CUAD gold-positive units gained/lost",
+      "stated": [
+        81,
+        4
+      ],
+      "recomputed": [
+        81,
+        4
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/paired_tests.json",
+          "sha256": "7f77c5d3bcd6402344c2474410d44c290fd0967ad6d0ef1afc1429e2e0df0c48"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R13p",
+      "claim": "ICCS->v7.2.0 recall McNemar exact p < 1e-18",
+      "stated": true,
+      "recomputed": true,
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/paired_tests.json",
+          "sha256": "7f77c5d3bcd6402344c2474410d44c290fd0967ad6d0ef1afc1429e2e0df0c48"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R14",
+      "claim": "nda-3 true positives v4.0.0 -> v5.0.0 -> v7.2.0",
+      "stated": [
+        38,
+        19,
+        19
+      ],
+      "recomputed": [
+        38,
+        19,
+        19
+      ],
+      "match": true,
+      "experiment": "P4",
+      "sources": [
+        {
+          "path": "runs/analysis/v4.0.0/units_contractnli.csv",
+          "sha256": "30b7b1c8d53399db549ccbcf835b64af2f55fdcf72102f8552d7e27e938388f1"
+        },
+        {
+          "path": "runs/analysis/v5.0.0/units_contractnli.csv",
+          "sha256": "06f211059532e7bb5ddcb13d25f710971c3c27754f8b3c3cc42f1400573c177c"
+        },
+        {
+          "path": "runs/analysis/v7.2.0/units_contractnli.csv",
+          "sha256": "2247bd71a9a3fe07e59d4cc84fa1f4418bc92aa066bdb5daac22e00a82cc3b0f"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R15",
+      "claim": "ContractNLI v5->v6 gold-positive units gained (nda-18 driven)",
+      "stated": 23,
+      "recomputed": 23,
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/paired_tests.json",
+          "sha256": "7f77c5d3bcd6402344c2474410d44c290fd0967ad6d0ef1afc1429e2e0df0c48"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R16",
+      "claim": "Counterfactual: v5 with L_BROADDEF_01 reverted / v4 with new pattern (nda-3 TP)",
+      "stated": [
+        32,
+        22
+      ],
+      "recomputed": [
+        32,
+        22
+      ],
+      "match": true,
+      "experiment": "P4-CF-1",
+      "sources": [
+        {
+          "path": "runs/phase4_counterfactual/20261017T021716Z/counterfactuals.json",
+          "sha256": "e2bd00f70e03430e9e709aa260571cf846e1a3b90d070165ca76352d98ba24ea"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R17",
+      "claim": "Bisection: first commit with nda-3 drop (47->38)",
+      "stated": "13532073",
+      "recomputed": "13532073",
+      "match": true,
+      "experiment": "P4-BISECT-1",
+      "sources": [
+        {
+          "path": "runs/phase4_counterfactual/bisect_v2.1_v3.0_20261017T004907Z.json",
+          "sha256": "2a84fb324fbb60ed1953fa46cc65f77cd5d472be484a8a7fa32e699c487b35c4"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        }
+      ],
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R18",
+      "claim": "Distinct rule-definition states labelled 7.2.0",
+      "stated": 3,
+      "recomputed": 3,
+      "match": true,
+      "experiment": "VAL-DAY1/releases",
+      "sources": [
+        {
+          "path": "releases/manifest_v2.json",
+          "sha256": "6c3b103180e8b745246a37473e1583db5861a3e7de4425e2a944c13b59e6acb4"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+f5257056",
+          "engine_commit": "f5257056",
+          "ruleset_sha256": "c7781b73bcdac7c5"
+        },
+        {
+          "release": "v7.2.0+8b79a386",
+          "engine_commit": "8b79a386",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+6b9bfc8e",
+          "engine_commit": "6b9bfc8e",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R19",
+      "claim": "Distinct engine-code states labelled 7.2.0",
+      "stated": 5,
+      "recomputed": 5,
+      "match": true,
+      "experiment": "VAL-DAY1/releases",
+      "sources": [
+        {
+          "path": "releases/manifest_v2.json",
+          "sha256": "6c3b103180e8b745246a37473e1583db5861a3e7de4425e2a944c13b59e6acb4"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v7.2.0+f5257056",
+          "engine_commit": "f5257056",
+          "ruleset_sha256": "c7781b73bcdac7c5"
+        },
+        {
+          "release": "v7.2.0+8b79a386",
+          "engine_commit": "8b79a386",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+6b9bfc8e",
+          "engine_commit": "6b9bfc8e",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        },
+        {
+          "release": "v7.2.0+20294216",
+          "engine_commit": "20294216",
+          "ruleset_sha256": "cc91fb4f398aa1e1"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R20",
+      "claim": "ICCS commit rule count",
+      "stated": 25,
+      "recomputed": 25,
+      "match": true,
+      "experiment": "VAL-DAY1/releases",
+      "sources": [
+        {
+          "path": "releases/manifest_v2.json",
+          "sha256": "6c3b103180e8b745246a37473e1583db5861a3e7de4425e2a944c13b59e6acb4"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R21",
+      "claim": "Rule-count scaling exponent",
+      "stated": 1.02,
+      "recomputed": 1.02,
+      "match": true,
+      "experiment": "P4 scaling",
+      "sources": [
+        {
+          "path": "runs/analysis/scaling.json",
+          "sha256": "b0155483aa354861ff6e4c3bacf228552abc7d2f040379b88ced1bb8095aa345"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED (shape; shared-CPU timings)"
+    },
+    {
+      "id": "R22",
+      "claim": "Document-length scaling exponent range",
+      "stated": [
+        0.96,
+        1.03
+      ],
+      "recomputed": [
+        0.96,
+        1.03
+      ],
+      "match": true,
+      "experiment": "P4 scaling",
+      "sources": [
+        {
+          "path": "runs/analysis/scaling.json",
+          "sha256": "b0155483aa354861ff6e4c3bacf228552abc7d2f040379b88ced1bb8095aa345"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v2.0.0",
+          "engine_commit": "468dee0f",
+          "ruleset_sha256": "009c33f0ae929f12"
+        },
+        {
+          "release": "v2.1.0",
+          "engine_commit": "3600870f",
+          "ruleset_sha256": "aa04ed32865d8213"
+        },
+        {
+          "release": "v3.0.0",
+          "engine_commit": "decaa703",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v4.0.0",
+          "engine_commit": "623d3c72",
+          "ruleset_sha256": "72a676a9676b5bf1"
+        },
+        {
+          "release": "v5.0.0",
+          "engine_commit": "5aed1d53",
+          "ruleset_sha256": "57db7f637c4b1d73"
+        },
+        {
+          "release": "v6.0.0",
+          "engine_commit": "96cf3954",
+          "ruleset_sha256": "b2bca1c6ee96be4a"
+        },
+        {
+          "release": "v7.0.0",
+          "engine_commit": "7d4f3b19",
+          "ruleset_sha256": "2d8d0e57b4232640"
+        },
+        {
+          "release": "v7.1.0",
+          "engine_commit": "c251a6da",
+          "ruleset_sha256": "e407a1e2c2e8c524"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED (shape; shared-CPU timings)"
+    },
+    {
+      "id": "R23",
+      "claim": "S1 injection-attributable cases v7.2.0 / v1.0.3-iccs",
+      "stated": [
+        693,
+        49
+      ],
+      "recomputed": [
+        693,
+        49
+      ],
+      "match": true,
+      "experiment": "P5-SEC-INFERENCE-1 + P5-SEC-CONTROL-1",
+      "sources": [
+        {
+          "path": "runs/phase5_control/20261017T021750Z/attribution.csv",
+          "sha256": "aafcd344be925b4e4f5f30e926636fa989c806f8ac07a73d6f2964333293c6ca"
+        },
+        {
+          "path": "runs/phase5_control/20261017T021750Z/meta.json",
+          "sha256": "db5a962f3024cf64eeea29fcd84cdb4be196d8a5d7fd997e024a040d7838b0e5"
+        },
+        {
+          "path": "runs/phase5/20261017T013302Z/cases_full.jsonl",
+          "sha256": "a794a0d810235a5fdd53243aefbde3313ae0659442b67c2ec41d0970770bc9a0"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        }
+      ],
+      "status": "SUPPORTED (reconstructed suite)"
+    },
+    {
+      "id": "R24",
+      "claim": "v7.2.0 attributable cases with a finding removed",
+      "stated": 420,
+      "recomputed": 420,
+      "match": true,
+      "experiment": "P5-SEC-CONTROL-1",
+      "sources": [
+        {
+          "path": "runs/phase5_control/20261017T021750Z/stats.json",
+          "sha256": "38b4e6737ebe4a65bfdb68c61e46f563da88aefe48f2bbe76f896dad2bdfa1e0"
+        },
+        {
+          "path": "runs/phase5_control/20261017T021750Z/attribution.csv",
+          "sha256": "aafcd344be925b4e4f5f30e926636fa989c806f8ac07a73d6f2964333293c6ca"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED (reconstructed suite)"
+    },
+    {
+      "id": "R25",
+      "claim": "Paired containment ICCS vs v7.2.0 discordant cells (ICCS-only / v7.2.0-only contained)",
+      "stated": [
+        682,
+        38
+      ],
+      "recomputed": [
+        682,
+        38
+      ],
+      "match": true,
+      "experiment": "P5-SEC-CONTROL-1",
+      "sources": [
+        {
+          "path": "runs/phase5_control/20261017T021750Z/stats.json",
+          "sha256": "38b4e6737ebe4a65bfdb68c61e46f563da88aefe48f2bbe76f896dad2bdfa1e0"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        },
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED (reconstructed suite)"
+    },
+    {
+      "id": "R26",
+      "claim": "S3 explanation-layer FAIL cases (both releases)",
+      "stated": 4,
+      "recomputed": 4,
+      "match": true,
+      "experiment": "P5-SEC-INFERENCE-1",
+      "sources": [
+        {
+          "path": "runs/phase5/20261017T013302Z/cases_full.jsonl",
+          "sha256": "a794a0d810235a5fdd53243aefbde3313ae0659442b67c2ec41d0970770bc9a0"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        }
+      ],
+      "status": "SUPPORTED (stub client)"
+    },
+    {
+      "id": "R26b",
+      "claim": "Total inference-suite cases",
+      "stated": 11346,
+      "recomputed": 11346,
+      "match": true,
+      "experiment": "P5-SEC-INFERENCE-1",
+      "sources": [
+        {
+          "path": "runs/phase5/20261017T013302Z/cases_full.jsonl",
+          "sha256": "a794a0d810235a5fdd53243aefbde3313ae0659442b67c2ec41d0970770bc9a0"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        },
+        {
+          "release": "v1.0.3-iccs",
+          "engine_commit": "ae097e74",
+          "ruleset_sha256": "9bf6d61a2b107328"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R27",
+      "claim": "Proposal-path cases PASS/FAIL/BLOCKED_API",
+      "stated": [
+        35,
+        2,
+        1
+      ],
+      "recomputed": [
+        35,
+        2,
+        1
+      ],
+      "match": true,
+      "experiment": "P5-SEC-PROPOSAL-1",
+      "sources": [
+        {
+          "path": "runs/phase5_proposal/20261017T021711Z/cases_full.json",
+          "sha256": "f1bd130dd39f2d62c606bb5f353d158d6f89934effb36a533f95025ff97f9451"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "R28",
+      "claim": "Phase 2 pipeline test: targeted fixed / regressions / base findings lost",
+      "stated": [
+        2,
+        0,
+        0
+      ],
+      "recomputed": [
+        2,
+        0,
+        0
+      ],
+      "match": true,
+      "experiment": "P2-ADAPT-PIPELINE-1",
+      "sources": [
+        {
+          "path": "runs/phase2/20261017T021857Z/result.json",
+          "sha256": "26cea0e26a261c74488ce7034073c832b736df797034c60f2ad275a216789e12"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED (mechanism only; fixtures + TEST reviewers)"
+    },
+    {
+      "id": "R29",
+      "claim": "Phase 2 failure cases total / LLM generation blocked",
+      "stated": [
+        115,
+        115
+      ],
+      "recomputed": [
+        115,
+        115
+      ],
+      "match": true,
+      "experiment": "P2-ADAPT-PIPELINE-1",
+      "sources": [
+        {
+          "path": "runs/phase2/20261017T021857Z/result.json",
+          "sha256": "26cea0e26a261c74488ce7034073c832b736df797034c60f2ad275a216789e12"
+        },
+        {
+          "path": "runs/phase2/20261017T021857Z/llm_generation_status.json",
+          "sha256": "565304b8d56805f1321a9c576645cf43ce5896b2e99e0ced0b534ee45d2fdfe3"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "SUPPORTED / BLOCKED_API"
+    },
+    {
+      "id": "R30",
+      "claim": "Engine vs LexNLP McNemar discordant (engine-only / LexNLP-only correct)",
+      "stated": [
+        55,
+        57
+      ],
+      "recomputed": [
+        55,
+        57
+      ],
+      "match": true,
+      "experiment": "P6-STATS-1",
+      "sources": [
+        {
+          "path": "runs/phase6/20261017T010324Z/comparators.json",
+          "sha256": "8e5ab3700c58ccc5277fb90315695dcbc3af25497758f1763436f5a90e7b2835"
+        },
+        {
+          "path": "runs/phase6/20261017T010324Z/paired_units_engine_vs_lexnlp.csv",
+          "sha256": "0b04428539900f377e689075cfa8832f1a11f3f109776c58d5264164ca74ea12"
+        }
+      ],
+      "corpus_sha256": "3bcd0d90806f2441",
+      "releases": [
+        {
+          "release": "v7.2.0",
+          "engine_commit": "51d709e8",
+          "ruleset_sha256": "129f7be56482f9af"
+        }
+      ],
+      "status": "UNVALIDATED comparator + PRELIMINARY_MAPPING_PENDING_REVIEW"
+    },
+    {
+      "id": "R31",
+      "claim": "CUAD RoBERTa-base Step A",
+      "stated": "not reported",
+      "recomputed": "INCOMPLETE_NOT_SCORED",
+      "match": true,
+      "experiment": "P3-CUAD-STEPA",
+      "sources": [],
+      "corpus_sha256": null,
+      "releases": [],
+      "status": "INCOMPLETE_NOT_SCORED"
+    }
+  ],
+  "figures": [
+    {
+      "id": "FIG1",
+      "file": "runs/analysis/figures/day3/fig1_cuad_coverage_ci.png",
+      "data": [
+        "runs/phase6/20261017T010324Z/performance.json"
+      ],
+      "script": "plot_figures_day3.py",
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+      "file_sha256": "008cc99659db3e8ea65fcaba44b68c88bcba7306d3199cbfbd01e15b3641da40"
+    },
+    {
+      "id": "FIG2",
+      "file": "runs/analysis/figures/day3/fig2_runtime_scaling.png",
+      "data": [
+        "runs/analysis/scaling.json",
+        "runs/v7.2.0/results.jsonl"
+      ],
+      "script": "plot_figures.py",
+      "status": "SUPPORTED (shape)",
+      "file_sha256": "56acf305d189a8ec4ece0b3c87b9f97b56adf92b2c2552aedcdb51555e1ac84c"
+    },
+    {
+      "id": "FIG3",
+      "file": "runs/analysis/figures/day3/fig3_contractnli_per_hypothesis.png",
+      "data": [
+        "runs/analysis/v1.0.3-iccs/units_contractnli.csv",
+        "runs/analysis/v2.0.0/units_contractnli.csv",
+        "runs/analysis/v2.1.0/units_contractnli.csv",
+        "runs/analysis/v3.0.0/units_contractnli.csv",
+        "runs/analysis/v4.0.0/units_contractnli.csv",
+        "runs/analysis/v5.0.0/units_contractnli.csv",
+        "runs/analysis/v6.0.0/units_contractnli.csv",
+        "runs/analysis/v7.0.0/units_contractnli.csv",
+        "runs/analysis/v7.1.0/units_contractnli.csv",
+        "runs/analysis/v7.2.0/units_contractnli.csv"
+      ],
+      "script": "plot_figures_day3.py",
+      "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+      "file_sha256": "22a30beb68ed451adbff85a696d55691afc85b1d173c5c4da26fb937cf407cf8"
+    }
+  ],
+  "files": {
+    "releases/manifest_v2.json": "6c3b103180e8b745246a37473e1583db5861a3e7de4425e2a944c13b59e6acb4",
+    "runs/analysis/figures/day3/fig1_cuad_coverage_ci.png": "008cc99659db3e8ea65fcaba44b68c88bcba7306d3199cbfbd01e15b3641da40",
+    "runs/analysis/figures/day3/fig2_runtime_scaling.png": "56acf305d189a8ec4ece0b3c87b9f97b56adf92b2c2552aedcdb51555e1ac84c",
+    "runs/analysis/figures/day3/fig3_contractnli_per_hypothesis.png": "22a30beb68ed451adbff85a696d55691afc85b1d173c5c4da26fb937cf407cf8",
+    "runs/analysis/scaling.json": "b0155483aa354861ff6e4c3bacf228552abc7d2f040379b88ced1bb8095aa345",
+    "runs/analysis/v1.0.3-iccs/units_cuad.csv": "15b16a5f8c4da6cbc75d9f8e474d6262914af11c86d9c973dfa66e30c5e04e29",
+    "runs/analysis/v4.0.0/units_contractnli.csv": "30b7b1c8d53399db549ccbcf835b64af2f55fdcf72102f8552d7e27e938388f1",
+    "runs/analysis/v5.0.0/units_contractnli.csv": "06f211059532e7bb5ddcb13d25f710971c3c27754f8b3c3cc42f1400573c177c",
+    "runs/analysis/v7.2.0/units_contractnli.csv": "2247bd71a9a3fe07e59d4cc84fa1f4418bc92aa066bdb5daac22e00a82cc3b0f",
+    "runs/analysis/v7.2.0/units_cuad.csv": "10caf4ac467dcfe68e61d158acb8ec0d2a0e1ccb575479162b7e89d777f811bc",
+    "runs/determinism_crossprocess/20261017T002540Z/raw.json": "f1dba4d30840ac52aeac20e788ef4568dc7a3c3186a2efb264526e47d1c67b9c",
+    "runs/determinism_crossprocess/20261017T002540Z/summary.json": "bdb6c5b8f26a46f4419208e45bd604d2a7bcc750a7f63adf0c197307f8051005",
+    "runs/phase2/20261017T021857Z/llm_generation_status.json": "565304b8d56805f1321a9c576645cf43ce5896b2e99e0ced0b534ee45d2fdfe3",
+    "runs/phase2/20261017T021857Z/result.json": "26cea0e26a261c74488ce7034073c832b736df797034c60f2ad275a216789e12",
+    "runs/phase4_counterfactual/20261017T021716Z/counterfactuals.json": "e2bd00f70e03430e9e709aa260571cf846e1a3b90d070165ca76352d98ba24ea",
+    "runs/phase4_counterfactual/bisect_v2.1_v3.0_20261017T004907Z.json": "2a84fb324fbb60ed1953fa46cc65f77cd5d472be484a8a7fa32e699c487b35c4",
+    "runs/phase5/20261017T013302Z/cases_full.jsonl": "a794a0d810235a5fdd53243aefbde3313ae0659442b67c2ec41d0970770bc9a0",
+    "runs/phase5_control/20261017T021750Z/attribution.csv": "aafcd344be925b4e4f5f30e926636fa989c806f8ac07a73d6f2964333293c6ca",
+    "runs/phase5_control/20261017T021750Z/meta.json": "db5a962f3024cf64eeea29fcd84cdb4be196d8a5d7fd997e024a040d7838b0e5",
+    "runs/phase5_control/20261017T021750Z/stats.json": "38b4e6737ebe4a65bfdb68c61e46f563da88aefe48f2bbe76f896dad2bdfa1e0",
+    "runs/phase5_proposal/20261017T021711Z/cases_full.json": "f1bd130dd39f2d62c606bb5f353d158d6f89934effb36a533f95025ff97f9451",
+    "runs/phase6/20261017T010324Z/comparators.json": "8e5ab3700c58ccc5277fb90315695dcbc3af25497758f1763436f5a90e7b2835",
+    "runs/phase6/20261017T010324Z/paired_tests.json": "7f77c5d3bcd6402344c2474410d44c290fd0967ad6d0ef1afc1429e2e0df0c48",
+    "runs/phase6/20261017T010324Z/paired_units_engine_vs_lexnlp.csv": "0b04428539900f377e689075cfa8832f1a11f3f109776c58d5264164ca74ea12",
+    "runs/phase6/20261017T010324Z/performance.json": "741a1f76cbb2b2441299f5fe719eaf9749584febd271f23fc9945b0f1399fb60",
+    "runs/v1.0.3-iccs/results.jsonl": "9f33eea6bafe3f1d52a051e9093681e4fbb91c3ea9410068130ad1bb351e3103",
+    "runs/v1.0.3/results.jsonl": "1c5b822e2a61c5b96998fc09afeede8ea0a7d85e68b2e8523304768d0324a7f1",
+    "runs/v2.0.0/results.jsonl": "581fb14fdab8c9e6aff5fc2fce8e6d2d97f336794d5c82f73b57a87bd9901f4f",
+    "runs/v2.1.0/results.jsonl": "48f429b0b6fba5882a6747d53b17cc2ab4d2818fbd3b3b7ba2e6fc51e95c67a0",
+    "runs/v3.0.0/results.jsonl": "2922405f462ae56ce6fedb4fc68b4425e0c7549d71cc4c895be452c8ffbb6889",
+    "runs/v4.0.0/results.jsonl": "edfb81e1ade920de1d9ab68e38af085a4b3eecd3069cecc481e2608ec50183b1",
+    "runs/v5.0.0/results.jsonl": "28b5b7ae77fe2d92b5e06056caeb1ca688b1af57c588024931e5e0d19ab892b7",
+    "runs/v6.0.0/results.jsonl": "d96329ef3d02da5c90164b67d820f70b4fc0cfa6502ccffe3af17df805b36961",
+    "runs/v7.0.0/results.jsonl": "4d3c9e61c43c41a4cb7616d5aeffe2e5258624cb7abf93064ceca1bc2b531ced",
+    "runs/v7.1.0/results.jsonl": "b2a5eca6e8c09bb27a5a17e9f836179b42d425dfc3540d257b6776d379c3696c",
+    "runs/v7.2.0+20294216/results.jsonl": "e6b758ccd48a391a1ff4104cf3ece2e59a42d6b1adb5ec6fe44b912af318f876",
+    "runs/v7.2.0/results.jsonl": "62a1623e6441167a411bf531cfc7481ba96e1157d959511e455e3b71c605d05a",
+    "runs/validation/20261017T021819Z/day1_validation.json": "fdbd230b46ef5c9318b309e122b4c30d527fb142d195d3e35cfb4c84c1eb13b6"
+  },
+  "mismatches": []
+}

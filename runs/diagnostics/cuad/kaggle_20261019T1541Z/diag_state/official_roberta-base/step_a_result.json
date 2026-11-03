@@ -1,0 +1,26 @@
+{
+  "model": "roberta-base",
+  "checked_at": "2026-10-19T15:54:11.859819+00:00",
+  "questions_expected": 4182,
+  "questions_present": 4182,
+  "published": {
+    "aupr": 42.6,
+    "p_at_80r": 31.1,
+    "p_at_90r": 0.0
+  },
+  "tolerance": {
+    "aupr": 3.0,
+    "p_at_80r": 5.0
+  },
+  "reproduced": {
+    "aupr": 42.58562746289796,
+    "p_at_80r": 31.130839761315677,
+    "p_at_90r": 0
+  },
+  "delta": {
+    "aupr": -0.014372537102040894,
+    "p_at_80r": 0.030839761315675673,
+    "p_at_90r": 0.0
+  },
+  "status": "STEP_A_PASS"
+}

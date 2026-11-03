@@ -1,0 +1,27 @@
+{
+  "experiment_id": "P5-SEC-PROPOSAL-1",
+  "timestamp": "20261017T021711Z",
+  "git_commit": "de8970e8ff19993aa8354fef1c5e2807e5e0fa3f",
+  "base_release": {
+    "label": "v7.2.0",
+    "commit": "51d709e8b8c2cfdf5221e36ac51c55d515fe8dee",
+    "ruleset_sha256": "129f7be56482f9af35ebf93782840d05eb0cd91c5b367a721c7dd0cc4a31a024"
+  },
+  "summary": {
+    "PA1": {
+      "PASS": 2,
+      "BLOCKED_API": 1
+    },
+    "PA2-gate": {
+      "PASS": 17
+    },
+    "PA2-subtle": {
+      "FAIL": 1,
+      "PASS": 3
+    },
+    "PA3": {
+      "PASS": 13,
+      "FAIL": 1
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Superseded by 20261017T052400Z. This freeze detected 1 mismatch (R22): reports stated the document-length scaling exponent range as 0.97-1.03; the raw value is 0.96-1.03 (v1.0.3-iccs exponent 0.9645). Reports were corrected; nothing in runs/ was changed.

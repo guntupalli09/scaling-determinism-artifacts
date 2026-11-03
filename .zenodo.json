@@ -1,0 +1,47 @@
+{
+  "title": "Research artefacts for \"The Cost of Scaling Determinism: Coverage, Regression Risk and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis\"",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Guntupalli, Santhosh",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0003-8648-2994"
+    },
+    {
+      "name": "Laakkonen, Mika-Petri",
+      "affiliation": "Vaasa University of Applied Sciences (VAMK)"
+    }
+  ],
+  "keywords": [
+    "reproducibility",
+    "deterministic execution",
+    "neuro-symbolic systems",
+    "large language models",
+    "contract analysis",
+    "prompt injection",
+    "software regression",
+    "CUAD",
+    "ContractNLI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2103.06268",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.18653/v1/2021.findings-emnlp.164",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.48550/arXiv.2504.02864",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "description": "<p>Research artefacts for a longitudinal study of a deterministic, versioned contract-analysis rule engine across ten historical releases (25 to 189 rules). The study measures, on a frozen, hash-verified corpus of 618 contracts (SEC exhibits from the Material Contracts Corpus, plus the CUAD and ContractNLI test sets): - reproducibility; - coverage and precision; - regressions; - version governance; - lexical attack surface; - bounded rule adaptation.</p><p>It also compares the engine with reproduction-validated neural comparators (three CUAD models and ContractNLI Span NLI BERT).</p><p>Contents: - corpus and release manifests (SHA-256 of every document text, commit and ruleset/engine-code hashes of every engine   state); - the frozen category-to-rule mapping; - per-document engine outputs and output fingerprints for every run; - per-unit evaluation files; - injection cases with benign controls; - comparator code and Step A/B/C outputs with run logs; - statistics and analysis scripts; - figures.</p><p>`verify.py` (Python standard library only) checks every file against `SHA256SUMS` and recomputes the paper's Tables 3, 5 and 6. `README.md` explains how to verify the remaining results and how to rebuild the document texts from their public sources by hash.</p><p>The engine source code is proprietary and not included; its executable releases are identified by the published hashes.</p><p>Licensing: data and documentation CC BY 4.0, except short excerpts of Material Contracts Corpus documents in the engine outputs, which remain CC BY-NC-SA 4.0. Code: MIT.</p><p>Note on version 1.0: the DeBERTa-v2-xlarge Step B run on the 516 documents without expert labels was still in progress. It enters no reported metric. A later version will add it.</p>"
+}

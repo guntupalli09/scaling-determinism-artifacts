@@ -1,0 +1,15 @@
+{
+  "model": "akdeniz27/roberta-large-cuad",
+  "titles": [
+    "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement",
+    "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF",
+    "IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT"
+  ],
+  "questions": 123,
+  "features": 5371,
+  "max_query_length": 64,
+  "device": "cuda",
+  "seconds": 597.3,
+  "torch": "2.11.0+cu128",
+  "transformers": "4.57.6"
+}

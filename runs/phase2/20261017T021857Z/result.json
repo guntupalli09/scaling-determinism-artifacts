@@ -1,0 +1,137 @@
+{
+  "experiment_id": "P2-ADAPT-PIPELINE-1",
+  "timestamp": "20261017T021857Z",
+  "git_commit": "de8970e8ff19993aa8354fef1c5e2807e5e0fa3f",
+  "base_release": {
+    "label": "v7.2.0",
+    "commit": "51d709e8b8c2cfdf5221e36ac51c55d515fe8dee",
+    "ruleset_sha256": "129f7be56482f9af35ebf93782840d05eb0cd91c5b367a721c7dd0cc4a31a024"
+  },
+  "corpus_manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+  "failure_cases": {
+    "total": 115,
+    "FN": 70,
+    "FP": 45,
+    "FP_out_of_scope_for_additive_mechanism": 45
+  },
+  "llm_generation": {
+    "status": "BLOCKED_API",
+    "cases_blocked": 115
+  },
+  "fixture_proposals": [
+    {
+      "rule_id": "H_INDEM_01_A1",
+      "status": "PROPOSED",
+      "violations": [],
+      "proposal_sha256": "8941be68d332c320281ec6c2311107469e1604ae72a2df3f5df9fac77bab3dbf"
+    },
+    {
+      "rule_id": "H_ATTFEE_01_A1",
+      "status": "PROPOSED",
+      "violations": [],
+      "proposal_sha256": "163c4e670f2cdf657eb7f8f8c6e38839e5fed0c8789d77b3317409e695efd80f"
+    }
+  ],
+  "pre_review_build_refused": "proposal not approved: no review record",
+  "release": {
+    "version": "7.3.0-pipelinetest.1",
+    "base_release": "v7.2.0",
+    "base_ruleset_sha256": "129f7be56482f9af35ebf93782840d05eb0cd91c5b367a721c7dd0cc4a31a024",
+    "overlay_sha256": "e6d58c3179f7135bcdc066d2b3938323e88476566fd6ba3856cc0a99f864f4d6",
+    "release_sha256": "b11f8f0087e07b02d27693f7912aac1d76473fd94f5c23a38bbc453c3e5ebae7",
+    "pipeline_git_commit": "de8970e8ff19993aa8354fef1c5e2807e5e0fa3f",
+    "approval_entry_sha256": [
+      "65eaa25677ec89ed7535c761686c69fe91393771c34a2c8eccec5fe360b3badb",
+      "81deb70aaf5fc6c629ac596e4d771cb0402e2ee106e6fc25c34014b85cd648e8"
+    ]
+  },
+  "combined_ruleset": {
+    "rule_count": 191,
+    "ruleset_sha256": "2687851c8434379bc6f0d37db9b31aa192b885fa485c8cf72af2e79bda4b02f4"
+  },
+  "before_after_failure_cases": {
+    "targeted": 2,
+    "fixed": [
+      [
+        "emp_01",
+        "present",
+        "H_INDEM_01"
+      ],
+      [
+        "emp_01",
+        "present",
+        "H_ATTFEE_01"
+      ]
+    ]
+  },
+  "regression_iccs_assertions": {
+    "assertions": 527,
+    "passing_before": 412,
+    "passing_after": 420,
+    "regressions": [],
+    "newly_passing": [
+      [
+        "msa_01",
+        "present",
+        "H_INDEM_01"
+      ],
+      [
+        "emp_01",
+        "present",
+        "H_INDEM_01"
+      ],
+      [
+        "emp_01",
+        "present",
+        "H_ATTFEE_01"
+      ],
+      [
+        "emp_06",
+        "present",
+        "H_ATTFEE_01"
+      ],
+      [
+        "emp_12",
+        "present",
+        "H_ATTFEE_01"
+      ],
+      [
+        "emp_16",
+        "present",
+        "H_ATTFEE_01"
+      ],
+      [
+        "emp_20",
+        "present",
+        "H_ATTFEE_01"
+      ],
+      [
+        "lic_01",
+        "present",
+        "H_INDEM_01"
+      ]
+    ]
+  },
+  "corpus_additivity": {
+    "docs": 618,
+    "docs_with_any_base_finding_lost": [],
+    "added_findings_by_rule": {
+      "H_INDEM_01_A1": 1,
+      "H_ATTFEE_01_A1": 3
+    },
+    "docs_with_variance_3runs": 0
+  },
+  "gold_unit_regression": {
+    "overlay_ids_in_mapping": [],
+    "note": "overlay rule ids are not in the CUAD/ContractNLI mapping, so gold-unit predictions are unchanged by construction"
+  },
+  "ledger_verify": {
+    "ok": true,
+    "detail": "ok"
+  },
+  "labels": {
+    "candidates": "TEST FIXTURES (hand-authored)",
+    "reviewers": "TEST identities",
+    "release": "pipeline test release; not a research result about LLM adaptation"
+  }
+}

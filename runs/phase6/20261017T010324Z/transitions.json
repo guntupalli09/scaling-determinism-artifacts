@@ -1,0 +1,422 @@
+[
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v2.0.0",
+  "category": "Cap On Liability",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v2.0.0",
+  "category": "Most Favored Nation",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 1,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v2.0.0",
+  "category": "Source Code Escrow",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v2.0.0",
+  "category": "Termination For Convenience",
+  "tp_gained": 12,
+  "tp_lost": 0,
+  "fp_gained": 6,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v2.1.0",
+  "to": "v3.0.0",
+  "category": "Irrevocable Or Perpetual License",
+  "tp_gained": 2,
+  "tp_lost": 0,
+  "fp_gained": 6,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v2.1.0",
+  "to": "v3.0.0",
+  "category": "Non-Disparagement",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 2,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Cap On Liability",
+  "tp_gained": 2,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Governing Law",
+  "tp_gained": 0,
+  "tp_lost": 1,
+  "fp_gained": 0,
+  "fp_removed": 1
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Insurance",
+  "tp_gained": 20,
+  "tp_lost": 0,
+  "fp_gained": 15,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Ip Ownership Assignment",
+  "tp_gained": 5,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Notice Period To Terminate Renewal",
+  "tp_gained": 1,
+  "tp_lost": 3,
+  "fp_gained": 10,
+  "fp_removed": 10
+ },
+ {
+  "dataset": "cuad",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "Termination For Convenience",
+  "tp_gained": 12,
+  "tp_lost": 1,
+  "fp_gained": 15,
+  "fp_removed": 2
+ },
+ {
+  "dataset": "cuad",
+  "from": "v5.0.0",
+  "to": "v6.0.0",
+  "category": "Ip Ownership Assignment",
+  "tp_gained": 2,
+  "tp_lost": 0,
+  "fp_gained": 1,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v5.0.0",
+  "to": "v6.0.0",
+  "category": "Liquidated Damages",
+  "tp_gained": 4,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v5.0.0",
+  "to": "v6.0.0",
+  "category": "No-Solicit Of Employees",
+  "tp_gained": 6,
+  "tp_lost": 0,
+  "fp_gained": 5,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v6.0.0",
+  "to": "v7.0.0",
+  "category": "Insurance",
+  "tp_gained": 10,
+  "tp_lost": 0,
+  "fp_gained": 3,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v6.0.0",
+  "to": "v7.0.0",
+  "category": "Irrevocable Or Perpetual License",
+  "tp_gained": 2,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Cap On Liability",
+  "tp_gained": 3,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Governing Law",
+  "tp_gained": 0,
+  "tp_lost": 1,
+  "fp_gained": 0,
+  "fp_removed": 1
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Insurance",
+  "tp_gained": 30,
+  "tp_lost": 0,
+  "fp_gained": 18,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Ip Ownership Assignment",
+  "tp_gained": 7,
+  "tp_lost": 0,
+  "fp_gained": 1,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Irrevocable Or Perpetual License",
+  "tp_gained": 4,
+  "tp_lost": 0,
+  "fp_gained": 6,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Liquidated Damages",
+  "tp_gained": 4,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Most Favored Nation",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 1,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "No-Solicit Of Employees",
+  "tp_gained": 6,
+  "tp_lost": 0,
+  "fp_gained": 5,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Non-Disparagement",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 2,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Notice Period To Terminate Renewal",
+  "tp_gained": 1,
+  "tp_lost": 3,
+  "fp_gained": 10,
+  "fp_removed": 10
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Source Code Escrow",
+  "tp_gained": 1,
+  "tp_lost": 0,
+  "fp_gained": 0,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "Termination For Convenience",
+  "tp_gained": 23,
+  "tp_lost": 0,
+  "fp_gained": 19,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "cuad",
+  "from": "v7.2.0",
+  "to": "v7.2.0+20294216",
+  "category": "Insurance",
+  "tp_gained": 0,
+  "tp_lost": 3,
+  "fp_gained": 0,
+  "fp_removed": 4
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v1.0.3-iccs",
+  "to": "v2.0.0",
+  "category": "nda-16",
+  "tp_gained": 2,
+  "tp_lost": 0,
+  "fp_gained": 2,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v2.0.0",
+  "to": "v2.1.0",
+  "category": "nda-16",
+  "tp_gained": 0,
+  "tp_lost": 0,
+  "fp_gained": 1,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v2.1.0",
+  "to": "v3.0.0",
+  "category": "nda-16",
+  "tp_gained": 17,
+  "tp_lost": 0,
+  "fp_gained": 23,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v2.1.0",
+  "to": "v3.0.0",
+  "category": "nda-18",
+  "tp_gained": 0,
+  "tp_lost": 2,
+  "fp_gained": 0,
+  "fp_removed": 1
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v2.1.0",
+  "to": "v3.0.0",
+  "category": "nda-3",
+  "tp_gained": 0,
+  "tp_lost": 9,
+  "fp_gained": 0,
+  "fp_removed": 3
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "nda-18",
+  "tp_gained": 0,
+  "tp_lost": 1,
+  "fp_gained": 0,
+  "fp_removed": 1
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v4.0.0",
+  "to": "v5.0.0",
+  "category": "nda-3",
+  "tp_gained": 0,
+  "tp_lost": 19,
+  "fp_gained": 0,
+  "fp_removed": 6
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v5.0.0",
+  "to": "v6.0.0",
+  "category": "nda-18",
+  "tp_gained": 23,
+  "tp_lost": 0,
+  "fp_gained": 3,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "nda-16",
+  "tp_gained": 19,
+  "tp_lost": 0,
+  "fp_gained": 26,
+  "fp_removed": 0
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "nda-18",
+  "tp_gained": 20,
+  "tp_lost": 0,
+  "fp_gained": 3,
+  "fp_removed": 2
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v1.0.3-iccs",
+  "to": "v7.2.0",
+  "category": "nda-3",
+  "tp_gained": 0,
+  "tp_lost": 28,
+  "fp_gained": 0,
+  "fp_removed": 9
+ },
+ {
+  "dataset": "contractnli",
+  "from": "v7.2.0",
+  "to": "v7.2.0+20294216",
+  "category": "nda-16",
+  "tp_gained": 0,
+  "tp_lost": 2,
+  "fp_gained": 0,
+  "fp_removed": 0
+ }
+]

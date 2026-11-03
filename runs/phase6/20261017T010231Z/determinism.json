@@ -1,0 +1,287 @@
+[
+ {
+  "release": "v1.0.3-iccs",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v1.0.3-iccs/results.jsonl"
+ },
+ {
+  "release": "v2.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v2.0.0/results.jsonl"
+ },
+ {
+  "release": "v2.1.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v2.1.0/results.jsonl"
+ },
+ {
+  "release": "v3.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v3.0.0/results.jsonl"
+ },
+ {
+  "release": "v4.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v4.0.0/results.jsonl"
+ },
+ {
+  "release": "v5.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v5.0.0/results.jsonl"
+ },
+ {
+  "release": "v6.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v6.0.0/results.jsonl"
+ },
+ {
+  "release": "v7.0.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v7.0.0/results.jsonl"
+ },
+ {
+  "release": "v7.1.0",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v7.1.0/results.jsonl"
+ },
+ {
+  "release": "v7.2.0",
+  "docs": 618,
+  "runs_per_doc": 10,
+  "executions": 6180,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v7.2.0/results.jsonl"
+ },
+ {
+  "release": "v1.0.3",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v1.0.3/results.jsonl"
+ },
+ {
+  "release": "v7.2.0+20294216",
+  "docs": 618,
+  "runs_per_doc": 3,
+  "executions": 1854,
+  "docs_with_output_variance": 0,
+  "upper95_per_doc_variance_rate": 0.0048357332371694595,
+  "scope": "within-process repetitions (fresh engine per run)",
+  "source": "runs/v7.2.0+20294216/results.jsonl"
+ },
+ {
+  "release": "v1.0.3-iccs",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v1.0.3",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v2.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v2.1.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v3.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v4.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v5.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v6.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.0.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.1.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.2.0",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.2.0+f5257056",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.2.0+8b79a386",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.2.0+6b9bfc8e",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ },
+ {
+  "release": "v7.2.0+20294216",
+  "docs": 60,
+  "runs_per_doc": 6,
+  "executions": 360,
+  "docs_with_output_variance": 0,
+  "docs_with_finding_variance": 0,
+  "upper95_per_doc_variance_rate": 0.04870291331009746,
+  "scope": "separate processes, PYTHONHASHSEED varied",
+  "source": "runs/determinism_crossprocess/20261017T002540Z/summary.json"
+ }
+]

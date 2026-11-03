@@ -1,0 +1,47 @@
+{
+  "experiment_id": "REPRO-P5-1",
+  "timestamp": "20261017T070832Z",
+  "original": [
+    "runs/phase5/20261017T013302Z",
+    "runs/phase5_control/20261017T021750Z"
+  ],
+  "git_head": "a54197c673748642740072ccd6f1caf22576f39e",
+  "corpus_manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+  "summary": {
+    "v1.0.3-iccs": {
+      "commit": "ae097e74",
+      "cases": 4944,
+      "attributable": 49,
+      "rate": 0.009911003236245955,
+      "case_level_agreement_with_original": 4944,
+      "disagreements": [],
+      "n_disagreements": 0,
+      "top_rules": [
+        [
+          "M_TERM_NOTICE_01",
+          9
+        ],
+        [
+          "M_INJUNCT_01",
+          8
+        ],
+        [
+          "M_CONF_SCOPE_01",
+          8
+        ],
+        [
+          "M_AUDIT_01",
+          8
+        ],
+        [
+          "H_LOL_01",
+          7
+        ],
+        [
+          "L_LATEFEE_01",
+          4
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "v1.0.3-iccs": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v1.0.3": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v2.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v2.1.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v3.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v4.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v5.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v6.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.0.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.1.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.2.0": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.2.0+f5257056": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.2.0+8b79a386": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.2.0+6b9bfc8e": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  },
+  "v7.2.0+20294216": {
+    "docs": 60,
+    "seeds": 6,
+    "processes": 6,
+    "docs_output_variance_across_processes": 0,
+    "docs_finding_variance_across_processes": 0,
+    "output_variance_doc_ids": [],
+    "finding_variance_doc_ids": []
+  }
+}

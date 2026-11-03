@@ -1,0 +1,40 @@
+{
+  "seed": 20261016,
+  "per_type_target": 100,
+  "raw_by_type": {
+    "employment": 2455,
+    "services": 664,
+    "purchase": 1007,
+    "lease": 64
+  },
+  "exclusions": {
+    "amendment_not_restated": 488,
+    "duplicate_text": 24,
+    "joinder": 3,
+    "plan_or_award_not_agreement": 860,
+    "same_company_already_eligible": 846,
+    "termination_agreement": 27,
+    "too_long": 124,
+    "too_short": 115
+  },
+  "eligible_by_type": {
+    "employment": 730,
+    "lease": 32,
+    "purchase": 510,
+    "services": 431
+  },
+  "sample_by_type": {
+    "employment": 100,
+    "lease": 32,
+    "purchase": 100,
+    "services": 100
+  },
+  "sample_by_quarter": {
+    "2026QTR1": 172,
+    "2026QTR2": 160
+  },
+  "sample_distinct_companies": 311,
+  "sample_restated": 31,
+  "sample_chars_median": 50229,
+  "manifest_sha256": "d59c8592b8288d65c5e34afb0989c484d2f39c2829255c10707280f6458034fd"
+}

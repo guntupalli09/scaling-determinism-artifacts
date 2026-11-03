@@ -1,0 +1,18 @@
+{
+  "sanity_file": "../runs/comparators/lexnlp_sanity/20261017T004410Z/sanity.json",
+  "passing_extractors": [
+    "amounts",
+    "dates",
+    "durations",
+    "money"
+  ],
+  "categories": [
+    "Agreement Date",
+    "Cap On Liability",
+    "Expiration Date",
+    "Insurance",
+    "Notice Period To Terminate Renewal",
+    "Renewal Term",
+    "Warranty Duration"
+  ]
+}

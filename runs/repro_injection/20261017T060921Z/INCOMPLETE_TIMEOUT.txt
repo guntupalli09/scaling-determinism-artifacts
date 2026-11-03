@@ -1,0 +1,1 @@
+PARTIAL: the shell timeout (3500 s, exit 143) killed this run at ~07:07Z. cases_v7.2.0.csv is complete (4,944 cases; written only after the whole release was computed). The v1.0.3-iccs half and summary.json were never produced; the ICCS half was rerun separately (see the later runs/repro_injection/ directory). Agreement with the original is computed post hoc by repro_compare.py.

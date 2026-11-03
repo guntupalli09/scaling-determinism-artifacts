@@ -1,0 +1,84 @@
+{
+  "data": {
+    "status": "OK",
+    "at": "2026-10-17T23:25:38+00:00",
+    "manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b"
+  },
+  "cuad_deps": {
+    "status": "OK",
+    "at": "2026-10-17T23:26:06+00:00"
+  },
+  "cuad_roberta-base_step_a": {
+    "status": "STEP_A_FAIL",
+    "at": "2026-10-18T01:03:26+00:00",
+    "reproduced": {
+      "aupr": 37.70365717030697,
+      "p_at_80r": 26.795580110497237,
+      "p_at_90r": 0
+    },
+    "published": {
+      "aupr": 42.6,
+      "p_at_80r": 31.1,
+      "p_at_90r": 0.0
+    }
+  },
+  "cnli_env": {
+    "status": "OK",
+    "at": "2026-10-17T23:27:59+00:00",
+    "torch": "1.8.1+cu111"
+  },
+  "cnli_train": {
+    "status": "COMPLETE",
+    "at": "2026-10-18T06:39:20+00:00"
+  },
+  "cuad_roberta-base_step_bc": {
+    "status": "GATED_STEP_A_NOT_PASSED",
+    "at": "2026-10-18T01:03:26+00:00"
+  },
+  "cuad_roberta-large_step_a": {
+    "status": "STEP_A_FAIL",
+    "at": "2026-10-18T05:39:42+00:00",
+    "reproduced": {
+      "aupr": 44.62980640131671,
+      "p_at_80r": 34.72648055510731,
+      "p_at_90r": 0
+    },
+    "published": {
+      "aupr": 48.2,
+      "p_at_80r": 38.1,
+      "p_at_90r": 0.0
+    }
+  },
+  "cuad_roberta-large_step_bc": {
+    "status": "GATED_STEP_A_NOT_PASSED",
+    "at": "2026-10-18T05:39:42+00:00"
+  },
+  "cuad_deberta-v2-xlarge_step_a": {
+    "status": "INCOMPLETE_BUDGET",
+    "at": "2026-10-18T10:23:53+00:00",
+    "questions_done": 1649,
+    "questions_expected": 4182
+  },
+  "cnli_test": {
+    "status": "COMPLETE",
+    "at": "2026-10-18T06:54:25+00:00"
+  },
+  "cnli_step_a": {
+    "status": "STEP_A_FAIL",
+    "at": "2026-10-18T06:54:30+00:00",
+    "reproduced": {
+      "accuracy": 0.8240076518412244,
+      "f1_entailment": 0.7750127279551728,
+      "map": 0.751117830634757
+    },
+    "key_paths": {
+      "accuracy": "macro_label_micro_doc.class.accuracy",
+      "f1_entailment": "macro_label_micro_doc.class.f1_entailment",
+      "map": "micro_label_micro_doc.span.map"
+    }
+  },
+  "cnli_pairing": {
+    "status": "GATED_STEP_A_NOT_PASSED",
+    "at": "2026-10-18T06:54:30+00:00"
+  }
+}

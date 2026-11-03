@@ -1,0 +1,12 @@
+{
+  "v7.2.0": {
+    "cases": 720,
+    "fail_vs_original": 6,
+    "attributable": 0
+  },
+  "v1.0.3-iccs": {
+    "cases": 720,
+    "fail_vs_original": 32,
+    "attributable": 14
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "rule_count_scaling": {
+    "points": [
+      {
+        "release": "v1.0.3-iccs",
+        "rule_count": 25,
+        "median_seconds_per_doc": 0.041692787000101816
+      },
+      {
+        "release": "v2.0.0",
+        "rule_count": 40,
+        "median_seconds_per_doc": 0.06324532500002533
+      },
+      {
+        "release": "v2.1.0",
+        "rule_count": 52,
+        "median_seconds_per_doc": 0.09817917999998826
+      },
+      {
+        "release": "v3.0.0",
+        "rule_count": 80,
+        "median_seconds_per_doc": 0.1512178389998553
+      },
+      {
+        "release": "v4.0.0",
+        "rule_count": 80,
+        "median_seconds_per_doc": 0.14794684100024824
+      },
+      {
+        "release": "v5.0.0",
+        "rule_count": 91,
+        "median_seconds_per_doc": 0.17228474199964694
+      },
+      {
+        "release": "v6.0.0",
+        "rule_count": 117,
+        "median_seconds_per_doc": 0.2011570469999242
+      },
+      {
+        "release": "v7.0.0",
+        "rule_count": 180,
+        "median_seconds_per_doc": 0.26644800400026725
+      },
+      {
+        "release": "v7.1.0",
+        "rule_count": 185,
+        "median_seconds_per_doc": 0.34189144799984206
+      },
+      {
+        "release": "v7.2.0",
+        "rule_count": 189,
+        "median_seconds_per_doc": 0.374360409000019
+      }
+    ],
+    "fit": {
+      "exponent": 1.0245980958011307,
+      "log_intercept": -6.444672762588715,
+      "r2_loglog": 0.9831698288167132,
+      "n": 10,
+      "max_abs_log_residual": 0.1985970997637403
+    }
+  },
+  "corpus_size_scaling_by_release": {
+    "v1.0.3-iccs": {
+      "exponent": 0.9647798423043269,
+      "log_intercept": -13.003237401777454,
+      "r2_loglog": 0.9573078091322486,
+      "n": 618,
+      "max_abs_log_residual": 1.2782971551859523
+    },
+    "v2.0.0": {
+      "exponent": 0.9672724705936528,
+      "log_intercept": -12.578444218485703,
+      "r2_loglog": 0.9685049753235263,
+      "n": 618,
+      "max_abs_log_residual": 0.9745323439447455
+    },
+    "v2.1.0": {
+      "exponent": 0.9815734127594375,
+      "log_intercept": -12.33016471899157,
+      "r2_loglog": 0.9653245164180354,
+      "n": 618,
+      "max_abs_log_residual": 0.8182914340632623
+    },
+    "v3.0.0": {
+      "exponent": 0.9893777670497005,
+      "log_intercept": -11.972509934853486,
+      "r2_loglog": 0.9824210845591917,
+      "n": 618,
+      "max_abs_log_residual": 0.6090616498670705
+    },
+    "v4.0.0": {
+      "exponent": 0.9989496973084451,
+      "log_intercept": -12.11927344003099,
+      "r2_loglog": 0.9854948675820783,
+      "n": 618,
+      "max_abs_log_residual": 0.7420756826568744
+    },
+    "v5.0.0": {
+      "exponent": 0.9843416711007713,
+      "log_intercept": -11.794145343163438,
+      "r2_loglog": 0.9866530657009173,
+      "n": 618,
+      "max_abs_log_residual": 0.692824630468047
+    },
+    "v6.0.0": {
+      "exponent": 0.9939286968199046,
+      "log_intercept": -11.746233448785638,
+      "r2_loglog": 0.987702761094748,
+      "n": 618,
+      "max_abs_log_residual": 0.7108342764439355
+    },
+    "v7.0.0": {
+      "exponent": 0.9909230649028493,
+      "log_intercept": -11.442490109083266,
+      "r2_loglog": 0.9857935085722002,
+      "n": 618,
+      "max_abs_log_residual": 0.640984197745349
+    },
+    "v7.1.0": {
+      "exponent": 1.0197009473591871,
+      "log_intercept": -11.430039528503167,
+      "r2_loglog": 0.9882206660202074,
+      "n": 618,
+      "max_abs_log_residual": 0.6171883640623625
+    },
+    "v7.2.0": {
+      "exponent": 1.0340256434765238,
+      "log_intercept": -11.531031969602175,
+      "r2_loglog": 0.9867703721705858,
+      "n": 618,
+      "max_abs_log_residual": 0.696534262374396
+    }
+  },
+  "note": "Runtimes measured on one 4-core CPU container with other jobs present; compare shapes, not absolutes."
+}

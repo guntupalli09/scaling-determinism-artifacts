@@ -1,0 +1,1541 @@
+[
+ {
+  "system": "v1.0.3-iccs",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 116,
+  "fp": 47,
+  "fn": 429,
+  "precision": 0.7116564417177914,
+  "precision_ci": [
+   0.6378742536373513,
+   0.77569201737621
+  ],
+  "recall": 0.21284403669724772,
+  "recall_ci": [
+   0.1805508699402167,
+   0.24915693559257204
+  ],
+  "f1": 0.3276836158192091,
+  "f1_ci_cluster_bootstrap": [
+   0.28776978417266186,
+   0.36572890025575444
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v1.0.3-iccs/units_cuad.csv"
+ },
+ {
+  "system": "v1.0.3-iccs",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1224,
+  "docs": 102,
+  "tp": 116,
+  "fp": 47,
+  "fn": 265,
+  "precision": 0.7116564417177914,
+  "precision_ci": [
+   0.6378742536373513,
+   0.77569201737621
+  ],
+  "recall": 0.30446194225721784,
+  "recall_ci": [
+   0.2603960648766123,
+   0.3524315123986341
+  ],
+  "f1": 0.4264705882352941,
+  "f1_ci_cluster_bootstrap": [
+   0.3774403470715835,
+   0.4733727810650888
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v1.0.3-iccs/units_cuad.csv"
+ },
+ {
+  "system": "v1.0.3-iccs",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 96,
+  "fp": 10,
+  "fn": 150,
+  "precision": 0.9056603773584906,
+  "precision_ci": [
+   0.8349991318169067,
+   0.9479474975877419
+  ],
+  "recall": 0.3902439024390244,
+  "recall_ci": [
+   0.33142093925019556,
+   0.4524419943005714
+  ],
+  "f1": 0.5454545454545454,
+  "f1_ci_cluster_bootstrap": [
+   0.486322188449848,
+   0.6
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v1.0.3-iccs/units_cuad.csv"
+ },
+ {
+  "system": "v1.0.3-iccs",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 55,
+  "fp": 22,
+  "fn": 162,
+  "precision": 0.7142857142857143,
+  "precision_ci": [
+   0.605101569851323,
+   0.8031048190073408
+  ],
+  "recall": 0.2534562211981567,
+  "recall_ci": [
+   0.20021442562436764,
+   0.3152751000198488
+  ],
+  "f1": 0.3741496598639456,
+  "f1_ci_cluster_bootstrap": [
+   0.31186440677966104,
+   0.43670886075949367
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v1.0.3-iccs/units_contractnli.csv"
+ },
+ {
+  "system": "v1.0.3-iccs",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 492,
+  "docs": 123,
+  "tp": 55,
+  "fp": 22,
+  "fn": 125,
+  "precision": 0.7142857142857143,
+  "precision_ci": [
+   0.605101569851323,
+   0.8031048190073408
+  ],
+  "recall": 0.3055555555555556,
+  "recall_ci": [
+   0.242907608772987,
+   0.3763295294331559
+  ],
+  "f1": 0.4280155642023347,
+  "f1_ci_cluster_bootstrap": [
+   0.359375,
+   0.4939271255060729
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v1.0.3-iccs/units_contractnli.csv"
+ },
+ {
+  "system": "v2.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 131,
+  "fp": 54,
+  "fn": 414,
+  "precision": 0.7081081081081081,
+  "precision_ci": [
+   0.6388941063722012,
+   0.7688553383532893
+  ],
+  "recall": 0.24036697247706423,
+  "recall_ci": [
+   0.20638903717575194,
+   0.2779793620759389
+  ],
+  "f1": 0.3589041095890411,
+  "f1_ci_cluster_bootstrap": [
+   0.3165680473372781,
+   0.3994452149791956
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1530,
+  "docs": 102,
+  "tp": 131,
+  "fp": 54,
+  "fn": 283,
+  "precision": 0.7081081081081081,
+  "precision_ci": [
+   0.6388941063722012,
+   0.7688553383532893
+  ],
+  "recall": 0.3164251207729469,
+  "recall_ci": [
+   0.27348747794131945,
+   0.3627381842824442
+  ],
+  "f1": 0.4373956594323874,
+  "f1_ci_cluster_bootstrap": [
+   0.38979963570127507,
+   0.48417721518987333
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 98,
+  "fp": 11,
+  "fn": 148,
+  "precision": 0.8990825688073395,
+  "precision_ci": [
+   0.8282829507129433,
+   0.9427102716586319
+  ],
+  "recall": 0.3983739837398374,
+  "recall_ci": [
+   0.3392114131583429,
+   0.46066167346273756
+  ],
+  "f1": 0.5521126760563381,
+  "f1_ci_cluster_bootstrap": [
+   0.4939024390243902,
+   0.6071428571428572
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 57,
+  "fp": 24,
+  "fn": 160,
+  "precision": 0.7037037037037037,
+  "precision_ci": [
+   0.5968803496119962,
+   0.7920804301191869
+  ],
+  "recall": 0.2626728110599078,
+  "recall_ci": [
+   0.2086119949750444,
+   0.3249900717665845
+  ],
+  "f1": 0.38255033557046975,
+  "f1_ci_cluster_bootstrap": [
+   0.32258064516129026,
+   0.4421768707482993
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v2.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 57,
+  "fp": 24,
+  "fn": 160,
+  "precision": 0.7037037037037037,
+  "precision_ci": [
+   0.5968803496119962,
+   0.7920804301191869
+  ],
+  "recall": 0.2626728110599078,
+  "recall_ci": [
+   0.2086119949750444,
+   0.3249900717665845
+  ],
+  "f1": 0.38255033557046975,
+  "f1_ci_cluster_bootstrap": [
+   0.32258064516129026,
+   0.4421768707482993
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v2.1.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 131,
+  "fp": 54,
+  "fn": 414,
+  "precision": 0.7081081081081081,
+  "precision_ci": [
+   0.6388941063722012,
+   0.7688553383532893
+  ],
+  "recall": 0.24036697247706423,
+  "recall_ci": [
+   0.20638903717575194,
+   0.2779793620759389
+  ],
+  "f1": 0.3589041095890411,
+  "f1_ci_cluster_bootstrap": [
+   0.3165680473372781,
+   0.3994452149791956
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.1.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1632,
+  "docs": 102,
+  "tp": 131,
+  "fp": 54,
+  "fn": 315,
+  "precision": 0.7081081081081081,
+  "precision_ci": [
+   0.6388941063722012,
+   0.7688553383532893
+  ],
+  "recall": 0.2937219730941704,
+  "recall_ci": [
+   0.25335709265694234,
+   0.337609910567734
+  ],
+  "f1": 0.4152139461172742,
+  "f1_ci_cluster_bootstrap": [
+   0.36834094368340947,
+   0.4600811907983761
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.1.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 98,
+  "fp": 11,
+  "fn": 148,
+  "precision": 0.8990825688073395,
+  "precision_ci": [
+   0.8282829507129433,
+   0.9427102716586319
+  ],
+  "recall": 0.3983739837398374,
+  "recall_ci": [
+   0.3392114131583429,
+   0.46066167346273756
+  ],
+  "f1": 0.5521126760563381,
+  "f1_ci_cluster_bootstrap": [
+   0.4939024390243902,
+   0.6071428571428572
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v2.1.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 57,
+  "fp": 25,
+  "fn": 160,
+  "precision": 0.6951219512195121,
+  "precision_ci": [
+   0.5886142079093282,
+   0.7841660362411178
+  ],
+  "recall": 0.2626728110599078,
+  "recall_ci": [
+   0.2086119949750444,
+   0.3249900717665845
+  ],
+  "f1": 0.3812709030100334,
+  "f1_ci_cluster_bootstrap": [
+   0.3210702341137124,
+   0.44147157190635444
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.1.0/units_contractnli.csv"
+ },
+ {
+  "system": "v2.1.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 57,
+  "fp": 25,
+  "fn": 160,
+  "precision": 0.6951219512195121,
+  "precision_ci": [
+   0.5886142079093282,
+   0.7841660362411178
+  ],
+  "recall": 0.2626728110599078,
+  "recall_ci": [
+   0.2086119949750444,
+   0.3249900717665845
+  ],
+  "f1": 0.3812709030100334,
+  "f1_ci_cluster_bootstrap": [
+   0.3210702341137124,
+   0.44147157190635444
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v2.1.0/units_contractnli.csv"
+ },
+ {
+  "system": "v3.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 134,
+  "fp": 62,
+  "fn": 411,
+  "precision": 0.6836734693877551,
+  "precision_ci": [
+   0.6155702950603177,
+   0.7447153053503925
+  ],
+  "recall": 0.24587155963302754,
+  "recall_ci": [
+   0.2115815855726113,
+   0.2837189324228599
+  ],
+  "f1": 0.3616734143049933,
+  "f1_ci_cluster_bootstrap": [
+   0.31891891891891894,
+   0.40153452685422
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v3.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v3.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1836,
+  "docs": 102,
+  "tp": 134,
+  "fp": 62,
+  "fn": 332,
+  "precision": 0.6836734693877551,
+  "precision_ci": [
+   0.6155702950603177,
+   0.7447153053503925
+  ],
+  "recall": 0.2875536480686695,
+  "recall_ci": [
+   0.24832696711589486,
+   0.330254283522474
+  ],
+  "f1": 0.404833836858006,
+  "f1_ci_cluster_bootstrap": [
+   0.357487922705314,
+   0.4492131616595136
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v3.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v3.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 99,
+  "fp": 13,
+  "fn": 147,
+  "precision": 0.8839285714285714,
+  "precision_ci": [
+   0.8114943064197279,
+   0.9308996588369175
+  ],
+  "recall": 0.4024390243902439,
+  "recall_ci": [
+   0.34311310297706005,
+   0.46476506017917724
+  ],
+  "f1": 0.553072625698324,
+  "f1_ci_cluster_bootstrap": [
+   0.49404761904761907,
+   0.6070460704607046
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v3.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v3.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 63,
+  "fp": 44,
+  "fn": 154,
+  "precision": 0.5887850467289719,
+  "precision_ci": [
+   0.49405331165513244,
+   0.6773626927151073
+  ],
+  "recall": 0.2903225806451613,
+  "recall_ci": [
+   0.2339930584861178,
+   0.3539466315477486
+  ],
+  "f1": 0.3888888888888889,
+  "f1_ci_cluster_bootstrap": [
+   0.33226837060702874,
+   0.44705882352941173
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v3.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v3.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 63,
+  "fp": 44,
+  "fn": 154,
+  "precision": 0.5887850467289719,
+  "precision_ci": [
+   0.49405331165513244,
+   0.6773626927151073
+  ],
+  "recall": 0.2903225806451613,
+  "recall_ci": [
+   0.2339930584861178,
+   0.3539466315477486
+  ],
+  "f1": 0.3888888888888889,
+  "f1_ci_cluster_bootstrap": [
+   0.33226837060702874,
+   0.44705882352941173
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v3.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v4.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 134,
+  "fp": 62,
+  "fn": 411,
+  "precision": 0.6836734693877551,
+  "precision_ci": [
+   0.6155702950603177,
+   0.7447153053503925
+  ],
+  "recall": 0.24587155963302754,
+  "recall_ci": [
+   0.2115815855726113,
+   0.2837189324228599
+  ],
+  "f1": 0.3616734143049933,
+  "f1_ci_cluster_bootstrap": [
+   0.31891891891891894,
+   0.40153452685422
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v4.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v4.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1836,
+  "docs": 102,
+  "tp": 134,
+  "fp": 62,
+  "fn": 332,
+  "precision": 0.6836734693877551,
+  "precision_ci": [
+   0.6155702950603177,
+   0.7447153053503925
+  ],
+  "recall": 0.2875536480686695,
+  "recall_ci": [
+   0.24832696711589486,
+   0.330254283522474
+  ],
+  "f1": 0.404833836858006,
+  "f1_ci_cluster_bootstrap": [
+   0.357487922705314,
+   0.4492131616595136
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v4.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v4.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 99,
+  "fp": 13,
+  "fn": 147,
+  "precision": 0.8839285714285714,
+  "precision_ci": [
+   0.8114943064197279,
+   0.9308996588369175
+  ],
+  "recall": 0.4024390243902439,
+  "recall_ci": [
+   0.34311310297706005,
+   0.46476506017917724
+  ],
+  "f1": 0.553072625698324,
+  "f1_ci_cluster_bootstrap": [
+   0.49404761904761907,
+   0.6070460704607046
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v4.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v4.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 63,
+  "fp": 44,
+  "fn": 154,
+  "precision": 0.5887850467289719,
+  "precision_ci": [
+   0.49405331165513244,
+   0.6773626927151073
+  ],
+  "recall": 0.2903225806451613,
+  "recall_ci": [
+   0.2339930584861178,
+   0.3539466315477486
+  ],
+  "f1": 0.3888888888888889,
+  "f1_ci_cluster_bootstrap": [
+   0.33226837060702874,
+   0.44705882352941173
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v4.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v4.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 63,
+  "fp": 44,
+  "fn": 154,
+  "precision": 0.5887850467289719,
+  "precision_ci": [
+   0.49405331165513244,
+   0.6773626927151073
+  ],
+  "recall": 0.2903225806451613,
+  "recall_ci": [
+   0.2339930584861178,
+   0.3539466315477486
+  ],
+  "f1": 0.3888888888888889,
+  "f1_ci_cluster_bootstrap": [
+   0.33226837060702874,
+   0.44705882352941173
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v4.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v5.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 169,
+  "fp": 89,
+  "fn": 376,
+  "precision": 0.6550387596899225,
+  "precision_ci": [
+   0.59514248370181,
+   0.7103859087147151
+  ],
+  "recall": 0.3100917431192661,
+  "recall_ci": [
+   0.2727021882189308,
+   0.35013971512064523
+  ],
+  "f1": 0.42092154420921546,
+  "f1_ci_cluster_bootstrap": [
+   0.3780487804878049,
+   0.4604486422668241
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v5.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v5.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 1938,
+  "docs": 102,
+  "tp": 169,
+  "fp": 89,
+  "fn": 329,
+  "precision": 0.6550387596899225,
+  "precision_ci": [
+   0.59514248370181,
+   0.7103859087147151
+  ],
+  "recall": 0.3393574297188755,
+  "recall_ci": [
+   0.29914249723480013,
+   0.38203171193342667
+  ],
+  "f1": 0.4470899470899471,
+  "f1_ci_cluster_bootstrap": [
+   0.4025641025641025,
+   0.4877384196185285
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v5.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v5.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 103,
+  "fp": 12,
+  "fn": 143,
+  "precision": 0.8956521739130435,
+  "precision_ci": [
+   0.8264310767125737,
+   0.9392949658370618
+  ],
+  "recall": 0.4186991869918699,
+  "recall_ci": [
+   0.35876239560362383,
+   0.4811360736932406
+  ],
+  "f1": 0.5706371191135734,
+  "f1_ci_cluster_bootstrap": [
+   0.5098039215686274,
+   0.6282420749279538
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v5.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v5.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 43,
+  "fp": 37,
+  "fn": 174,
+  "precision": 0.5375,
+  "precision_ci": [
+   0.42904357508325447,
+   0.6425200651498536
+  ],
+  "recall": 0.19815668202764977,
+  "recall_ci": [
+   0.15057331365115192,
+   0.25624096540858976
+  ],
+  "f1": 0.2895622895622895,
+  "f1_ci_cluster_bootstrap": [
+   0.23021582733812948,
+   0.3486842105263158
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v5.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v5.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 43,
+  "fp": 37,
+  "fn": 174,
+  "precision": 0.5375,
+  "precision_ci": [
+   0.42904357508325447,
+   0.6425200651498536
+  ],
+  "recall": 0.19815668202764977,
+  "recall_ci": [
+   0.15057331365115192,
+   0.25624096540858976
+  ],
+  "f1": 0.2895622895622895,
+  "f1_ci_cluster_bootstrap": [
+   0.23021582733812948,
+   0.3486842105263158
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v5.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v6.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 181,
+  "fp": 95,
+  "fn": 364,
+  "precision": 0.6557971014492754,
+  "precision_ci": [
+   0.5979521253900969,
+   0.7093647401801321
+  ],
+  "recall": 0.3321100917431193,
+  "recall_ci": [
+   0.29386568404226304,
+   0.37270469427243463
+  ],
+  "f1": 0.4409257003654081,
+  "f1_ci_cluster_bootstrap": [
+   0.3989071038251366,
+   0.4803695150115474
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v6.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v6.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 2040,
+  "docs": 102,
+  "tp": 181,
+  "fp": 95,
+  "fn": 331,
+  "precision": 0.6557971014492754,
+  "precision_ci": [
+   0.5979521253900969,
+   0.7093647401801321
+  ],
+  "recall": 0.353515625,
+  "recall_ci": [
+   0.3133373837321848,
+   0.3958755974707906
+  ],
+  "f1": 0.4593908629441624,
+  "f1_ci_cluster_bootstrap": [
+   0.41687344913151364,
+   0.4993464052287582
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v6.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v6.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 111,
+  "fp": 18,
+  "fn": 135,
+  "precision": 0.8604651162790697,
+  "precision_ci": [
+   0.7902028179777444,
+   0.9098798277804793
+  ],
+  "recall": 0.45121951219512196,
+  "recall_ci": [
+   0.3902615807989504,
+   0.5136775007791682
+  ],
+  "f1": 0.592,
+  "f1_ci_cluster_bootstrap": [
+   0.533724340175953,
+   0.6480446927374302
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v6.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v6.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v6.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v6.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v6.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.0.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.0.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.0.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 111,
+  "fp": 18,
+  "fn": 135,
+  "precision": 0.8604651162790697,
+  "precision_ci": [
+   0.7902028179777444,
+   0.9098798277804793
+  ],
+  "recall": 0.45121951219512196,
+  "recall_ci": [
+   0.3902615807989504,
+   0.5136775007791682
+  ],
+  "f1": 0.592,
+  "f1_ci_cluster_bootstrap": [
+   0.533724340175953,
+   0.6480446927374302
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.0.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.0.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.0.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.0.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.1.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.1.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.1.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 111,
+  "fp": 18,
+  "fn": 135,
+  "precision": 0.8604651162790697,
+  "precision_ci": [
+   0.7902028179777444,
+   0.9098798277804793
+  ],
+  "recall": 0.45121951219512196,
+  "recall_ci": [
+   0.3902615807989504,
+   0.5136775007791682
+  ],
+  "f1": 0.592,
+  "f1_ci_cluster_bootstrap": [
+   0.533724340175953,
+   0.6480446927374302
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.1.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.1.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.1.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.1.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.1.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 2142,
+  "docs": 102,
+  "tp": 193,
+  "fp": 98,
+  "fn": 352,
+  "precision": 0.6632302405498282,
+  "precision_ci": [
+   0.6071164611310674,
+   0.715090600116202
+  ],
+  "recall": 0.3541284403669725,
+  "recall_ci": [
+   0.3151255203024952,
+   0.39517333298732416
+  ],
+  "f1": 0.4617224880382775,
+  "f1_ci_cluster_bootstrap": [
+   0.42079806529625147,
+   0.5006045949214026
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 111,
+  "fp": 18,
+  "fn": 135,
+  "precision": 0.8604651162790697,
+  "precision_ci": [
+   0.7902028179777444,
+   0.9098798277804793
+  ],
+  "recall": 0.45121951219512196,
+  "recall_ci": [
+   0.3902615807989504,
+   0.5136775007791682
+  ],
+  "f1": 0.592,
+  "f1_ci_cluster_bootstrap": [
+   0.533724340175953,
+   0.6480446927374302
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 66,
+  "fp": 40,
+  "fn": 151,
+  "precision": 0.6226415094339622,
+  "precision_ci": [
+   0.5276023942047245,
+   0.7091024007315645
+  ],
+  "recall": 0.30414746543778803,
+  "recall_ci": [
+   0.24678386333597252,
+   0.3683246383440126
+  ],
+  "f1": 0.4086687306501548,
+  "f1_ci_cluster_bootstrap": [
+   0.345679012345679,
+   0.47091412742382266
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_contractnli.csv"
+ },
+ {
+  "system": "v7.2.0+20294216",
+  "dataset": "cuad",
+  "subset": "fixed_denominator",
+  "units": 2142,
+  "docs": 102,
+  "tp": 190,
+  "fp": 94,
+  "fn": 355,
+  "precision": 0.6690140845070423,
+  "precision_ci": [
+   0.612349892317922,
+   0.7211670387492937
+  ],
+  "recall": 0.3486238532110092,
+  "recall_ci": [
+   0.30980178078846526,
+   0.38956495375757366
+  ],
+  "f1": 0.45838359469240053,
+  "f1_ci_cluster_bootstrap": [
+   0.4167694204685573,
+   0.49818621523579204
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0+20294216/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0+20294216",
+  "dataset": "cuad",
+  "subset": "release_scope",
+  "units": 2142,
+  "docs": 102,
+  "tp": 190,
+  "fp": 94,
+  "fn": 355,
+  "precision": 0.6690140845070423,
+  "precision_ci": [
+   0.612349892317922,
+   0.7211670387492937
+  ],
+  "recall": 0.3486238532110092,
+  "recall_ci": [
+   0.30980178078846526,
+   0.38956495375757366
+  ],
+  "f1": 0.45838359469240053,
+  "f1_ci_cluster_bootstrap": [
+   0.4167694204685573,
+   0.49818621523579204
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0+20294216/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0+20294216",
+  "dataset": "cuad",
+  "subset": "direct_mappings_only",
+  "units": 1020,
+  "docs": 102,
+  "tp": 111,
+  "fp": 18,
+  "fn": 135,
+  "precision": 0.8604651162790697,
+  "precision_ci": [
+   0.7902028179777444,
+   0.9098798277804793
+  ],
+  "recall": 0.45121951219512196,
+  "recall_ci": [
+   0.3902615807989504,
+   0.5136775007791682
+  ],
+  "f1": 0.592,
+  "f1_ci_cluster_bootstrap": [
+   0.533724340175953,
+   0.6480446927374302
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0+20294216/units_cuad.csv"
+ },
+ {
+  "system": "v7.2.0+20294216",
+  "dataset": "contractnli",
+  "subset": "fixed_denominator",
+  "units": 615,
+  "docs": 123,
+  "tp": 64,
+  "fp": 40,
+  "fn": 153,
+  "precision": 0.6153846153846154,
+  "precision_ci": [
+   0.5193615475196881,
+   0.7031873705769917
+  ],
+  "recall": 0.29493087557603687,
+  "recall_ci": [
+   0.23824947357362453,
+   0.3587464870089481
+  ],
+  "f1": 0.3987538940809968,
+  "f1_ci_cluster_bootstrap": [
+   0.3374233128834355,
+   0.4615384615384616
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0+20294216/units_contractnli.csv"
+ },
+ {
+  "system": "v7.2.0+20294216",
+  "dataset": "contractnli",
+  "subset": "release_scope",
+  "units": 615,
+  "docs": 123,
+  "tp": 64,
+  "fp": 40,
+  "fn": 153,
+  "precision": 0.6153846153846154,
+  "precision_ci": [
+   0.5193615475196881,
+   0.7031873705769917
+  ],
+  "recall": 0.29493087557603687,
+  "recall_ci": [
+   0.23824947357362453,
+   0.3587464870089481
+  ],
+  "f1": 0.3987538940809968,
+  "f1_ci_cluster_bootstrap": [
+   0.3374233128834355,
+   0.4615384615384616
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0+20294216/units_contractnli.csv"
+ },
+ {
+  "system": "LexNLP-2.3.0",
+  "dataset": "cuad",
+  "subset": "lexnlp_categories",
+  "units": 408,
+  "docs": 102,
+  "tp": 58,
+  "fp": 46,
+  "fn": 60,
+  "precision": 0.5576923076923077,
+  "precision_ci": [
+   0.4618768974382278,
+   0.6493975616101121
+  ],
+  "recall": 0.4915254237288136,
+  "recall_ci": [
+   0.40302385756405673,
+   0.5805613685292348
+  ],
+  "f1": 0.5225225225225225,
+  "f1_ci_cluster_bootstrap": [
+   0.418848167539267,
+   0.6102941176470589
+  ],
+  "status": "UNVALIDATED_NO_PUBLISHED_REFERENCE (LexNLP has no published benchmark; sanity-validated only) + PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/comparators/lexnlp/20261017T004410Z/predictions.jsonl"
+ },
+ {
+  "system": "v7.2.0",
+  "dataset": "cuad",
+  "subset": "lexnlp_categories",
+  "units": 408,
+  "docs": 102,
+  "tp": 45,
+  "fp": 35,
+  "fn": 73,
+  "precision": 0.5625,
+  "precision_ci": [
+   0.4534113421263112,
+   0.6658613915955357
+  ],
+  "recall": 0.3813559322033898,
+  "recall_ci": [
+   0.2987700435339277,
+   0.4714231217721527
+  ],
+  "f1": 0.45454545454545453,
+  "f1_ci_cluster_bootstrap": [
+   0.3689320388349514,
+   0.5294117647058824
+  ],
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": "runs/analysis/v7.2.0/units_cuad.csv"
+ }
+]

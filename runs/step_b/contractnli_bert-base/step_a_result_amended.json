@@ -1,0 +1,33 @@
+{
+  "checked_at": "2026-11-02T08:57:02.499338+00:00",
+  "backbone": "bert-base",
+  "targets": {
+    "map": 0.885,
+    "accuracy": 0.838,
+    "f1_entailment": 0.765
+  },
+  "tolerance": {
+    "map": 0.03,
+    "accuracy": 0.03,
+    "f1_entailment": 0.05
+  },
+  "reproduced": {
+    "accuracy": 0.8240076518412244,
+    "f1_entailment": 0.7750127279551728,
+    "map": 0.8635177839239071
+  },
+  "key_paths_used": {
+    "accuracy": "macro_label_micro_doc.class.accuracy",
+    "f1_entailment": "macro_label_micro_doc.class.f1_entailment",
+    "map": "micro_label_macro_doc.span.map"
+  },
+  "delta": {
+    "map": -0.021482216076092908,
+    "accuracy": -0.013992348158775592,
+    "f1_entailment": 0.010012727955172829
+  },
+  "pooled_map_preregistered_key": 0.751117830634757,
+  "preregistered_status": "STEP_A_FAIL",
+  "basis": "Protocol amendment B9, approved by Prof. Laakkonen on 2026-11-02 (review_package/DECISION_STEP_B_APPROVAL.md)",
+  "status": "STEP_A_PASS"
+}

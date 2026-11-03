@@ -1,0 +1,29 @@
+[
+ {
+  "comparison": "v7.2.0 engine vs LexNLP 2.3.0",
+  "dataset": "cuad_test",
+  "units": 408,
+  "categories": [
+   "Cap On Liability",
+   "Insurance",
+   "Notice Period To Terminate Renewal",
+   "Renewal Term"
+  ],
+  "only_a_correct": 55,
+  "only_b_correct": 57,
+  "discordant": 112,
+  "p_value": 0.9247750936572269,
+  "n_pairs": 408,
+  "status": "UNVALIDATED_NO_PUBLISHED_REFERENCE (LexNLP has no published benchmark; sanity-validated only) + PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "lexnlp_source": "runs/comparators/lexnlp/20261017T004410Z/predictions.jsonl",
+  "engine_source": "runs/analysis/v7.2.0/units_cuad.csv"
+ },
+ {
+  "comparison": "v7.2.0 engine vs CUAD RoBERTa-base",
+  "status": "NOT RUN: comparator Step A (reproduction on CUAD test split) not complete"
+ },
+ {
+  "comparison": "v7.2.0 engine vs ContractNLI Span NLI BERT",
+  "status": "BLOCKED_GPU (no released weights)"
+ }
+]

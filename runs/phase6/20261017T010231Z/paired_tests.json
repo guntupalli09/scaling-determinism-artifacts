@@ -1,0 +1,376 @@
+[
+ {
+  "dataset": "cuad",
+  "a": "v1.0.3-iccs",
+  "b": "v2.0.0",
+  "only_a_correct": 7,
+  "only_b_correct": 15,
+  "discordant": 22,
+  "p_value": 0.13380050659179688,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v1.0.3-iccs/units_cuad.csv",
+   "runs/analysis/v2.0.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v2.0.0",
+  "b": "v2.1.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v2.0.0/units_cuad.csv",
+   "runs/analysis/v2.1.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v2.1.0",
+  "b": "v3.0.0",
+  "only_a_correct": 8,
+  "only_b_correct": 3,
+  "discordant": 11,
+  "p_value": 0.2265625,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v2.1.0/units_cuad.csv",
+   "runs/analysis/v3.0.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v3.0.0",
+  "b": "v4.0.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v3.0.0/units_cuad.csv",
+   "runs/analysis/v4.0.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v4.0.0",
+  "b": "v5.0.0",
+  "only_a_correct": 45,
+  "only_b_correct": 53,
+  "discordant": 98,
+  "p_value": 0.479692499567487,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v4.0.0/units_cuad.csv",
+   "runs/analysis/v5.0.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v5.0.0",
+  "b": "v6.0.0",
+  "only_a_correct": 6,
+  "only_b_correct": 12,
+  "discordant": 18,
+  "p_value": 0.237884521484375,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v5.0.0/units_cuad.csv",
+   "runs/analysis/v6.0.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v6.0.0",
+  "b": "v7.0.0",
+  "only_a_correct": 3,
+  "only_b_correct": 12,
+  "discordant": 15,
+  "p_value": 0.03515625,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v6.0.0/units_cuad.csv",
+   "runs/analysis/v7.0.0/units_cuad.csv"
+  ],
+  "p_holm": 0.31640625,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v7.0.0",
+  "b": "v7.1.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.0.0/units_cuad.csv",
+   "runs/analysis/v7.1.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v7.1.0",
+  "b": "v7.2.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.1.0/units_cuad.csv",
+   "runs/analysis/v7.2.0/units_cuad.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v1.0.3-iccs",
+  "b": "v7.2.0",
+  "only_a_correct": 66,
+  "only_b_correct": 92,
+  "discordant": 158,
+  "p_value": 0.04636935439219191,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v1.0.3-iccs/units_cuad.csv",
+   "runs/analysis/v7.2.0/units_cuad.csv"
+  ],
+  "p_holm": null,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "cuad",
+  "a": "v7.2.0",
+  "b": "v7.2.0+20294216",
+  "only_a_correct": 3,
+  "only_b_correct": 4,
+  "discordant": 7,
+  "p_value": 1.0,
+  "n_pairs": 2142,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.2.0/units_cuad.csv",
+   "runs/analysis/v7.2.0+20294216/units_cuad.csv"
+  ],
+  "p_holm": null,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v1.0.3-iccs",
+  "b": "v2.0.0",
+  "only_a_correct": 2,
+  "only_b_correct": 2,
+  "discordant": 4,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v1.0.3-iccs/units_contractnli.csv",
+   "runs/analysis/v2.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v2.0.0",
+  "b": "v2.1.0",
+  "only_a_correct": 1,
+  "only_b_correct": 0,
+  "discordant": 1,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v2.0.0/units_contractnli.csv",
+   "runs/analysis/v2.1.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v2.1.0",
+  "b": "v3.0.0",
+  "only_a_correct": 34,
+  "only_b_correct": 21,
+  "discordant": 55,
+  "p_value": 0.10478948242660335,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v2.1.0/units_contractnli.csv",
+   "runs/analysis/v3.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 0.7335263769862235,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v3.0.0",
+  "b": "v4.0.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v3.0.0/units_contractnli.csv",
+   "runs/analysis/v4.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v4.0.0",
+  "b": "v5.0.0",
+  "only_a_correct": 20,
+  "only_b_correct": 7,
+  "discordant": 27,
+  "p_value": 0.0191572904586792,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v4.0.0/units_contractnli.csv",
+   "runs/analysis/v5.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 0.1532583236694336,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v5.0.0",
+  "b": "v6.0.0",
+  "only_a_correct": 3,
+  "only_b_correct": 23,
+  "discordant": 26,
+  "p_value": 8.797645568847656e-05,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v5.0.0/units_contractnli.csv",
+   "runs/analysis/v6.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 0.0007917881011962891,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v6.0.0",
+  "b": "v7.0.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v6.0.0/units_contractnli.csv",
+   "runs/analysis/v7.0.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v7.0.0",
+  "b": "v7.1.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.0.0/units_contractnli.csv",
+   "runs/analysis/v7.1.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v7.1.0",
+  "b": "v7.2.0",
+  "only_a_correct": 0,
+  "only_b_correct": 0,
+  "discordant": 0,
+  "p_value": 1.0,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.1.0/units_contractnli.csv",
+   "runs/analysis/v7.2.0/units_contractnli.csv"
+  ],
+  "p_holm": 1.0,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v1.0.3-iccs",
+  "b": "v7.2.0",
+  "only_a_correct": 57,
+  "only_b_correct": 50,
+  "discordant": 107,
+  "p_value": 0.5620926850537895,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v1.0.3-iccs/units_contractnli.csv",
+   "runs/analysis/v7.2.0/units_contractnli.csv"
+  ],
+  "p_holm": null,
+  "test": "exact McNemar on unit correctness (same units)"
+ },
+ {
+  "dataset": "contractnli",
+  "a": "v7.2.0",
+  "b": "v7.2.0+20294216",
+  "only_a_correct": 2,
+  "only_b_correct": 0,
+  "discordant": 2,
+  "p_value": 0.5,
+  "n_pairs": 615,
+  "status": "PRELIMINARY_MAPPING_PENDING_REVIEW",
+  "source": [
+   "runs/analysis/v7.2.0/units_contractnli.csv",
+   "runs/analysis/v7.2.0+20294216/units_contractnli.csv"
+  ],
+  "p_holm": null,
+  "test": "exact McNemar on unit correctness (same units)"
+ }
+]

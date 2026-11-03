@@ -1,0 +1,5 @@
+{"at": "2026-10-19T19:54:19Z", "step": "roberta-large:start", "note": "progress marker"}
+{"at": "2026-10-19T19:54:37Z", "step": "roberta-large:official_score", "ok": true, "status": "STEP_A_PASS", "reproduced": {"aupr": 48.249698739044945, "p_at_80r": 38.12809624911536, "p_at_90r": 0}, "published": {"aupr": 48.2, "p_at_80r": 38.1, "p_at_90r": 0.0}}
+{"at": "2026-10-19T19:55:31Z", "step": "roberta-large:weights", "ok": true, "official_tensors": 391, "community_tensors": 391, "common": 391, "max_abs_diff": 0.0}
+{"at": "2026-10-19T20:05:51Z", "step": "roberta-large:sample_validation", "ok": true, "questions": 123, "top_agree": 123, "max_abs_dp": 1.3197222571981193e-05}
+{"at": "2026-10-20T00:52:46Z", "step": "roberta-large:corrected_full", "ok": true, "label": "CORRECTED_DIAGNOSTIC (not the pre-registered Step A)", "status": "STEP_A_PASS", "reproduced": {"aupr": 48.249698739044945, "p_at_80r": 38.12809624911536, "p_at_90r": 0}, "published": {"aupr": 48.2, "p_at_80r": 38.1, "p_at_90r": 0.0}}

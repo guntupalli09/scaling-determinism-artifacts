@@ -1,0 +1,99 @@
+{
+  "label": "v4.0.0",
+  "release": {
+    "label": "v4.0.0",
+    "version": "4.0.0",
+    "commit": "623d3c72",
+    "role": "checkpoint"
+  },
+  "overall": {
+    "docs": 618,
+    "runs_per_doc": 3,
+    "docs_with_output_variance": 0,
+    "docs_with_finding_variance": 0,
+    "docs_with_any_finding": 614,
+    "findings_total": 12747,
+    "findings_per_doc_mean": 20.626,
+    "distinct_rules_fired": 79,
+    "seconds_per_doc_median": 0.1478
+  },
+  "by_slice": {
+    "cuad_test": {
+      "docs": 102,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 99,
+      "findings_total": 1852,
+      "findings_per_doc_mean": 18.157,
+      "distinct_rules_fired": 71,
+      "seconds_per_doc_median": 0.1312
+    },
+    "licensing": {
+      "docs": 61,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 60,
+      "findings_total": 1297,
+      "findings_per_doc_mean": 21.262,
+      "distinct_rules_fired": 66,
+      "seconds_per_doc_median": 0.1863
+    },
+    "mcc_employment": {
+      "docs": 100,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 100,
+      "findings_total": 1854,
+      "findings_per_doc_mean": 18.54,
+      "distinct_rules_fired": 61,
+      "seconds_per_doc_median": 0.2198
+    },
+    "mcc_lease": {
+      "docs": 32,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 32,
+      "findings_total": 1488,
+      "findings_per_doc_mean": 46.5,
+      "distinct_rules_fired": 60,
+      "seconds_per_doc_median": 0.7709
+    },
+    "mcc_purchase": {
+      "docs": 100,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 100,
+      "findings_total": 3549,
+      "findings_per_doc_mean": 35.49,
+      "distinct_rules_fired": 69,
+      "seconds_per_doc_median": 0.7736
+    },
+    "mcc_services": {
+      "docs": 100,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 100,
+      "findings_total": 1733,
+      "findings_per_doc_mean": 17.33,
+      "distinct_rules_fired": 73,
+      "seconds_per_doc_median": 0.1349
+    },
+    "nda": {
+      "docs": 123,
+      "runs_per_doc": 3,
+      "docs_with_output_variance": 0,
+      "docs_with_finding_variance": 0,
+      "docs_with_any_finding": 123,
+      "findings_total": 974,
+      "findings_per_doc_mean": 7.919,
+      "distinct_rules_fired": 47,
+      "seconds_per_doc_median": 0.0443
+    }
+  }
+}

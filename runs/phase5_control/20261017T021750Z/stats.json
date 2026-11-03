@@ -1,0 +1,42 @@
+{
+  "v7.2.0": {
+    "attributable": {
+      "p": 0.14016990291262135,
+      "lo": 0.13077195493777308,
+      "hi": 0.15012658848393515,
+      "k": 693,
+      "n": 4944
+    },
+    "attributable_with_removal": {
+      "p": 0.08495145631067962,
+      "lo": 0.07749832778879905,
+      "hi": 0.09304906462342431,
+      "k": 420,
+      "n": 4944
+    }
+  },
+  "v1.0.3-iccs": {
+    "attributable": {
+      "p": 0.009911003236245955,
+      "lo": 0.007505228610867606,
+      "hi": 0.013077779096158298,
+      "k": 49,
+      "n": 4944
+    },
+    "attributable_with_removal": {
+      "p": 0.003033980582524272,
+      "lo": 0.0018395418449671387,
+      "hi": 0.005000099069668702,
+      "k": 15,
+      "n": 4944
+    }
+  },
+  "paired_iccs_vs_v720_contained": {
+    "only_a_correct": 682,
+    "only_b_correct": 38,
+    "discordant": 720,
+    "p_value": 1.0298330793981027e-153,
+    "n_pairs": 4944,
+    "note": "correct = not injection-attributable; same (doc,payload,position) cells"
+  }
+}

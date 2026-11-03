@@ -1,0 +1,127 @@
+{
+  "experiment_id": "P4-CF-1",
+  "timestamp": "20261017T021716Z",
+  "nda3_recall_by_release": {
+    "v1.0.3-iccs": 47,
+    "v2.0.0": 47,
+    "v2.1.0": 47,
+    "v3.0.0": 38
+  },
+  "results": [
+    {
+      "from": "v4.0.0",
+      "to": "v5.0.0",
+      "rule_id": "L_BROADDEF_01",
+      "definition_changed": true,
+      "def_from": {
+        "pattern": "\\bmeans\\b.*?\\b(including|without\\s+limitation)\\b",
+        "anchors": null,
+        "nearby": null,
+        "window": 350
+      },
+      "def_to": {
+        "pattern": "\\bmeans\\b.{0,150}?\\b(including|without\\s+limitation)\\b",
+        "anchors": null,
+        "nearby": null,
+        "window": 350
+      },
+      "nda3_tp_from": 38,
+      "nda3_tp_to": 19,
+      "gold_positives": 73,
+      "to_with_rule_reverted_tp": 32,
+      "from_with_new_rule_tp": 22,
+      "attributed": false,
+      "partial": true
+    },
+    {
+      "from": "v4.0.0",
+      "to": "v5.0.0",
+      "rule_id": "M_CONF_SCOPE_01",
+      "definition_changed": false,
+      "def_from": {
+        "pattern": null,
+        "anchors": [
+          "\\bconfidential\\b"
+        ],
+        "nearby": [
+          "\\bwithout\\s+regard\\s+to\\b",
+          "\\bregardless\\s+of\\b",
+          "\\bpublic\\b.*\\bexcluded\\b"
+        ],
+        "window": 350
+      },
+      "def_to": {
+        "pattern": null,
+        "anchors": [
+          "\\bconfidential\\b"
+        ],
+        "nearby": [
+          "\\bwithout\\s+regard\\s+to\\b",
+          "\\bregardless\\s+of\\b",
+          "\\bpublic\\b.*\\bexcluded\\b"
+        ],
+        "window": 350
+      },
+      "nda3_tp_from": 38,
+      "nda3_tp_to": 19,
+      "gold_positives": 73,
+      "attributed": false
+    },
+    {
+      "from": "v2.1.0",
+      "to": "v3.0.0",
+      "rule_id": "L_BROADDEF_01",
+      "definition_changed": false,
+      "def_from": {
+        "pattern": "\\bmeans\\b.*?\\b(including|without\\s+limitation)\\b",
+        "anchors": null,
+        "nearby": null,
+        "window": 350
+      },
+      "def_to": {
+        "pattern": "\\bmeans\\b.*?\\b(including|without\\s+limitation)\\b",
+        "anchors": null,
+        "nearby": null,
+        "window": 350
+      },
+      "nda3_tp_from": 47,
+      "nda3_tp_to": 38,
+      "gold_positives": 73,
+      "attributed": false
+    },
+    {
+      "from": "v2.1.0",
+      "to": "v3.0.0",
+      "rule_id": "M_CONF_SCOPE_01",
+      "definition_changed": false,
+      "def_from": {
+        "pattern": null,
+        "anchors": [
+          "\\bconfidential\\b"
+        ],
+        "nearby": [
+          "\\bwithout\\s+regard\\s+to\\b",
+          "\\bregardless\\s+of\\b",
+          "\\bpublic\\b.*\\bexcluded\\b"
+        ],
+        "window": 350
+      },
+      "def_to": {
+        "pattern": null,
+        "anchors": [
+          "\\bconfidential\\b"
+        ],
+        "nearby": [
+          "\\bwithout\\s+regard\\s+to\\b",
+          "\\bregardless\\s+of\\b",
+          "\\bpublic\\b.*\\bexcluded\\b"
+        ],
+        "window": 350
+      },
+      "nda3_tp_from": 47,
+      "nda3_tp_to": 38,
+      "gold_positives": 73,
+      "attributed": false
+    }
+  ]
+}

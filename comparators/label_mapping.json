@@ -1,0 +1,246 @@
+{
+  "_status": "DRAFT v0 (2026-10-16) - needs review by Prof. Laakkonen and the legal reviewer before any number derived from it is reported as final.",
+  "_semantics": "Presence proxy. A gold-positive (contract, category) pair means the expert annotators marked at least one span for that category (CUAD), or labelled the hypothesis with the stated choice (ContractNLI). Our engine predicts positive when any mapped rule fires. A rule detects a RISK pattern, not mere clause presence, so 'strength' records how close the proxy is: 'direct' = the rule fires essentially whenever the clause exists; 'partial' = the rule fires on a risky subset of such clauses, so lower recall is expected by design and must not be read as a detection failure.",
+  "cuad": {
+    "Change Of Control": {
+      "rules": [
+        "H_ASSIGN_CHANGE_CTRL_01"
+      ],
+      "strength": "direct"
+    },
+    "Anti-Assignment": {
+      "rules": [
+        "H_ASSIGN_CHANGE_CTRL_01"
+      ],
+      "strength": "partial"
+    },
+    "Ip Ownership Assignment": {
+      "rules": [
+        "H_IP_01",
+        "H_IP_WORK_PRODUCT_01",
+        "H_EMPLOY_IP_ASSIGN_OVERBROAD_01"
+      ],
+      "strength": "direct"
+    },
+    "Uncapped Liability": {
+      "rules": [
+        "H_LOL_01",
+        "H_INDEM_01"
+      ],
+      "strength": "partial"
+    },
+    "Cap On Liability": {
+      "rules": [
+        "H_LOL_CARVEOUT_01",
+        "H_LOL_NO_CARVEOUT_01",
+        "H_ASYMMETRIC_LIABILITY_01"
+      ],
+      "strength": "partial"
+    },
+    "Audit Rights": {
+      "rules": [
+        "M_AUDIT_01"
+      ],
+      "strength": "direct"
+    },
+    "Non-Compete": {
+      "rules": [
+        "M_NONCOMP_01",
+        "M_FRANCHISE_NONCOMPETE_POST_TERM_BROAD_01",
+        "H_MA_NONCOMPETE_SELLER_INDEFINITE_01"
+      ],
+      "strength": "direct"
+    },
+    "No-Solicit Of Customers": {
+      "rules": [
+        "M_NONCOMP_01"
+      ],
+      "strength": "partial"
+    },
+    "No-Solicit Of Employees": {
+      "rules": [
+        "M_NONCOMP_01",
+        "M_EMPLOY_NONSOLICIT_EMPLOYEE_01"
+      ],
+      "strength": "direct"
+    },
+    "Renewal Term": {
+      "rules": [
+        "M_RENEW_01",
+        "M_RENEWAL_PRICE_01"
+      ],
+      "strength": "partial"
+    },
+    "Notice Period To Terminate Renewal": {
+      "rules": [
+        "M_TERM_NOTICE_01"
+      ],
+      "strength": "partial"
+    },
+    "Governing Law": {
+      "rules": [
+        "L_GOVLAW_01"
+      ],
+      "strength": "direct"
+    },
+    "Termination For Convenience": {
+      "rules": [
+        "H_TERM_CONVENIENCE_01",
+        "H_GOVCON_TERMINATION_CONVENIENCE_NO_COMP_01"
+      ],
+      "strength": "partial"
+    },
+    "Most Favored Nation": {
+      "rules": [
+        "M_MFN_01"
+      ],
+      "strength": "direct"
+    },
+    "Minimum Commitment": {
+      "rules": [
+        "M_MIN_COMMIT_01"
+      ],
+      "strength": "direct"
+    },
+    "Non-Disparagement": {
+      "rules": [
+        "M_NONDISPARAGE_01",
+        "M_SETTLEMENT_NONDISPARAGEMENT_PERPETUAL_01"
+      ],
+      "strength": "direct"
+    },
+    "Source Code Escrow": {
+      "rules": [
+        "L_ESCROW_01"
+      ],
+      "strength": "direct"
+    },
+    "Liquidated Damages": {
+      "rules": [
+        "M_CONSTR_LIQUIDATED_DAMAGES_UNCAPPED_01",
+        "M_SETTLEMENT_LIQUIDATED_DAMAGES_01"
+      ],
+      "strength": "partial"
+    },
+    "Insurance": {
+      "rules": [
+        "M_INSURANCE_MINIMUM_MISSING_01",
+        "M_INSURANCE_ADDITIONAL_INSURED_MISSING_01",
+        "M_INSURANCE_SUBROGATION_WAIVER_MISSING_01",
+        "M_INSURANCE_NOTICE_CANCELLATION_SHORT_01",
+        "M_INSURANCE_DEDUCTIBLE_UNCAPPED_01",
+        "H_INSURANCE_CLAIMS_MADE_GAP_01",
+        "H_INSURANCE_SELF_INSURANCE_UNCAPPED_01"
+      ],
+      "strength": "partial"
+    },
+    "Irrevocable Or Perpetual License": {
+      "rules": [
+        "H_CONTENT_LICENSE_01",
+        "H_IPLICENSE_PERPETUAL_EXCLUSIVE_NO_TERMINATION_01"
+      ],
+      "strength": "partial"
+    },
+    "Exclusivity": {
+      "rules": [
+        "H_HEALTHCARE_EXCLUSIVE_DEALING_01"
+      ],
+      "strength": "partial"
+    }
+  },
+  "contractnli": {
+    "nda-19": {
+      "choice": "Entailment",
+      "label": "Survival of obligations",
+      "rules": [
+        "M_SURVIVAL_SCOPE_01"
+      ],
+      "strength": "partial"
+    },
+    "nda-12": {
+      "choice": "Contradiction",
+      "label": "Independent development NOT permitted",
+      "rules": [
+        "M_DEV_RESTRICT_01"
+      ],
+      "strength": "direct"
+    },
+    "nda-18": {
+      "choice": "Entailment",
+      "label": "No solicitation",
+      "rules": [
+        "M_NONCOMP_01",
+        "M_EMPLOY_NONSOLICIT_EMPLOYEE_01"
+      ],
+      "strength": "direct"
+    },
+    "nda-16": {
+      "choice": "Entailment",
+      "label": "Return/destruction of CI",
+      "rules": [
+        "H_DATA_TERMINATION_01",
+        "M_DATA_DELETION_01",
+        "M_DATA_RETURN_CONDITIONAL_01"
+      ],
+      "strength": "partial"
+    },
+    "nda-3": {
+      "choice": "Entailment",
+      "label": "Verbal information included (broad scope)",
+      "rules": [
+        "M_CONF_SCOPE_01",
+        "L_BROADDEF_01"
+      ],
+      "strength": "partial"
+    }
+  },
+  "lexnlp": {
+    "_note": "LexNLP extracts typed entities, not clauses. A category is predicted present when the listed extractor returns an entity inside a sentence that matches the trigger regex. This adaptation is ours and is documented as such. Governing Law is excluded: LexNLP's geo-entity extractor needs the lexpredict-legal-dictionary data, which is no longer available at its published URL.",
+    "Renewal Term": {
+      "extractor": "durations",
+      "trigger": "renew",
+      "rules_overlap": [
+        "M_RENEW_01",
+        "M_RENEWAL_PRICE_01"
+      ]
+    },
+    "Notice Period To Terminate Renewal": {
+      "extractor": "durations",
+      "trigger": "(notice).{0,120}(renew|terminat)|(renew|terminat).{0,120}notice",
+      "rules_overlap": [
+        "M_TERM_NOTICE_01"
+      ]
+    },
+    "Cap On Liability": {
+      "extractor": "money",
+      "trigger": "liabilit",
+      "rules_overlap": [
+        "H_LOL_CARVEOUT_01",
+        "H_LOL_NO_CARVEOUT_01",
+        "H_ASYMMETRIC_LIABILITY_01"
+      ]
+    },
+    "Agreement Date": {
+      "extractor": "dates",
+      "trigger": "(dated|entered into|made)\\b.{0,80}",
+      "rules_overlap": []
+    },
+    "Expiration Date": {
+      "extractor": "durations",
+      "trigger": "(term of|expire|expiration|shall continue)",
+      "rules_overlap": []
+    },
+    "Warranty Duration": {
+      "extractor": "durations",
+      "trigger": "warrant",
+      "rules_overlap": []
+    },
+    "Insurance": {
+      "extractor": "money",
+      "trigger": "insurance",
+      "rules_overlap": [
+        "M_INSURANCE_MINIMUM_MISSING_01"
+      ]
+    }
+  }
+}

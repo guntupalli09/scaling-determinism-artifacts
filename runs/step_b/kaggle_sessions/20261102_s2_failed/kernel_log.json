@@ -1,0 +1,41 @@
+[{"stream_name":"stderr","time":7.82309147,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.823152031,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.823158756,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.823162849,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.439394287,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.439422183,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.439426692,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.439430287,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":258.642277711,"data":"resuming from /kaggle/input/datasets/santhoshguntupalli/triage-step-b-code/experiments/followup/runs/step_b/kaggle_sessions/20261102_s1/step_b_state\n"}
+,{"stream_name":"stderr","time":258.865333961,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":258.866016703,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":258.866032565,"data":"    import sys;import papermill as pm;pm.execute_notebook(\"__notebook__.ipynb\",\"__notebook__.ipynb\",progress_bar=False,log_output=True,stdout_file=sys.stdout,stderr_file=sys.stderr,allow_errors=False,timeout=43200)\n"}
+,{"stream_name":"stderr","time":258.866039382,"data":"                                      ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":258.86604457,"data":"  File \"/usr/local/lib/python3.13/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":258.866051402,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":258.866071111,"data":"    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":258.866076592,"data":"  File \"/usr/local/lib/python3.13/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":258.866082175,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":258.866087096,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":258.866091574,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":258.866096138,"data":"Exception encountered at \"In [1]\":\n"}
+,{"stream_name":"stderr","time":258.866100506,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":258.86610502,"data":"IsADirectoryError                         Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":258.866109499,"data":"/tmp/ipykernel_22/3854367575.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":258.866114317,"data":"     26     import gzip  # Kaggle unpacks .gz files in uploaded datasets: restore the chunk outputs the workers look for\n"}
+,{"stream_name":"stderr","time":258.866118996,"data":"     27     for p in glob.glob(f\"{OUT}/*/chunk_*/nbest.json\"):\n"}
+,{"stream_name":"stderr","time":258.866123496,"data":"---\u003e 28         with open(p, \"rb\") as s, gzip.open(p + \".gz.tmp\", \"wb\") as d:\n"}
+,{"stream_name":"stderr","time":258.866143472,"data":"     29             shutil.copyfileobj(s, d)\n"}
+,{"stream_name":"stderr","time":258.866146512,"data":"     30         os.replace(p + \".gz.tmp\", p + \".gz\"); os.remove(p)\n"}
+,{"stream_name":"stderr","time":258.866149676,"data":"\n"}
+,{"stream_name":"stderr","time":258.866165072,"data":"IsADirectoryError: [Errno 21] Is a directory: '/kaggle/working/step_b_state/roberta-large/chunk_0009/nbest.json'\n"}
+,{"stream_name":"stderr","time":258.866169369,"data":"\n"}
+,{"stream_name":"stderr","time":261.105703786,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":261.105733117,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":261.298661682,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":261.298690318,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":262.081493788,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":262.155925067,"data":"[NbConvertApp] Writing 8988 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":264.703630924,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":265.235816757,"data":"[NbConvertApp] Writing 299195 bytes to __results__.html\n"}
+]

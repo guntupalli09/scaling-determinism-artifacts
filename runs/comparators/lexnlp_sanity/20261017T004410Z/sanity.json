@@ -1,0 +1,127 @@
+{
+  "python": "3.8.20 (default, Oct  2 2024, 16:34:12) \n[Clang 18.1.8 ]",
+  "platform": "Linux-6.18.44-fc-v139-x86_64-with-glibc2.2.5",
+  "locale_en_US_available": true,
+  "extractors": {
+    "dates": {
+      "status": "PASS",
+      "cases": [
+        {
+          "text": "This Agreement is dated as of March 1, 2020.",
+          "expect_entity": true,
+          "got": [
+            "2020-03-01"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "The parties agree as follows.",
+          "expect_entity": false,
+          "got": [],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "Effective Date: 2019-07-15",
+          "expect_entity": true,
+          "got": [
+            "2019-07-15"
+          ],
+          "error": null,
+          "pass": true
+        }
+      ]
+    },
+    "durations": {
+      "status": "PASS",
+      "cases": [
+        {
+          "text": "This term shall continue for 3 years.",
+          "expect_entity": true,
+          "got": [
+            "('year', Decimal('3.0'), Decimal('1095.0'))"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "Notice must be given ninety (90) days in advance.",
+          "expect_entity": true,
+          "got": [
+            "('day', Decimal('90.0'), Decimal('90.0'))"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "The Supplier shall deliver the goods.",
+          "expect_entity": false,
+          "got": [],
+          "error": null,
+          "pass": true
+        }
+      ]
+    },
+    "money": {
+      "status": "PASS",
+      "cases": [
+        {
+          "text": "The fee is $100.00 per month.",
+          "expect_entity": true,
+          "got": [
+            "(Decimal('100.00'), 'USD')"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "Liability shall not exceed USD 1,000,000.",
+          "expect_entity": true,
+          "got": [
+            "(Decimal('1000000.0'), 'USD')"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "Each party shall bear its own costs.",
+          "expect_entity": false,
+          "got": [],
+          "error": null,
+          "pass": true
+        }
+      ]
+    },
+    "amounts": {
+      "status": "PASS",
+      "cases": [
+        {
+          "text": "a total of 25 units",
+          "expect_entity": true,
+          "got": [
+            "25.0"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "three hundred shares",
+          "expect_entity": true,
+          "got": [
+            "300.0"
+          ],
+          "error": null,
+          "pass": true
+        },
+        {
+          "text": "no numbers here",
+          "expect_entity": false,
+          "got": [],
+          "error": null,
+          "pass": true
+        }
+      ]
+    }
+  }
+}

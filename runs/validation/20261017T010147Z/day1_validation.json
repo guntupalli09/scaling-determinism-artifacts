@@ -1,0 +1,579 @@
+{
+  "experiment_id": "VAL-DAY1",
+  "started": "2026-10-17T01:00:53.467510+00:00",
+  "finished": "2026-10-17T01:01:33.154416+00:00",
+  "git_head": "ec32d703844ded3c945915f682ce56a8e86a5c6b",
+  "checks": [
+    {
+      "check": "corpus.manifest_sha256_matches_recorded",
+      "status": "PASS",
+      "detail": {
+        "recorded": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+        "actual": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b"
+      }
+    },
+    {
+      "check": "corpus.row_count_618",
+      "status": "PASS",
+      "detail": {
+        "rows": 618
+      }
+    },
+    {
+      "check": "corpus.doc_ids_unique",
+      "status": "PASS",
+      "detail": {
+        "duplicates": []
+      }
+    },
+    {
+      "check": "corpus.all_text_hashes_match",
+      "status": "PASS",
+      "detail": {
+        "mismatches": [],
+        "n_checked": 618
+      }
+    },
+    {
+      "check": "corpus.slice_counts",
+      "status": "PASS",
+      "detail": {
+        "mcc_employment": 100,
+        "mcc_lease": 32,
+        "mcc_purchase": 100,
+        "mcc_services": 100,
+        "nda": 123,
+        "licensing": 61,
+        "cuad_test": 102
+      }
+    },
+    {
+      "check": "corpus.cnli_cuad_texts_rederived_from_source",
+      "status": "PASS",
+      "detail": {
+        "mismatches": []
+      }
+    },
+    {
+      "check": "corpus.mcc_sample_reextract_hash_ok",
+      "status": "PASS",
+      "detail": {
+        "n": 25
+      }
+    },
+    {
+      "check": "corpus.mcc_sample_independent_extractor_len_within_8pct",
+      "status": "PASS",
+      "detail": {
+        "max_len_diff_pct": 1.29
+      }
+    },
+    {
+      "check": "corpus.mcc_no_bare_amendments",
+      "status": "PASS",
+      "detail": {
+        "violations": []
+      }
+    },
+    {
+      "check": "corpus.mcc_one_per_company_per_type",
+      "status": "PASS",
+      "detail": {
+        "max_per_company_type": 1
+      }
+    },
+    {
+      "check": "releases.all_hashes_reproduce_from_fresh_checkout",
+      "status": "PASS",
+      "detail": {
+        "mismatches": []
+      }
+    },
+    {
+      "check": "releases.iccs_state_has_25_rules",
+      "status": "PASS",
+      "detail": {
+        "rule_count": 25
+      }
+    },
+    {
+      "check": "baseline.v7.2.0_precedes_mcc_introduction",
+      "status": "PASS",
+      "detail": {
+        "baseline_commit": "51d709e8",
+        "baseline_commit_date": "2026-07-31T07:59:35+00:00",
+        "mcc_introduced_commit": "035d3e21",
+        "mcc_introduced_date": "2026-08-01T22:24:02-05:00",
+        "baseline_tree_contains_mcc": false,
+        "baseline_is_ancestor_of_mcc_commit": true
+      }
+    },
+    {
+      "check": "runs.no_duplicate_or_missing_docs",
+      "status": "PASS",
+      "detail": {
+        "v1.0.3-iccs": [
+          618,
+          618
+        ],
+        "v1.0.3": [
+          618,
+          618
+        ],
+        "v2.0.0": [
+          618,
+          618
+        ],
+        "v2.1.0": [
+          618,
+          618
+        ],
+        "v3.0.0": [
+          618,
+          618
+        ],
+        "v4.0.0": [
+          618,
+          618
+        ],
+        "v5.0.0": [
+          618,
+          618
+        ],
+        "v6.0.0": [
+          618,
+          618
+        ],
+        "v7.0.0": [
+          618,
+          618
+        ],
+        "v7.1.0": [
+          618,
+          618
+        ],
+        "v7.2.0": [
+          618,
+          618
+        ],
+        "v7.2.0+20294216": [
+          618,
+          618
+        ]
+      }
+    },
+    {
+      "check": "runs.total_executions_26574",
+      "status": "PASS",
+      "detail": {
+        "total": 26574
+      }
+    },
+    {
+      "check": "runs.zero_variance_all_releases",
+      "status": "PASS",
+      "detail": {
+        "v1.0.3-iccs": 0,
+        "v1.0.3": 0,
+        "v2.0.0": 0,
+        "v2.1.0": 0,
+        "v3.0.0": 0,
+        "v4.0.0": 0,
+        "v5.0.0": 0,
+        "v6.0.0": 0,
+        "v7.0.0": 0,
+        "v7.1.0": 0,
+        "v7.2.0": 0,
+        "v7.2.0+20294216": 0
+      }
+    },
+    {
+      "check": "reexec.sample_matches_stored_outputs",
+      "status": "PASS",
+      "detail": {
+        "v1.0.3-iccs": {
+          "n": 30,
+          "mismatches": []
+        },
+        "v5.0.0": {
+          "n": 30,
+          "mismatches": []
+        },
+        "v7.2.0": {
+          "n": 30,
+          "mismatches": []
+        }
+      }
+    },
+    {
+      "check": "scoring.gold_test_json_vs_master_clauses_agree",
+      "status": "PASS",
+      "detail": {
+        "agree": 4284,
+        "disagree": 0,
+        "examples": [],
+        "missing": []
+      }
+    },
+    {
+      "check": "scoring.independent_recount_matches_report",
+      "status": "PASS",
+      "detail": {
+        "v1.0.3-iccs": {
+          "independent": {
+            "tp": 116,
+            "fp": 47,
+            "fn": 429
+          },
+          "reported": {
+            "tp": 116,
+            "fp": 47,
+            "fn": 429
+          }
+        },
+        "v7.2.0": {
+          "independent": {
+            "tp": 193,
+            "fp": 98,
+            "fn": 352
+          },
+          "reported": {
+            "tp": 193,
+            "fp": 98,
+            "fn": 352
+          }
+        }
+      }
+    }
+  ],
+  "release_table": [
+    {
+      "label": "v1.0.3-iccs",
+      "commit": "ae097e74",
+      "date": "2026-01-15T12:09:21-06:00",
+      "version_json": "1.0.3",
+      "rule_count": 25,
+      "ruleset_sha256": "9bf6d61a2b10732899a41beb992019c945407d5edf2d12f0214e4bb5478df35d",
+      "matches_manifest": true
+    },
+    {
+      "label": "v1.0.3",
+      "commit": "1a270a56",
+      "date": "2026-01-27T17:13:38-06:00",
+      "version_json": "1.0.3",
+      "rule_count": 25,
+      "ruleset_sha256": "9bf6d61a2b10732899a41beb992019c945407d5edf2d12f0214e4bb5478df35d",
+      "matches_manifest": true
+    },
+    {
+      "label": "v2.0.0",
+      "commit": "468dee0f",
+      "date": "2026-06-26T22:46:56+00:00",
+      "version_json": "2.0.0",
+      "rule_count": 40,
+      "ruleset_sha256": "009c33f0ae929f12c801d76a8a9fc1451104ee6ea9562aab07c6f15c51b7196c",
+      "matches_manifest": true
+    },
+    {
+      "label": "v2.1.0",
+      "commit": "3600870f",
+      "date": "2026-06-30T00:49:18+00:00",
+      "version_json": "2.1.0",
+      "rule_count": 52,
+      "ruleset_sha256": "aa04ed32865d82135957e874ce2addc869dabee53a0d9306adff3ad925be40b4",
+      "matches_manifest": true
+    },
+    {
+      "label": "v3.0.0",
+      "commit": "decaa703",
+      "date": "2026-07-13T22:21:00+00:00",
+      "version_json": "3.0.0",
+      "rule_count": 80,
+      "ruleset_sha256": "72a676a9676b5bf17b07c6b35b5a390ad35698844e3acb776f7208c24a592afd",
+      "matches_manifest": true
+    },
+    {
+      "label": "v4.0.0",
+      "commit": "623d3c72",
+      "date": "2026-07-16T01:36:03+00:00",
+      "version_json": "4.0.0",
+      "rule_count": 80,
+      "ruleset_sha256": "72a676a9676b5bf17b07c6b35b5a390ad35698844e3acb776f7208c24a592afd",
+      "matches_manifest": true
+    },
+    {
+      "label": "v5.0.0",
+      "commit": "5aed1d53",
+      "date": "2026-07-19T23:58:08+00:00",
+      "version_json": "5.0.0",
+      "rule_count": 91,
+      "ruleset_sha256": "57db7f637c4b1d7320c7a2c081f3ec534f1765e4e5e0e1b0cd98c506499b460e",
+      "matches_manifest": true
+    },
+    {
+      "label": "v6.0.0",
+      "commit": "96cf3954",
+      "date": "2026-07-22T04:52:34+00:00",
+      "version_json": "6.0.0",
+      "rule_count": 117,
+      "ruleset_sha256": "b2bca1c6ee96be4a16064e0efc7a58272bd2639737814e6249a2578be8292d3e",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.0.0",
+      "commit": "7d4f3b19",
+      "date": "2026-07-24T04:52:55+00:00",
+      "version_json": "7.0.0",
+      "rule_count": 180,
+      "ruleset_sha256": "2d8d0e57b42326405be2e24d13de91a94081e849db36daaa7570810a1e9bf8ec",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.1.0",
+      "commit": "c251a6da",
+      "date": "2026-07-31T07:41:59+00:00",
+      "version_json": "7.1.0",
+      "rule_count": 185,
+      "ruleset_sha256": "e407a1e2c2e8c524e8ccefd3aca434959ee29f5552dfd204e4550731c301fd55",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.2.0",
+      "commit": "51d709e8",
+      "date": "2026-07-31T07:59:35+00:00",
+      "version_json": "7.2.0",
+      "rule_count": 189,
+      "ruleset_sha256": "129f7be56482f9af35ebf93782840d05eb0cd91c5b367a721c7dd0cc4a31a024",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.2.0+f5257056",
+      "commit": "f5257056",
+      "date": "2026-08-08T03:13:42+00:00",
+      "version_json": "7.2.0",
+      "rule_count": 189,
+      "ruleset_sha256": "c7781b73bcdac7c5777150edba0a54e4837e952789fceaf780be6bffdee4c06a",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.2.0+8b79a386",
+      "commit": "8b79a386",
+      "date": "2026-08-08T06:30:07+00:00",
+      "version_json": "7.2.0",
+      "rule_count": 189,
+      "ruleset_sha256": "cc91fb4f398aa1e184edf32d38e1a66e1ae0d72f110e5c85786767307fb429ac",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.2.0+6b9bfc8e",
+      "commit": "6b9bfc8e",
+      "date": "2026-09-07T15:47:45+00:00",
+      "version_json": "7.2.0",
+      "rule_count": 189,
+      "ruleset_sha256": "cc91fb4f398aa1e184edf32d38e1a66e1ae0d72f110e5c85786767307fb429ac",
+      "matches_manifest": true
+    },
+    {
+      "label": "v7.2.0+20294216",
+      "commit": "20294216",
+      "date": "2026-09-10T01:28:34-05:00",
+      "version_json": "7.2.0",
+      "rule_count": 189,
+      "ruleset_sha256": "cc91fb4f398aa1e184edf32d38e1a66e1ae0d72f110e5c85786767307fb429ac",
+      "matches_manifest": true
+    }
+  ],
+  "commits_labelled_7_2_0": [
+    {
+      "commit": "20294216",
+      "date": "2026-09-10T01:28:34-05:00"
+    },
+    {
+      "commit": "6b9bfc8e",
+      "date": "2026-09-07T15:47:45+00:00"
+    },
+    {
+      "commit": "8b79a386",
+      "date": "2026-08-08T06:30:07+00:00"
+    },
+    {
+      "commit": "f5257056",
+      "date": "2026-08-08T03:13:42+00:00"
+    },
+    {
+      "commit": "51d709e8",
+      "date": "2026-07-31T07:59:35+00:00"
+    }
+  ],
+  "baseline_vs_mcc": {
+    "baseline_commit": "51d709e8",
+    "baseline_commit_date": "2026-07-31T07:59:35+00:00",
+    "mcc_introduced_commit": "035d3e21",
+    "mcc_introduced_date": "2026-08-01T22:24:02-05:00",
+    "baseline_tree_contains_mcc": false,
+    "baseline_is_ancestor_of_mcc_commit": true
+  },
+  "runs": {
+    "v1.0.3-iccs": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v1.0.3": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v2.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v2.1.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v3.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v4.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v5.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v6.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v7.0.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v7.1.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v7.2.0": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 6180,
+      "runs_per_doc": [
+        10
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    },
+    "v7.2.0+20294216": {
+      "lines": 618,
+      "unique_docs": 618,
+      "executions": 1854,
+      "runs_per_doc": [
+        3
+      ],
+      "docs_output_variance": 0,
+      "docs_finding_variance": 0
+    }
+  },
+  "total_executions": 26574,
+  "reexecution": {
+    "v1.0.3-iccs": {
+      "n": 30,
+      "mismatches": []
+    },
+    "v5.0.0": {
+      "n": 30,
+      "mismatches": []
+    },
+    "v7.2.0": {
+      "n": 30,
+      "mismatches": []
+    }
+  },
+  "scoring": {
+    "v1.0.3-iccs": {
+      "independent": {
+        "tp": 116,
+        "fp": 47,
+        "fn": 429
+      },
+      "reported": {
+        "tp": 116,
+        "fp": 47,
+        "fn": 429
+      }
+    },
+    "v7.2.0": {
+      "independent": {
+        "tp": 193,
+        "fp": 98,
+        "fn": 352
+      },
+      "reported": {
+        "tp": 193,
+        "fp": 98,
+        "fn": 352
+      }
+    }
+  }
+}
