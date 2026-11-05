@@ -4,6 +4,8 @@ title: 'Research artefacts for "The Cost of Scaling Determinism: Coverage, Regre
 type: dataset
 version: "1.0"
 license: CC-BY-4.0
+# Metadata default only; archive includes MIT code and MCC-derived CC-BY-NC-SA-4.0 excerpts.
+# See LICENSE and RELEASE_DISCLOSURE_AUDIT.md before redistributing individual files.
 authors:
   - family-names: Guntupalli
     given-names: Santhosh

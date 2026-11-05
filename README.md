@@ -1,7 +1,7 @@
 # Research artefacts: The Cost of Scaling Determinism
 
 Research artefacts for S. Guntupalli and M.-P. Laakkonen, *The Cost of Scaling Determinism: Coverage, Regression Risk
-and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis* (submitted to the Journal
+and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis* (manuscript prepared for submission to the Journal
 of Computational Science).
 
 The contract-analysis engine studied in the paper is proprietary and is **not** included. Its executable releases are
@@ -72,8 +72,7 @@ is documented. They need the proprietary engine to run. Their recorded outputs a
 
 ## Licence
 
-Data and documentation in this package: CC BY 4.0, except excerpts of MCC documents, which remain CC BY-NC-SA 4.0. Code:
-MIT.
+This is a **mixed-license archive**, not a blanket CC BY 4.0 release. Original data and documentation authored for this study: CC BY 4.0. Original Python and shell code: MIT. Short excerpts derived from the Material Contracts Corpus (MCC) in recorded outputs retain the source CC BY-NC-SA 4.0 restrictions, including noncommercial use and share-alike where applicable. Third-party files, model outputs and dataset-derived text are not relicensed by this repository. See `LICENSE` and `RELEASE_DISCLOSURE_AUDIT.md`; inspect each file's provenance before reuse.
 
 ## Contact
 
