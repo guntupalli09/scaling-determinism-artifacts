@@ -21,3 +21,11 @@ Data and documentation (all other files) are released under the Creative Commons
 licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/), except short excerpts of Material Contracts Corpus
 documents contained in the engine outputs, which remain under CC BY-NC-SA 4.0
 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+IMPORTANT SCOPE AND THIRD-PARTY RIGHTS
+
+This repository is a mixed-license research archive. The CC BY 4.0 declaration above covers only original data and documentation over which the authors hold redistribution rights; it does not override upstream terms or grant rights to third-party content. The MIT grant covers only original code the authors have authority to license, not copied third-party dependencies or code.
+
+MCC-derived excerpts embedded in recorded engine outputs remain subject to the Material Contracts Corpus source CC BY-NC-SA 4.0 terms; users must comply with the noncommercial and share-alike restrictions where applicable. Other source documents and derived outputs (including CUAD, ContractNLI, and SEC filing text) require source-specific attribution and rights checks. Public availability does not, by itself, establish permission to redistribute. The presence of a SHA-256 checksum establishes integrity only, not redistribution permission.
+
+The Zenodo record-level license is a metadata default, not a blanket license for all files. See RELEASE_DISCLOSURE_AUDIT.md for the pre-release audit and remaining manual clearance requirements.
