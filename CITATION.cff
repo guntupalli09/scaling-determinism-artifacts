@@ -12,6 +12,7 @@ authors:
   - family-names: Laakkonen
     given-names: Mika-Petri
     affiliation: Vaasa University of Applied Sciences (VAMK)
+    orcid: "https://orcid.org/0000-0003-3230-7958"
 keywords:
   - reproducibility
   - deterministic execution
