@@ -1,0 +1,11 @@
+{
+  "pooled_map_independent": 0.751117830634757,
+  "pooled_map_authors_evaluator": 0.751117830634757,
+  "per_query_map_independent": 0.8635177839239067,
+  "per_query_map_authors_evaluator": 0.8635177839239071,
+  "queries": 1188,
+  "paper_definition": "mAP micro averaged over labels (per-query mean AP); Koreeda & Manning 2021, sec. 4.2",
+  "paper_target_bert_base": 0.885,
+  "preregistered_key": "micro_label_micro_doc.span.map (pooled)",
+  "status_note": "Diagnostic only. The pre-registered Step A result (STEP_A_FAIL, pooled mAP .751) is unchanged."
+}

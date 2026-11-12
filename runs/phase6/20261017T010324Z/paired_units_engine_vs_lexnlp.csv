@@ -1,0 +1,409 @@
+doc_id,category,gold,engine,lexnlp
+cuad_test_001,Cap On Liability,False,False,False
+cuad_test_001,Renewal Term,False,False,False
+cuad_test_001,Notice Period To Terminate Renewal,False,False,False
+cuad_test_001,Insurance,False,True,False
+cuad_test_002,Cap On Liability,True,False,True
+cuad_test_002,Renewal Term,False,False,False
+cuad_test_002,Notice Period To Terminate Renewal,False,False,False
+cuad_test_002,Insurance,True,True,False
+cuad_test_003,Cap On Liability,True,False,False
+cuad_test_003,Renewal Term,False,False,False
+cuad_test_003,Notice Period To Terminate Renewal,False,True,True
+cuad_test_003,Insurance,False,True,False
+cuad_test_004,Cap On Liability,False,False,False
+cuad_test_004,Renewal Term,False,False,False
+cuad_test_004,Notice Period To Terminate Renewal,False,False,False
+cuad_test_004,Insurance,False,True,False
+cuad_test_005,Cap On Liability,False,False,False
+cuad_test_005,Renewal Term,False,False,False
+cuad_test_005,Notice Period To Terminate Renewal,False,True,True
+cuad_test_005,Insurance,True,True,False
+cuad_test_006,Cap On Liability,False,False,False
+cuad_test_006,Renewal Term,True,False,True
+cuad_test_006,Notice Period To Terminate Renewal,True,False,True
+cuad_test_006,Insurance,True,True,False
+cuad_test_007,Cap On Liability,False,False,False
+cuad_test_007,Renewal Term,False,False,False
+cuad_test_007,Notice Period To Terminate Renewal,False,False,True
+cuad_test_007,Insurance,False,False,False
+cuad_test_008,Cap On Liability,False,False,False
+cuad_test_008,Renewal Term,False,False,False
+cuad_test_008,Notice Period To Terminate Renewal,False,False,True
+cuad_test_008,Insurance,False,False,False
+cuad_test_009,Cap On Liability,True,False,True
+cuad_test_009,Renewal Term,False,False,False
+cuad_test_009,Notice Period To Terminate Renewal,False,False,True
+cuad_test_009,Insurance,True,True,True
+cuad_test_010,Cap On Liability,False,False,False
+cuad_test_010,Renewal Term,True,False,True
+cuad_test_010,Notice Period To Terminate Renewal,True,False,True
+cuad_test_010,Insurance,False,False,False
+cuad_test_011,Cap On Liability,False,False,False
+cuad_test_011,Renewal Term,False,False,False
+cuad_test_011,Notice Period To Terminate Renewal,False,True,False
+cuad_test_011,Insurance,False,True,False
+cuad_test_012,Cap On Liability,False,False,False
+cuad_test_012,Renewal Term,True,False,False
+cuad_test_012,Notice Period To Terminate Renewal,False,False,True
+cuad_test_012,Insurance,True,False,True
+cuad_test_013,Cap On Liability,True,False,False
+cuad_test_013,Renewal Term,True,False,True
+cuad_test_013,Notice Period To Terminate Renewal,True,False,True
+cuad_test_013,Insurance,False,False,False
+cuad_test_014,Cap On Liability,False,False,False
+cuad_test_014,Renewal Term,False,False,False
+cuad_test_014,Notice Period To Terminate Renewal,False,False,False
+cuad_test_014,Insurance,False,False,False
+cuad_test_015,Cap On Liability,False,False,False
+cuad_test_015,Renewal Term,True,False,False
+cuad_test_015,Notice Period To Terminate Renewal,False,False,True
+cuad_test_015,Insurance,False,False,False
+cuad_test_016,Cap On Liability,True,False,True
+cuad_test_016,Renewal Term,False,False,False
+cuad_test_016,Notice Period To Terminate Renewal,False,False,False
+cuad_test_016,Insurance,True,True,True
+cuad_test_017,Cap On Liability,True,False,False
+cuad_test_017,Renewal Term,False,False,False
+cuad_test_017,Notice Period To Terminate Renewal,False,False,True
+cuad_test_017,Insurance,False,False,False
+cuad_test_018,Cap On Liability,False,False,False
+cuad_test_018,Renewal Term,False,False,False
+cuad_test_018,Notice Period To Terminate Renewal,False,False,False
+cuad_test_018,Insurance,False,False,False
+cuad_test_019,Cap On Liability,False,False,False
+cuad_test_019,Renewal Term,False,False,False
+cuad_test_019,Notice Period To Terminate Renewal,False,False,False
+cuad_test_019,Insurance,True,True,False
+cuad_test_020,Cap On Liability,True,False,False
+cuad_test_020,Renewal Term,False,False,False
+cuad_test_020,Notice Period To Terminate Renewal,False,True,True
+cuad_test_020,Insurance,False,False,False
+cuad_test_021,Cap On Liability,True,False,False
+cuad_test_021,Renewal Term,False,False,False
+cuad_test_021,Notice Period To Terminate Renewal,False,False,False
+cuad_test_021,Insurance,True,True,False
+cuad_test_022,Cap On Liability,False,False,False
+cuad_test_022,Renewal Term,False,False,False
+cuad_test_022,Notice Period To Terminate Renewal,False,False,True
+cuad_test_022,Insurance,False,False,False
+cuad_test_023,Cap On Liability,True,False,False
+cuad_test_023,Renewal Term,False,False,False
+cuad_test_023,Notice Period To Terminate Renewal,False,False,True
+cuad_test_023,Insurance,False,True,False
+cuad_test_024,Cap On Liability,False,False,True
+cuad_test_024,Renewal Term,False,False,False
+cuad_test_024,Notice Period To Terminate Renewal,False,False,False
+cuad_test_024,Insurance,True,True,True
+cuad_test_025,Cap On Liability,False,False,True
+cuad_test_025,Renewal Term,False,False,False
+cuad_test_025,Notice Period To Terminate Renewal,False,True,True
+cuad_test_025,Insurance,True,True,True
+cuad_test_026,Cap On Liability,False,False,False
+cuad_test_026,Renewal Term,False,False,False
+cuad_test_026,Notice Period To Terminate Renewal,False,False,False
+cuad_test_026,Insurance,False,False,False
+cuad_test_027,Cap On Liability,False,False,False
+cuad_test_027,Renewal Term,False,False,False
+cuad_test_027,Notice Period To Terminate Renewal,False,True,False
+cuad_test_027,Insurance,True,True,True
+cuad_test_028,Cap On Liability,False,False,False
+cuad_test_028,Renewal Term,False,False,False
+cuad_test_028,Notice Period To Terminate Renewal,False,False,False
+cuad_test_028,Insurance,False,False,False
+cuad_test_029,Cap On Liability,True,False,True
+cuad_test_029,Renewal Term,True,False,True
+cuad_test_029,Notice Period To Terminate Renewal,True,True,True
+cuad_test_029,Insurance,True,True,True
+cuad_test_030,Cap On Liability,True,False,False
+cuad_test_030,Renewal Term,False,False,True
+cuad_test_030,Notice Period To Terminate Renewal,False,False,False
+cuad_test_030,Insurance,True,False,True
+cuad_test_031,Cap On Liability,False,False,False
+cuad_test_031,Renewal Term,False,False,False
+cuad_test_031,Notice Period To Terminate Renewal,False,False,True
+cuad_test_031,Insurance,False,True,False
+cuad_test_032,Cap On Liability,False,False,False
+cuad_test_032,Renewal Term,False,False,False
+cuad_test_032,Notice Period To Terminate Renewal,False,False,False
+cuad_test_032,Insurance,True,True,False
+cuad_test_033,Cap On Liability,True,False,False
+cuad_test_033,Renewal Term,False,False,False
+cuad_test_033,Notice Period To Terminate Renewal,False,False,True
+cuad_test_033,Insurance,True,True,False
+cuad_test_034,Cap On Liability,False,False,False
+cuad_test_034,Renewal Term,False,False,False
+cuad_test_034,Notice Period To Terminate Renewal,False,False,False
+cuad_test_034,Insurance,False,False,False
+cuad_test_035,Cap On Liability,True,False,False
+cuad_test_035,Renewal Term,False,False,False
+cuad_test_035,Notice Period To Terminate Renewal,False,False,False
+cuad_test_035,Insurance,False,False,False
+cuad_test_036,Cap On Liability,False,False,True
+cuad_test_036,Renewal Term,False,False,False
+cuad_test_036,Notice Period To Terminate Renewal,False,False,True
+cuad_test_036,Insurance,False,True,False
+cuad_test_037,Cap On Liability,True,False,False
+cuad_test_037,Renewal Term,True,False,False
+cuad_test_037,Notice Period To Terminate Renewal,True,False,True
+cuad_test_037,Insurance,False,False,False
+cuad_test_038,Cap On Liability,False,False,False
+cuad_test_038,Renewal Term,False,False,False
+cuad_test_038,Notice Period To Terminate Renewal,False,False,True
+cuad_test_038,Insurance,True,True,False
+cuad_test_039,Cap On Liability,True,False,False
+cuad_test_039,Renewal Term,False,False,False
+cuad_test_039,Notice Period To Terminate Renewal,False,False,True
+cuad_test_039,Insurance,False,False,False
+cuad_test_040,Cap On Liability,True,False,False
+cuad_test_040,Renewal Term,False,False,False
+cuad_test_040,Notice Period To Terminate Renewal,False,True,True
+cuad_test_040,Insurance,True,True,False
+cuad_test_041,Cap On Liability,False,False,False
+cuad_test_041,Renewal Term,True,True,True
+cuad_test_041,Notice Period To Terminate Renewal,True,False,True
+cuad_test_041,Insurance,False,False,False
+cuad_test_042,Cap On Liability,True,False,False
+cuad_test_042,Renewal Term,True,False,True
+cuad_test_042,Notice Period To Terminate Renewal,True,False,False
+cuad_test_042,Insurance,False,False,False
+cuad_test_043,Cap On Liability,False,False,False
+cuad_test_043,Renewal Term,False,False,False
+cuad_test_043,Notice Period To Terminate Renewal,False,False,False
+cuad_test_043,Insurance,False,False,False
+cuad_test_044,Cap On Liability,False,False,False
+cuad_test_044,Renewal Term,False,False,False
+cuad_test_044,Notice Period To Terminate Renewal,False,False,False
+cuad_test_044,Insurance,False,True,False
+cuad_test_045,Cap On Liability,True,True,False
+cuad_test_045,Renewal Term,False,False,False
+cuad_test_045,Notice Period To Terminate Renewal,False,True,True
+cuad_test_045,Insurance,False,False,False
+cuad_test_046,Cap On Liability,False,False,False
+cuad_test_046,Renewal Term,False,False,False
+cuad_test_046,Notice Period To Terminate Renewal,False,False,True
+cuad_test_046,Insurance,False,False,False
+cuad_test_047,Cap On Liability,False,False,False
+cuad_test_047,Renewal Term,False,False,False
+cuad_test_047,Notice Period To Terminate Renewal,False,False,False
+cuad_test_047,Insurance,False,False,False
+cuad_test_048,Cap On Liability,False,False,False
+cuad_test_048,Renewal Term,False,False,False
+cuad_test_048,Notice Period To Terminate Renewal,False,False,False
+cuad_test_048,Insurance,False,False,False
+cuad_test_049,Cap On Liability,False,False,False
+cuad_test_049,Renewal Term,False,False,False
+cuad_test_049,Notice Period To Terminate Renewal,False,False,False
+cuad_test_049,Insurance,True,True,False
+cuad_test_050,Cap On Liability,True,True,True
+cuad_test_050,Renewal Term,False,False,False
+cuad_test_050,Notice Period To Terminate Renewal,False,True,True
+cuad_test_050,Insurance,True,True,True
+cuad_test_051,Cap On Liability,False,False,False
+cuad_test_051,Renewal Term,False,False,False
+cuad_test_051,Notice Period To Terminate Renewal,False,False,False
+cuad_test_051,Insurance,False,True,False
+cuad_test_052,Cap On Liability,True,False,False
+cuad_test_052,Renewal Term,False,False,False
+cuad_test_052,Notice Period To Terminate Renewal,False,False,False
+cuad_test_052,Insurance,False,False,False
+cuad_test_053,Cap On Liability,True,False,False
+cuad_test_053,Renewal Term,False,False,True
+cuad_test_053,Notice Period To Terminate Renewal,False,False,True
+cuad_test_053,Insurance,True,True,False
+cuad_test_054,Cap On Liability,True,False,False
+cuad_test_054,Renewal Term,True,False,True
+cuad_test_054,Notice Period To Terminate Renewal,False,True,True
+cuad_test_054,Insurance,False,False,False
+cuad_test_055,Cap On Liability,True,False,True
+cuad_test_055,Renewal Term,True,False,True
+cuad_test_055,Notice Period To Terminate Renewal,False,False,True
+cuad_test_055,Insurance,True,True,True
+cuad_test_056,Cap On Liability,True,False,False
+cuad_test_056,Renewal Term,False,False,False
+cuad_test_056,Notice Period To Terminate Renewal,False,False,True
+cuad_test_056,Insurance,False,False,False
+cuad_test_057,Cap On Liability,False,False,False
+cuad_test_057,Renewal Term,True,False,True
+cuad_test_057,Notice Period To Terminate Renewal,False,False,False
+cuad_test_057,Insurance,False,False,False
+cuad_test_058,Cap On Liability,True,False,False
+cuad_test_058,Renewal Term,True,False,True
+cuad_test_058,Notice Period To Terminate Renewal,False,True,True
+cuad_test_058,Insurance,False,False,False
+cuad_test_059,Cap On Liability,False,False,False
+cuad_test_059,Renewal Term,False,False,False
+cuad_test_059,Notice Period To Terminate Renewal,False,False,False
+cuad_test_059,Insurance,False,False,False
+cuad_test_060,Cap On Liability,True,False,False
+cuad_test_060,Renewal Term,True,False,True
+cuad_test_060,Notice Period To Terminate Renewal,True,True,True
+cuad_test_060,Insurance,True,True,False
+cuad_test_061,Cap On Liability,False,False,False
+cuad_test_061,Renewal Term,True,True,True
+cuad_test_061,Notice Period To Terminate Renewal,True,True,True
+cuad_test_061,Insurance,False,True,False
+cuad_test_062,Cap On Liability,True,False,False
+cuad_test_062,Renewal Term,False,False,False
+cuad_test_062,Notice Period To Terminate Renewal,False,False,True
+cuad_test_062,Insurance,False,False,False
+cuad_test_063,Cap On Liability,True,False,False
+cuad_test_063,Renewal Term,False,False,False
+cuad_test_063,Notice Period To Terminate Renewal,False,True,True
+cuad_test_063,Insurance,False,True,False
+cuad_test_064,Cap On Liability,True,False,False
+cuad_test_064,Renewal Term,False,False,False
+cuad_test_064,Notice Period To Terminate Renewal,False,False,False
+cuad_test_064,Insurance,False,False,False
+cuad_test_065,Cap On Liability,False,False,False
+cuad_test_065,Renewal Term,False,False,False
+cuad_test_065,Notice Period To Terminate Renewal,False,False,False
+cuad_test_065,Insurance,False,False,False
+cuad_test_066,Cap On Liability,False,False,False
+cuad_test_066,Renewal Term,False,False,False
+cuad_test_066,Notice Period To Terminate Renewal,False,False,False
+cuad_test_066,Insurance,False,False,False
+cuad_test_067,Cap On Liability,False,False,False
+cuad_test_067,Renewal Term,False,False,False
+cuad_test_067,Notice Period To Terminate Renewal,False,False,True
+cuad_test_067,Insurance,True,True,False
+cuad_test_068,Cap On Liability,True,False,True
+cuad_test_068,Renewal Term,True,True,True
+cuad_test_068,Notice Period To Terminate Renewal,True,False,True
+cuad_test_068,Insurance,False,False,False
+cuad_test_069,Cap On Liability,True,False,False
+cuad_test_069,Renewal Term,False,False,False
+cuad_test_069,Notice Period To Terminate Renewal,False,False,True
+cuad_test_069,Insurance,False,False,False
+cuad_test_070,Cap On Liability,False,False,False
+cuad_test_070,Renewal Term,False,False,False
+cuad_test_070,Notice Period To Terminate Renewal,False,False,False
+cuad_test_070,Insurance,False,False,False
+cuad_test_071,Cap On Liability,False,False,False
+cuad_test_071,Renewal Term,False,False,False
+cuad_test_071,Notice Period To Terminate Renewal,False,False,True
+cuad_test_071,Insurance,False,True,False
+cuad_test_072,Cap On Liability,True,True,False
+cuad_test_072,Renewal Term,False,False,False
+cuad_test_072,Notice Period To Terminate Renewal,False,False,False
+cuad_test_072,Insurance,False,True,False
+cuad_test_073,Cap On Liability,False,False,False
+cuad_test_073,Renewal Term,False,False,False
+cuad_test_073,Notice Period To Terminate Renewal,False,False,False
+cuad_test_073,Insurance,False,False,False
+cuad_test_074,Cap On Liability,False,False,False
+cuad_test_074,Renewal Term,False,False,False
+cuad_test_074,Notice Period To Terminate Renewal,False,False,False
+cuad_test_074,Insurance,False,False,False
+cuad_test_075,Cap On Liability,True,False,False
+cuad_test_075,Renewal Term,False,False,False
+cuad_test_075,Notice Period To Terminate Renewal,False,False,False
+cuad_test_075,Insurance,True,True,False
+cuad_test_076,Cap On Liability,False,False,True
+cuad_test_076,Renewal Term,True,False,True
+cuad_test_076,Notice Period To Terminate Renewal,True,True,True
+cuad_test_076,Insurance,True,True,True
+cuad_test_077,Cap On Liability,True,False,False
+cuad_test_077,Renewal Term,False,False,False
+cuad_test_077,Notice Period To Terminate Renewal,False,False,True
+cuad_test_077,Insurance,False,True,False
+cuad_test_078,Cap On Liability,False,False,False
+cuad_test_078,Renewal Term,False,False,False
+cuad_test_078,Notice Period To Terminate Renewal,False,False,False
+cuad_test_078,Insurance,False,False,False
+cuad_test_079,Cap On Liability,False,False,False
+cuad_test_079,Renewal Term,False,False,False
+cuad_test_079,Notice Period To Terminate Renewal,False,False,True
+cuad_test_079,Insurance,False,False,False
+cuad_test_080,Cap On Liability,False,False,False
+cuad_test_080,Renewal Term,True,True,True
+cuad_test_080,Notice Period To Terminate Renewal,True,False,True
+cuad_test_080,Insurance,True,True,False
+cuad_test_081,Cap On Liability,True,False,False
+cuad_test_081,Renewal Term,False,False,False
+cuad_test_081,Notice Period To Terminate Renewal,False,False,False
+cuad_test_081,Insurance,False,True,False
+cuad_test_082,Cap On Liability,False,False,False
+cuad_test_082,Renewal Term,False,False,False
+cuad_test_082,Notice Period To Terminate Renewal,False,False,False
+cuad_test_082,Insurance,False,True,False
+cuad_test_083,Cap On Liability,False,False,False
+cuad_test_083,Renewal Term,False,False,False
+cuad_test_083,Notice Period To Terminate Renewal,False,False,False
+cuad_test_083,Insurance,False,False,False
+cuad_test_084,Cap On Liability,True,False,False
+cuad_test_084,Renewal Term,True,True,True
+cuad_test_084,Notice Period To Terminate Renewal,True,True,True
+cuad_test_084,Insurance,True,True,False
+cuad_test_085,Cap On Liability,True,False,True
+cuad_test_085,Renewal Term,True,False,True
+cuad_test_085,Notice Period To Terminate Renewal,False,True,True
+cuad_test_085,Insurance,True,True,True
+cuad_test_086,Cap On Liability,False,False,False
+cuad_test_086,Renewal Term,False,False,False
+cuad_test_086,Notice Period To Terminate Renewal,False,False,False
+cuad_test_086,Insurance,False,False,False
+cuad_test_087,Cap On Liability,False,False,False
+cuad_test_087,Renewal Term,False,False,False
+cuad_test_087,Notice Period To Terminate Renewal,False,False,True
+cuad_test_087,Insurance,False,False,False
+cuad_test_088,Cap On Liability,True,False,True
+cuad_test_088,Renewal Term,True,False,True
+cuad_test_088,Notice Period To Terminate Renewal,False,True,True
+cuad_test_088,Insurance,True,True,True
+cuad_test_089,Cap On Liability,True,False,False
+cuad_test_089,Renewal Term,False,False,False
+cuad_test_089,Notice Period To Terminate Renewal,True,False,False
+cuad_test_089,Insurance,False,False,False
+cuad_test_090,Cap On Liability,True,False,False
+cuad_test_090,Renewal Term,False,False,False
+cuad_test_090,Notice Period To Terminate Renewal,False,False,False
+cuad_test_090,Insurance,False,False,False
+cuad_test_091,Cap On Liability,False,False,False
+cuad_test_091,Renewal Term,False,False,False
+cuad_test_091,Notice Period To Terminate Renewal,False,False,False
+cuad_test_091,Insurance,False,True,False
+cuad_test_092,Cap On Liability,True,False,False
+cuad_test_092,Renewal Term,True,True,True
+cuad_test_092,Notice Period To Terminate Renewal,False,False,False
+cuad_test_092,Insurance,False,False,False
+cuad_test_093,Cap On Liability,False,False,False
+cuad_test_093,Renewal Term,False,False,False
+cuad_test_093,Notice Period To Terminate Renewal,False,False,False
+cuad_test_093,Insurance,True,True,False
+cuad_test_094,Cap On Liability,True,False,False
+cuad_test_094,Renewal Term,True,False,True
+cuad_test_094,Notice Period To Terminate Renewal,True,False,False
+cuad_test_094,Insurance,True,True,False
+cuad_test_095,Cap On Liability,False,False,False
+cuad_test_095,Renewal Term,False,False,False
+cuad_test_095,Notice Period To Terminate Renewal,False,False,False
+cuad_test_095,Insurance,False,False,False
+cuad_test_096,Cap On Liability,False,False,True
+cuad_test_096,Renewal Term,False,False,False
+cuad_test_096,Notice Period To Terminate Renewal,False,False,True
+cuad_test_096,Insurance,False,False,False
+cuad_test_097,Cap On Liability,True,False,False
+cuad_test_097,Renewal Term,True,False,True
+cuad_test_097,Notice Period To Terminate Renewal,True,False,True
+cuad_test_097,Insurance,False,False,False
+cuad_test_098,Cap On Liability,False,False,False
+cuad_test_098,Renewal Term,False,False,False
+cuad_test_098,Notice Period To Terminate Renewal,False,True,False
+cuad_test_098,Insurance,False,False,False
+cuad_test_099,Cap On Liability,False,False,False
+cuad_test_099,Renewal Term,True,False,True
+cuad_test_099,Notice Period To Terminate Renewal,False,False,True
+cuad_test_099,Insurance,True,True,False
+cuad_test_100,Cap On Liability,False,False,False
+cuad_test_100,Renewal Term,False,False,False
+cuad_test_100,Notice Period To Terminate Renewal,False,False,False
+cuad_test_100,Insurance,False,False,False
+cuad_test_101,Cap On Liability,True,True,False
+cuad_test_101,Renewal Term,False,False,False
+cuad_test_101,Notice Period To Terminate Renewal,False,True,False
+cuad_test_101,Insurance,False,True,False
+cuad_test_102,Cap On Liability,False,False,False
+cuad_test_102,Renewal Term,True,False,True
+cuad_test_102,Notice Period To Terminate Renewal,False,True,True
+cuad_test_102,Insurance,False,False,False

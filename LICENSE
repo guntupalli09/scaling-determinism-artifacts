@@ -1,0 +1,31 @@
+Code in this repository (all .py and .sh files) is released under the MIT License:
+
+MIT License
+
+Copyright (c) 2026 ANONYMIZED ANONYMIZED and ANONYMIZED ANONYMIZED
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Data and documentation (all other files) are released under the Creative Commons Attribution 4.0 International
+licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/), except short excerpts of Material Contracts Corpus
+documents contained in the engine outputs, which remain under CC BY-NC-SA 4.0
+(https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+IMPORTANT SCOPE AND THIRD-PARTY RIGHTS
+
+This repository is a mixed-license research archive. The CC BY 4.0 declaration above covers only original data and documentation over which the authors hold redistribution rights; it does not override upstream terms or grant rights to third-party content. The MIT grant covers only original code the authors have authority to license, not copied third-party dependencies or code.
+
+MCC-derived excerpts embedded in recorded engine outputs remain subject to the Material Contracts Corpus source CC BY-NC-SA 4.0 terms; users must comply with the noncommercial and share-alike restrictions where applicable. Other source documents and derived outputs (including CUAD, ContractNLI, and SEC filing text) require source-specific attribution and rights checks. Public availability does not, by itself, establish permission to redistribute. The presence of a SHA-256 checksum establishes integrity only, not redistribution permission.
+
+The Zenodo record-level license is a metadata default, not a blanket license for all files. See RELEASE_DISCLOSURE_AUDIT.md for the pre-release audit and remaining manual clearance requirements.

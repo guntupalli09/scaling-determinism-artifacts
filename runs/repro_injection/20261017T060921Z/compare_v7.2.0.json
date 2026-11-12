@@ -1,0 +1,40 @@
+{
+ "release": "v7.2.0",
+ "cases": 4944,
+ "attributable": 693,
+ "rate": 0.14016990291262135,
+ "original_attributable": 693,
+ "case_level_agreement": 4944,
+ "disagreements": [],
+ "n_disagreements": 0,
+ "top_rules": [
+  [
+   "M_EXPENSE_APPROVAL_01",
+   388
+  ],
+  [
+   "M_SLA_01",
+   238
+  ],
+  [
+   "H_INDEM_SCOPE_NARROW_01",
+   36
+  ],
+  [
+   "L_COMMUNICATION_CONSENT_01",
+   23
+  ],
+  [
+   "M_EMPLOY_SEVERANCE_RELEASE_01",
+   16
+  ],
+  [
+   "L_BROADDEF_01",
+   4
+  ],
+  [
+   "M_AI_HUMAN_REVIEW_01",
+   3
+  ]
+ ]
+}

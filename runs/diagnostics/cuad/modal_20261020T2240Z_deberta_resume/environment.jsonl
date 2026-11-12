@@ -1,0 +1,2 @@
+{"provider": "modal", "started": "2026-10-20T22:40:05Z", "gpu": "Tesla T4, 15360 MiB", "commit": "87bd32b46829c9096674d32bb82abaa1b3425156", "cuda": true, "torch": "2.11.0+cu130", "transformers": "4.57.6", "finished_chunks_at_start": 19}
+{"provider": "modal", "started": "2026-10-21T01:45:15Z", "gpu": "Tesla T4, 15360 MiB", "commit": "87bd32b46829c9096674d32bb82abaa1b3425156", "cuda": true, "torch": "2.11.0+cu130", "transformers": "4.57.6", "finished_chunks_at_start": 22}

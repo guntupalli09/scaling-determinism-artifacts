@@ -1,0 +1,218 @@
+{
+ "cuad/roberta-base/all": {
+  "units": 2142,
+  "engine": {
+   "precision": 0.6632302405498282,
+   "recall": 0.3541284403669725,
+   "f1": 0.4617224880382775,
+   "accuracy": 0.7899159663865546
+  },
+  "model": {
+   "precision": 0.553038105046344,
+   "recall": 0.9853211009174312,
+   "f1": 0.70844327176781,
+   "accuracy": 0.7936507936507936
+  },
+  "only_engine_correct": 384,
+  "only_model_correct": 392,
+  "mcnemar_p": 0.801613079848433
+ },
+ "cuad/roberta-base/direct": {
+  "units": 1020,
+  "engine": {
+   "precision": 0.8604651162790697,
+   "recall": 0.45121951219512196,
+   "f1": 0.592,
+   "accuracy": 0.85
+  },
+  "model": {
+   "precision": 0.5625,
+   "recall": 0.9878048780487805,
+   "f1": 0.7168141592920354,
+   "accuracy": 0.8117647058823529
+  },
+  "only_engine_correct": 180,
+  "only_model_correct": 141,
+  "mcnemar_p": 0.033763264144646345
+ },
+ "cuad/roberta-base/partial": {
+  "units": 1122,
+  "engine": {
+   "precision": 0.5061728395061729,
+   "recall": 0.27424749163879597,
+   "f1": 0.35574837310195223,
+   "accuracy": 0.7352941176470589
+  },
+  "model": {
+   "precision": 0.5454545454545454,
+   "recall": 0.9832775919732442,
+   "f1": 0.701670644391408,
+   "accuracy": 0.7771836007130125
+  },
+  "only_engine_correct": 204,
+  "only_model_correct": 251,
+  "mcnemar_p": 0.030930967470701464
+ },
+ "cuad/roberta-large/all": {
+  "units": 2142,
+  "engine": {
+   "precision": 0.6632302405498282,
+   "recall": 0.3541284403669725,
+   "f1": 0.4617224880382775,
+   "accuracy": 0.7899159663865546
+  },
+  "model": {
+   "precision": 0.597972972972973,
+   "recall": 0.9743119266055046,
+   "f1": 0.741102581995813,
+   "accuracy": 0.826797385620915
+  },
+  "only_engine_correct": 315,
+  "only_model_correct": 394,
+  "mcnemar_p": 0.0033681611709255295
+ },
+ "cuad/roberta-large/direct": {
+  "units": 1020,
+  "engine": {
+   "precision": 0.8604651162790697,
+   "recall": 0.45121951219512196,
+   "f1": 0.592,
+   "accuracy": 0.85
+  },
+  "model": {
+   "precision": 0.6116751269035533,
+   "recall": 0.9796747967479674,
+   "f1": 0.753125,
+   "accuracy": 0.8450980392156863
+  },
+  "only_engine_correct": 143,
+  "only_model_correct": 138,
+  "mcnemar_p": 0.8114522931130467
+ },
+ "cuad/roberta-large/partial": {
+  "units": 1122,
+  "engine": {
+   "precision": 0.5061728395061729,
+   "recall": 0.27424749163879597,
+   "f1": 0.35574837310195223,
+   "accuracy": 0.7352941176470589
+  },
+  "model": {
+   "precision": 0.5870445344129555,
+   "recall": 0.9698996655518395,
+   "f1": 0.7313997477931904,
+   "accuracy": 0.8101604278074866
+  },
+  "only_engine_correct": 172,
+  "only_model_correct": 256,
+  "mcnemar_p": 5.723942873082901e-05
+ },
+ "cuad/deberta-v2-xlarge/all": {
+  "units": 2142,
+  "engine": {
+   "precision": 0.6632302405498282,
+   "recall": 0.3541284403669725,
+   "f1": 0.4617224880382775,
+   "accuracy": 0.7899159663865546
+  },
+  "model": {
+   "precision": 0.5904139433551199,
+   "recall": 0.9944954128440368,
+   "f1": 0.7409432672590569,
+   "accuracy": 0.823062558356676
+  },
+  "only_engine_correct": 325,
+  "only_model_correct": 396,
+  "mcnemar_p": 0.009088997931456766
+ },
+ "cuad/deberta-v2-xlarge/direct": {
+  "units": 1020,
+  "engine": {
+   "precision": 0.8604651162790697,
+   "recall": 0.45121951219512196,
+   "f1": 0.592,
+   "accuracy": 0.85
+  },
+  "model": {
+   "precision": 0.6146095717884131,
+   "recall": 0.991869918699187,
+   "f1": 0.7589424572317264,
+   "accuracy": 0.8480392156862745
+  },
+  "only_engine_correct": 144,
+  "only_model_correct": 142,
+  "mcnemar_p": 0.9528613199332713
+ },
+ "cuad/deberta-v2-xlarge/partial": {
+  "units": 1122,
+  "engine": {
+   "precision": 0.5061728395061729,
+   "recall": 0.27424749163879597,
+   "f1": 0.35574837310195223,
+   "accuracy": 0.7352941176470589
+  },
+  "model": {
+   "precision": 0.5719769673704415,
+   "recall": 0.9966555183946488,
+   "f1": 0.7268292682926829,
+   "accuracy": 0.8003565062388592
+  },
+  "only_engine_correct": 181,
+  "only_model_correct": 254,
+  "mcnemar_p": 0.0005413247460302878
+ },
+ "contractnli/span_nli_bert/all": {
+  "units": 615,
+  "engine": {
+   "precision": 0.6226415094339622,
+   "recall": 0.30414746543778803,
+   "f1": 0.4086687306501548,
+   "accuracy": 0.6894308943089431
+  },
+  "model": {
+   "precision": 0.8984771573604061,
+   "recall": 0.815668202764977,
+   "f1": 0.855072463768116,
+   "accuracy": 0.9024390243902439
+  },
+  "only_engine_correct": 30,
+  "only_model_correct": 161,
+  "mcnemar_p": 7.167434382229876e-23
+ },
+ "contractnli/span_nli_bert/direct": {
+  "units": 246,
+  "engine": {
+   "precision": 0.896551724137931,
+   "recall": 0.9285714285714286,
+   "f1": 0.912280701754386,
+   "accuracy": 0.9796747967479674
+  },
+  "model": {
+   "precision": 0.9629629629629629,
+   "recall": 0.9285714285714286,
+   "f1": 0.9454545454545454,
+   "accuracy": 0.9878048780487805
+  },
+  "only_engine_correct": 1,
+  "only_model_correct": 3,
+  "mcnemar_p": 0.625
+ },
+ "contractnli/span_nli_bert/partial": {
+  "units": 369,
+  "engine": {
+   "precision": 0.5194805194805194,
+   "recall": 0.21164021164021163,
+   "f1": 0.3007518796992481,
+   "accuracy": 0.4959349593495935
+  },
+  "model": {
+   "precision": 0.888235294117647,
+   "recall": 0.798941798941799,
+   "f1": 0.841225626740947,
+   "accuracy": 0.8455284552845529
+  },
+  "only_engine_correct": 29,
+  "only_model_correct": 158,
+  "mcnemar_p": 1.089078484163857e-22
+ }
+}

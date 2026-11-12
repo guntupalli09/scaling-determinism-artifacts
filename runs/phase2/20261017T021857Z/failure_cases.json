@@ -1,0 +1,922 @@
+[
+  {
+    "doc_id": "synthetic_01",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "dbb321b3b3e4bf28d5d05f6a79d41ed62122f347e8e932bd3aeb6d8c6c19291f",
+    "case_sha256": "9b1e5b34a55e06fedf8d494efc55fc488deaccdabbad4796632e31a6a605e69e"
+  },
+  {
+    "doc_id": "synthetic_01",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "dbb321b3b3e4bf28d5d05f6a79d41ed62122f347e8e932bd3aeb6d8c6c19291f",
+    "case_sha256": "538fe6f0700f582d1316b7f4ab7be374a7a0318c479b924005e91811fa3ce918"
+  },
+  {
+    "doc_id": "synthetic_02",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "b076a8c1f0b7ee279d6f339998babb8fb241c60ae58477fa90f3c475423c3d8b",
+    "case_sha256": "68bfbd48c5959fc572e7bdb24b6faa5a45cccece689c594ea8fcee55d74f9852"
+  },
+  {
+    "doc_id": "synthetic_03",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "448a4728f5fe49753b69c937077601df95b45796c77fc4dbd2b850506283deba",
+    "case_sha256": "44bea8cefada3c2899fab8751876d34decc8f40b4de68840113c71a20ca4e1c3"
+  },
+  {
+    "doc_id": "synthetic_03",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "448a4728f5fe49753b69c937077601df95b45796c77fc4dbd2b850506283deba",
+    "case_sha256": "ea14b1a02913ca175e2fb0c0d3ebb70af078e3847c440b5cd439afcfd6174386"
+  },
+  {
+    "doc_id": "synthetic_04",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "a542a44bba5413e127b156b507ec0604bfedba485d12634f89de564fdede801d",
+    "case_sha256": "16837eee85d10bbe86638de7b3087d0611db29c8ce79f9ba4e48b525dfb4ffd5"
+  },
+  {
+    "doc_id": "synthetic_04",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "a542a44bba5413e127b156b507ec0604bfedba485d12634f89de564fdede801d",
+    "case_sha256": "9c922fe9b7f838ae04f30eb68be7609114036b343b37dfe4948d8dd4d6074337"
+  },
+  {
+    "doc_id": "synthetic_05",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "7a79e5ebabfd806c106ba1cc5ccf67c6aee670ffd007147388aedda69b1beba4",
+    "case_sha256": "8508d9ddcaeb04eba25518248aa9aaa679026eb875b7f9d32c4622bbd7283e57"
+  },
+  {
+    "doc_id": "synthetic_05",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "7a79e5ebabfd806c106ba1cc5ccf67c6aee670ffd007147388aedda69b1beba4",
+    "case_sha256": "d17ac52e64474ed38e3d6ac406fd9de0e716dccc6545f6b9d333f1321e40a817"
+  },
+  {
+    "doc_id": "synthetic_06",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "90b367d0355fad6d1c000c694bf10df73ecce08a82b75750bbfd4871f0734f2b",
+    "case_sha256": "03773c23f7f5d38b80815a344540656e04d78fb381448e31d2c593517501f538"
+  },
+  {
+    "doc_id": "synthetic_06",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "90b367d0355fad6d1c000c694bf10df73ecce08a82b75750bbfd4871f0734f2b",
+    "case_sha256": "ad9e4ac69a893c64b3db6bbd2a29d55bca3e2203947b8153eed50c0730c805c3"
+  },
+  {
+    "doc_id": "synthetic_07",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "e14a0dda552fdda965dc22a4027c2f38f8e76fabc897d02d6dfc6e9e4c29bee4",
+    "case_sha256": "817b6169ed977e186ce899fa6168f514f29c275186c6e36e0ab2ed827cec351b"
+  },
+  {
+    "doc_id": "synthetic_07",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "e14a0dda552fdda965dc22a4027c2f38f8e76fabc897d02d6dfc6e9e4c29bee4",
+    "case_sha256": "91443b49d5437e265c2b41799e2fca605705900441c1252e6bdb8d8d29576a1a"
+  },
+  {
+    "doc_id": "synthetic_08",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "418a8b681e0e7855c90009a9c9b107412951eabdae2641fbe452b57f3ba917f6",
+    "case_sha256": "69d996015ea4a841a493aa5dfda71430df690efa5afab3e154f44b4b16ce5be4"
+  },
+  {
+    "doc_id": "synthetic_08",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "418a8b681e0e7855c90009a9c9b107412951eabdae2641fbe452b57f3ba917f6",
+    "case_sha256": "6cc3ad256b752ad8eee36dc67ecffed53c9241b537f3a1af653cdbcfbc0d761e"
+  },
+  {
+    "doc_id": "synthetic_09",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "e3e713e5f8b1edda037ff7f4b50b114dd5db977a41aa578c7de79c794919d16b",
+    "case_sha256": "cc2747adb7e44b04dde6bb6950628db5d876ac6555de03def0b39724df826020"
+  },
+  {
+    "doc_id": "synthetic_10",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "4965d00f740789d04036bcfed2a34f3b2065696f800303169bda87f55f8af9f3",
+    "case_sha256": "6c1f50f2b603e00a2dd87d87cc73f85e7921e4cdf12e6fd87965a0e7d7a8dd75"
+  },
+  {
+    "doc_id": "synthetic_11",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "e20f5c8ead4517f5ce6b3e7187cfffe986f593d2be01814ee76cdf413f230412",
+    "case_sha256": "d94be65ebb5d88b28f4457e3b4d8778a87570edb34687a9d362ed85e525ccbae"
+  },
+  {
+    "doc_id": "synthetic_12",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "bddf36d76770d476d7eb2df103e8ddace2bae834692cbdb050118c02f4b027cf",
+    "case_sha256": "162fbba8dee0d746c16d6575d5fa3b1e47e107ad794df49d799fd5516e5ed2d5"
+  },
+  {
+    "doc_id": "synthetic_13",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "76bf0fb361c6a01c3a80d0137eb824c4332750b3602efb44cce0b3918f97c0ae",
+    "case_sha256": "553b525c6a8c30853c4e3e504c71a5dd69bf6ae77407a73a8e64d5e60899db40"
+  },
+  {
+    "doc_id": "synthetic_14",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "a618721a6dd602cdb5aa08d3095a7e67aa47d09c01d805b612a1e415bbe23b55",
+    "case_sha256": "ef90febfc782aeb701baa89152ee273bd0f4b16d12e3306132ac359a728ca4df"
+  },
+  {
+    "doc_id": "synthetic_17",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "c1b9e5cbad9c534a2ac659194cbff7a4ddd450e10f4869095dd90863ca1b3fb5",
+    "case_sha256": "28cd4f8be70759a5bb07bc7cff37d9150e8cd047c4e85eab97fbac558bd1090d"
+  },
+  {
+    "doc_id": "synthetic_18",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "6cb2bf81d2de99d175ea18ebbf8341e9830e7306f9579020d8a8b6f4f71da6be",
+    "case_sha256": "971b8306e9f4a28c1f42f063f86b4ffdfa1ffe41afa5a393896f6c78e2c21651"
+  },
+  {
+    "doc_id": "synthetic_18",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "6cb2bf81d2de99d175ea18ebbf8341e9830e7306f9579020d8a8b6f4f71da6be",
+    "case_sha256": "70a2538cb6b2588b27871de13a372693f80dafd67ef1bc6c47b6b06aeafbaa8a"
+  },
+  {
+    "doc_id": "synthetic_19",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "c0736a5453d8062d36fd9f1e86e5a7ae75dad248b09982ddf54fdf676920a4ec",
+    "case_sha256": "193ca276c63b154b8fee0ee27126f7c1081bf8678a33836f4cbd2cf75761cc6b"
+  },
+  {
+    "doc_id": "synthetic_19",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "c0736a5453d8062d36fd9f1e86e5a7ae75dad248b09982ddf54fdf676920a4ec",
+    "case_sha256": "f238bfc5dab490ffaaddd07d748fa126683d436e12e953b4ebaaf88ab8b969bd"
+  },
+  {
+    "doc_id": "synthetic_19",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "c0736a5453d8062d36fd9f1e86e5a7ae75dad248b09982ddf54fdf676920a4ec",
+    "case_sha256": "702b5bf6a509d4fc84d6e2606ccfc6b4e15db3a7c5e35ea40e5a267208117715"
+  },
+  {
+    "doc_id": "synthetic_19",
+    "kind": "FP",
+    "family": "L_LATEFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "c0736a5453d8062d36fd9f1e86e5a7ae75dad248b09982ddf54fdf676920a4ec",
+    "case_sha256": "7476a98f05263b8f29766aa3a4c657935a20d89e42d886434332c59405ee4db3"
+  },
+  {
+    "doc_id": "synthetic_19",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "c0736a5453d8062d36fd9f1e86e5a7ae75dad248b09982ddf54fdf676920a4ec",
+    "case_sha256": "ca5098ab23b4d373ab6016f9b516733d9f5a40d583a0081cfe81530f2278af8f"
+  },
+  {
+    "doc_id": "synthetic_20",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "0912645243e0e8c099b094ed3e7e0fb896469687252808ec48c6fb95fd33b827",
+    "case_sha256": "db5f3529e3d13abf33b402c6475d4ea6340cbb2e36f69e469d8c552eca767410"
+  },
+  {
+    "doc_id": "synthetic_20",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "0912645243e0e8c099b094ed3e7e0fb896469687252808ec48c6fb95fd33b827",
+    "case_sha256": "c4b75590ae96dd88b0a5b3983e97f7025ea5f39ca8177b56c2ecced40e712ab1"
+  },
+  {
+    "doc_id": "synthetic_21",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "b63fd985045adc83d56ec7895368d537a8c7f6bae8f3e76e7eb2daba88fc58f2",
+    "case_sha256": "a0aad50f12d16ea3317065804b10684b30534f6abd59917be0612b6f01613b0f"
+  },
+  {
+    "doc_id": "synthetic_22",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "1296bfccc4f1fb9f2f021e1a47c46d77481cb1103444ce613e2b3ab21ca31d36",
+    "case_sha256": "2954d780f371d5251368a27cf0b87870acf4078f905864ffdd370bd7b1e1c9f3"
+  },
+  {
+    "doc_id": "synthetic_22",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "1296bfccc4f1fb9f2f021e1a47c46d77481cb1103444ce613e2b3ab21ca31d36",
+    "case_sha256": "b504d600aaab1a8b4ff791ac5620aeb2709631aef85b658a8aea9666f33c8adc"
+  },
+  {
+    "doc_id": "synthetic_22",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "1296bfccc4f1fb9f2f021e1a47c46d77481cb1103444ce613e2b3ab21ca31d36",
+    "case_sha256": "f930144551b67718724c4b09f786f6c6b2fdc960f3aa42dab05ab858bea3bfca"
+  },
+  {
+    "doc_id": "synthetic_23",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "40f10a7b343d90ffc05b0372e8a1656e46402a78d950042b0faeba2658994480",
+    "case_sha256": "ba876d2cac29a7d14e941e62efb6a5f9fb36bff20a29a6b30e5c8a3dcffc0b98"
+  },
+  {
+    "doc_id": "synthetic_24",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "ed93e9003b65dab789029fca22612bed69d21944d56c934899f9d842d11433b2",
+    "case_sha256": "1d690b2ac82b6678952f0eb883d2fece33977663fc440d1c03e23d49aff8606b"
+  },
+  {
+    "doc_id": "synthetic_24",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "ed93e9003b65dab789029fca22612bed69d21944d56c934899f9d842d11433b2",
+    "case_sha256": "3e96cd7fc49a7f2b152565fa25783914f06492633c960e86a59a87c5d29d9459"
+  },
+  {
+    "doc_id": "synthetic_24",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "ed93e9003b65dab789029fca22612bed69d21944d56c934899f9d842d11433b2",
+    "case_sha256": "d30775d3f1e1e773b9afd36f2f75001a1ef557a1e52bc8990f9ac2ca166b1886"
+  },
+  {
+    "doc_id": "synthetic_25",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "fb78e35b41b4f6aa425fe6a2c1c4fbad81089d4a60fd5fa8f766e1db45bc452c",
+    "case_sha256": "3c91ba2f6b2df2852fee09863df7cba5149ee98e1c48372eced68c9e9473a2c5"
+  },
+  {
+    "doc_id": "synthetic_25",
+    "kind": "FP",
+    "family": "L_LATEFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "fb78e35b41b4f6aa425fe6a2c1c4fbad81089d4a60fd5fa8f766e1db45bc452c",
+    "case_sha256": "4827ea743ddaeb8123c627115943fb8b4e33fb2cb38f67d45d45332f816e4360"
+  },
+  {
+    "doc_id": "synthetic_25",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "fb78e35b41b4f6aa425fe6a2c1c4fbad81089d4a60fd5fa8f766e1db45bc452c",
+    "case_sha256": "cb6d337027be4a1fee8f682f4f1d51709e8f748b0f69fd6669f9a582338b44ca"
+  },
+  {
+    "doc_id": "synthetic_26",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "b1e02ec2728b9b4701ca4d8769ee0cd6c25a4a4bc74fe9e9c18df8488593d9b0",
+    "case_sha256": "5b014093ec76f9a7e5ffd1ab61d677077ee6cdb18cd058fd20a0b9be6d4b48ab"
+  },
+  {
+    "doc_id": "synthetic_26",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "b1e02ec2728b9b4701ca4d8769ee0cd6c25a4a4bc74fe9e9c18df8488593d9b0",
+    "case_sha256": "e03d4c357f7f83486536fd235cff1300cd5e8f4f5821976c48f953305d4c4910"
+  },
+  {
+    "doc_id": "synthetic_26",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "b1e02ec2728b9b4701ca4d8769ee0cd6c25a4a4bc74fe9e9c18df8488593d9b0",
+    "case_sha256": "867206a5a2357b379ff5cdacd382c301ed79327ad1ae7578c6564421e50e3c4f"
+  },
+  {
+    "doc_id": "synthetic_28",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "534c05146445930e59aa7c8236ed4dba509ede161bfd76b015a8504c1d6644e2",
+    "case_sha256": "d464cbd8658d17cee648853555f4bf759fec9f96f3ec31140a1b730c4e2a8e03"
+  },
+  {
+    "doc_id": "synthetic_28",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "534c05146445930e59aa7c8236ed4dba509ede161bfd76b015a8504c1d6644e2",
+    "case_sha256": "d75a0045825910bd575b629580f79f2385054e531c4988b46f23df3b7892567c"
+  },
+  {
+    "doc_id": "synthetic_28",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "534c05146445930e59aa7c8236ed4dba509ede161bfd76b015a8504c1d6644e2",
+    "case_sha256": "87937fe319457b745d46d39471e78d486205e208ce33d74f246f03791ca43113"
+  },
+  {
+    "doc_id": "synthetic_29",
+    "kind": "FP",
+    "family": "L_LATEFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "6077df896b7e029bb4559edc6642505afc34bfe0e482e9f536c23cbe05c10425",
+    "case_sha256": "50a4e2eecbdcf3db2a7a3a34b9ef24600015cbba3868b0ea3a8e8c5736e118d8"
+  },
+  {
+    "doc_id": "synthetic_29",
+    "kind": "FP",
+    "family": "L_GOVLAW_01",
+    "release": "v7.2.0",
+    "text_sha256": "6077df896b7e029bb4559edc6642505afc34bfe0e482e9f536c23cbe05c10425",
+    "case_sha256": "6696c26efed1193003246c28032e7e49b357762a2a3e0f960de0d1fdd20f6546"
+  },
+  {
+    "doc_id": "synthetic_30",
+    "kind": "FN",
+    "family": "M_CONF_01",
+    "release": "v7.2.0",
+    "text_sha256": "d685fd1803cc45e014a42f2dd6b005acf6f9b1dc4e25691ad74a4e47c9bf3f66",
+    "case_sha256": "2fd041d44488b12d1060a210f43e6803eb771ac51f67a4e7725fa26a9d0f1415"
+  },
+  {
+    "doc_id": "synthetic_30",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "d685fd1803cc45e014a42f2dd6b005acf6f9b1dc4e25691ad74a4e47c9bf3f66",
+    "case_sha256": "4a627fc9dcbf4add0f75ee51c96641e4857a2e1a90c3e009e69de0c433874374"
+  },
+  {
+    "doc_id": "msa_01",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "c08fdce723696aad0bc262a5b7616a7a437025e124c9183ef4ccca37848e08c4",
+    "case_sha256": "20cfb286b15da6a7b0053de11d1eac40d190e10461d1402d6b9be1af11d57afc"
+  },
+  {
+    "doc_id": "msa_02",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "49ffd16550068fc17bdc2be2cb617c220debce2030ca76cde73552608271f94c",
+    "case_sha256": "899d8e0474fa952ccf48a0be5ef1d3de00d1ac256328f66bf74feca36004486b"
+  },
+  {
+    "doc_id": "msa_04",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "f8b6315c4fad7de614753450505cbf7156c2654dbc9d5a3d7de94a403a495766",
+    "case_sha256": "56d7e490f3cc8cc874464b95ab500265770ab0a5305dec28cf388142a4e20cf0"
+  },
+  {
+    "doc_id": "msa_05",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "47f97cb9a3d241021dacbcd3d5969e32312199c68bc0116155b933f90a13f3b6",
+    "case_sha256": "02c8ffde15c7e00aadd32b5c5e93afb86df549b6fe0aa14b3bbfeacc74a9cea6"
+  },
+  {
+    "doc_id": "msa_05",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "47f97cb9a3d241021dacbcd3d5969e32312199c68bc0116155b933f90a13f3b6",
+    "case_sha256": "71ba6c768be189478f4ef808263f8a7247d83679d84868895dac14b06c6f13d3"
+  },
+  {
+    "doc_id": "msa_06",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "442326baa74083d3256c178b8aba2ebafabf41237a3ed1455491f98a2180aa98",
+    "case_sha256": "09b19669e8ac4090fc455fdd9e1ad1ecb6cd6cc9dd836e674c67df5c6c0656ee"
+  },
+  {
+    "doc_id": "msa_06",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "442326baa74083d3256c178b8aba2ebafabf41237a3ed1455491f98a2180aa98",
+    "case_sha256": "5f23222833cf08a320919bb81ad5d7bb492c1c2b8a2be892cccf47d9d6e9ca67"
+  },
+  {
+    "doc_id": "msa_07",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "21654d4b8077714944898436ddba50dc7c34224ef5416b547daf41d51c4c1f7a",
+    "case_sha256": "bbe014cd0600a575568cfcc509eeabef73105c1e7c6c1983a0b81ab14df6b263"
+  },
+  {
+    "doc_id": "msa_08",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "e59e370c3149cb1630306687428d5a7f158b2708d780ce6182e2afc7ce84e4b3",
+    "case_sha256": "ce8842af991a54d55d08fbb6ffe04c854065be015a7ce50126428cd34196d68f"
+  },
+  {
+    "doc_id": "msa_09",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "59715906b262bb693325f49f09188343d2afbf4e12894b0635d567ac9cbafa38",
+    "case_sha256": "db0af9829efd3bccce5b433727cf03089b383082662c976daa2c6fb9bb184a9f"
+  },
+  {
+    "doc_id": "msa_10",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "362fdbe6a12f60a99dd32a603333ea2e3ca672995818b7654c4f71872170f80f",
+    "case_sha256": "f25af8eea9c7a80c9abe5efdf07c3d4eec19eb171da290a70e5ee500c22b07cc"
+  },
+  {
+    "doc_id": "msa_10",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "362fdbe6a12f60a99dd32a603333ea2e3ca672995818b7654c4f71872170f80f",
+    "case_sha256": "1aab4d69457ee8d6a1650d565bc0f772f9e6105eb9fead7575b98f1827d09e97"
+  },
+  {
+    "doc_id": "msa_10",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "362fdbe6a12f60a99dd32a603333ea2e3ca672995818b7654c4f71872170f80f",
+    "case_sha256": "4a1f945ee9343b45ddc8fbd694dfd024271c3f24e630ffade524513cfa42869f"
+  },
+  {
+    "doc_id": "msa_12",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "c798c85911b7fc2b998fb0d5e3efd9c9eab3ef0612ec735d26b59708d312c5a0",
+    "case_sha256": "3bf9cb890236d4299c52983d024cefbe93d217c9a350a00a8303e7abc943b1ad"
+  },
+  {
+    "doc_id": "msa_13",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "b0a12362dffed47fe6a0161d207975b92969ab892e124d884bfd1b81fcd308a7",
+    "case_sha256": "6f48425e23ef744d13c57d8253d45e024325e6487e5941629f3655d82d5b9049"
+  },
+  {
+    "doc_id": "msa_13",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "b0a12362dffed47fe6a0161d207975b92969ab892e124d884bfd1b81fcd308a7",
+    "case_sha256": "3197f579b017e74718e028c4bc9148bae90fb17e23e5565e1327aa4e660970d6"
+  },
+  {
+    "doc_id": "msa_15",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "7a526e8621bfcbfb4b6e6898c59f8eee386c5a19dbbddedbca971ab612cf9dab",
+    "case_sha256": "c2ae99e2159b9ececa53ba03f5e7f2c4279ef00c4c387eea18757c3509c9ddcf"
+  },
+  {
+    "doc_id": "msa_15",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "7a526e8621bfcbfb4b6e6898c59f8eee386c5a19dbbddedbca971ab612cf9dab",
+    "case_sha256": "098b9e4583374fbeff4bfc76f1f0b9cf19c9d08ab986c4bb733e0fdee44aed6f"
+  },
+  {
+    "doc_id": "msa_16",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "92a6c16c831c2350e1117b2e4fe3702aec29a38794edc3ef81bc04fa7f42d28d",
+    "case_sha256": "da76f5a2f4c1edc5889d8c0b560124a95cf0f0da4374fe58020ac318a9f3a910"
+  },
+  {
+    "doc_id": "msa_17",
+    "kind": "FP",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "44be665e3cf12520e3f2336d8fca1a527b975ff0500f7cb6beea0569fca1bb5a",
+    "case_sha256": "7ab765dd6b987a4ac3eb417df1a3bf204b4293125e51368f284198d65855cae3"
+  },
+  {
+    "doc_id": "msa_18",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "58f5b65f0b622f1ce8930d3a1b7074854379913eba05a579a6dc0cdcb6c9f882",
+    "case_sha256": "da034a4abe2ec27f1cff798f102806954cabf04970575a0dab60b708851ec400"
+  },
+  {
+    "doc_id": "msa_18",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "58f5b65f0b622f1ce8930d3a1b7074854379913eba05a579a6dc0cdcb6c9f882",
+    "case_sha256": "7855e6a9124379e9dd171fb99d74ffc0b53f7b28fe957ad2ffa25f5fda36e093"
+  },
+  {
+    "doc_id": "msa_19",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "69aa4c635c93f8e390a635ea031da42065b3a23918745f57e68a3516adf62983",
+    "case_sha256": "9fc6d102fe7d5087862f24ae6987eb3bbe88076b1e72818ed3ab2669db54e209"
+  },
+  {
+    "doc_id": "msa_20",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "ffaaa140b71a05d59dc24478e970f1bee1b6b5ee051da2d53510fdf6a2709f8a",
+    "case_sha256": "eae524a82ffa22e0dfd186a88d23be65e671dce4d0747a93161d07bba5ad8f00"
+  },
+  {
+    "doc_id": "msa_20",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "ffaaa140b71a05d59dc24478e970f1bee1b6b5ee051da2d53510fdf6a2709f8a",
+    "case_sha256": "7d99e5787bff8207dd9a6640fcb1ebddea2e7652d522d40584d9735b1fafe851"
+  },
+  {
+    "doc_id": "emp_01",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "f626ff5bf33c4cdd350ddf5d0e82bbed87f8e2e129f72c66c64e04bb69756a53",
+    "case_sha256": "467b5bcc1e08df9eb55e06086af0f8c3a67d53ea50290c70aab51b54d1eda5cb"
+  },
+  {
+    "doc_id": "emp_01",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "f626ff5bf33c4cdd350ddf5d0e82bbed87f8e2e129f72c66c64e04bb69756a53",
+    "case_sha256": "9e40c46141b426ed21112929c20ef5af0d65117edca737701e389e286a3f5cb4"
+  },
+  {
+    "doc_id": "emp_03",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "5093f40cca4811c4bb20794ccc9414b0bf1d660baa0dd78701683e38cf25f641",
+    "case_sha256": "51c11acfeaa8f8cb499074df8f0cc6cabd5330123030d753b2346a07e11f279d"
+  },
+  {
+    "doc_id": "emp_03",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "5093f40cca4811c4bb20794ccc9414b0bf1d660baa0dd78701683e38cf25f641",
+    "case_sha256": "0f28b403553f8812189983783421c2da705b56d95d63ad6dd970510cce77d6c1"
+  },
+  {
+    "doc_id": "emp_05",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "f3d9910479fd7f70b974ba02945fe2324ec7ab516966b091b2d4c0c6e0010bff",
+    "case_sha256": "2fee9af7fcf289547d13135957585c97f6d5c4e994d094141abc32f30bbed49e"
+  },
+  {
+    "doc_id": "emp_05",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "f3d9910479fd7f70b974ba02945fe2324ec7ab516966b091b2d4c0c6e0010bff",
+    "case_sha256": "cae5718087b61ff9fd59af10928e7a5427b414cea7d5d6c8e049d22133f61e30"
+  },
+  {
+    "doc_id": "emp_06",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "e466fdff02d357df42ba546a8927e1c16ba765d3b466aeb82256c0d57cd7d223",
+    "case_sha256": "157beee356f3d1810127cdf75055d26fc2599d6d7bc99d297ef228e6fa1c792b"
+  },
+  {
+    "doc_id": "emp_08",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "0d42a7f1d45a9f56d28cd42c6d8fe802592f60a37ab6721bc4802938ae17b85f",
+    "case_sha256": "a6bbec7e427a8e0083971be085e558282c0daa73582c2d49d661f05109570c3f"
+  },
+  {
+    "doc_id": "emp_08",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "0d42a7f1d45a9f56d28cd42c6d8fe802592f60a37ab6721bc4802938ae17b85f",
+    "case_sha256": "4bef5d91da53881ec117b71307a33e75d800d2902f9b413e130f43fd4f0acd90"
+  },
+  {
+    "doc_id": "emp_10",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "ae07a7f6caebe40e1b2b843a8caea6ba0d8882ac19881dbf37af01c8a8a9256e",
+    "case_sha256": "04058bc3f277115e218c84ecd10b7676952f8ce1e4f68ffbd42b2c9ffc273029"
+  },
+  {
+    "doc_id": "emp_10",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "ae07a7f6caebe40e1b2b843a8caea6ba0d8882ac19881dbf37af01c8a8a9256e",
+    "case_sha256": "106ff1939cf05831dd0a1eca7a42b58206f5eb230d7b412579948cded8847098"
+  },
+  {
+    "doc_id": "emp_10",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "ae07a7f6caebe40e1b2b843a8caea6ba0d8882ac19881dbf37af01c8a8a9256e",
+    "case_sha256": "08a7aab42fa4bd3f6189b2da798141cf14964a9d7b6e839d46d7cfd1fe10c797"
+  },
+  {
+    "doc_id": "emp_12",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "8bcffe00d9d7fdf61ddb7ba0c6dab25a9b4ea3c3d23eda6ff48ce52836317a99",
+    "case_sha256": "956f80fb6314052f174a84841d4af857f221e43de382dc545d7571322c342612"
+  },
+  {
+    "doc_id": "emp_12",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "8bcffe00d9d7fdf61ddb7ba0c6dab25a9b4ea3c3d23eda6ff48ce52836317a99",
+    "case_sha256": "a1e1cd7dca685822d06ebc9ef64e5596584475c6224b660b1c108b9c78029fb1"
+  },
+  {
+    "doc_id": "emp_14",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "5adeb7be846445b2e5fb7cb6246fa4f9b87fdffb5392086c7c5aa5f054c23885",
+    "case_sha256": "ff4f6cc76efaac08530673e02169a63dd299b68741791e70853feca0f620637e"
+  },
+  {
+    "doc_id": "emp_14",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "5adeb7be846445b2e5fb7cb6246fa4f9b87fdffb5392086c7c5aa5f054c23885",
+    "case_sha256": "83b9626a5a31f8345ea1840bf5237aa65602ca502e8f4bb224c5c9e7c6d05f38"
+  },
+  {
+    "doc_id": "emp_16",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "ee85b4f8c0f5c33e77eb89679982937f6946c4cad4e0616ed9d9e1ffbabcd1d6",
+    "case_sha256": "1f26b7e40f49b643270ad6736d72a29e7f95dd18d4cc86c85df8572bbc671127"
+  },
+  {
+    "doc_id": "emp_17",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "d7e824e321d2d98920c6a4ccf0d9e4787ab7ead1b67e275e6dbac19e3051ed34",
+    "case_sha256": "860d6354e82b42655e3142b7957fda3921148d6822ba1dcfb087a733d0a08b54"
+  },
+  {
+    "doc_id": "emp_18",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "4be88507290d1797cc7e83bda5c7b4090661a4d0a3b97f4b3afa546949e3baec",
+    "case_sha256": "34f57ed2b26145e77eab83b72cef21faa531c63ba414e7d557685f3ae04a337d"
+  },
+  {
+    "doc_id": "emp_18",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "4be88507290d1797cc7e83bda5c7b4090661a4d0a3b97f4b3afa546949e3baec",
+    "case_sha256": "2658c9ec37a46ddf9148752a5610b3a69c5209fd1cfe9c81a0f7a53c35335931"
+  },
+  {
+    "doc_id": "emp_18",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "4be88507290d1797cc7e83bda5c7b4090661a4d0a3b97f4b3afa546949e3baec",
+    "case_sha256": "cd016152d52107c3fbc262d8981195d89577ebc693709a70f581042c41543cb6"
+  },
+  {
+    "doc_id": "emp_20",
+    "kind": "FN",
+    "family": "H_IP_01",
+    "release": "v7.2.0",
+    "text_sha256": "2dee3e3f6b022c8d2bae9f1af439031dc7903682bc9d0c3a7d1d9cf04cb290be",
+    "case_sha256": "6d548cfd401410c7b47fd63bd6f47002d7f90a7119a1ae861d0af9e38aacef51"
+  },
+  {
+    "doc_id": "emp_20",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "2dee3e3f6b022c8d2bae9f1af439031dc7903682bc9d0c3a7d1d9cf04cb290be",
+    "case_sha256": "240f6aef1109f71dab15a56cd49c79bd7915202b5b9caedb6cc37e3196139f61"
+  },
+  {
+    "doc_id": "emp_20",
+    "kind": "FN",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "2dee3e3f6b022c8d2bae9f1af439031dc7903682bc9d0c3a7d1d9cf04cb290be",
+    "case_sha256": "3c5cc13d326bd814a22e6b211f94962988158a623d2dd82b52f6885c41f19f1e"
+  },
+  {
+    "doc_id": "lic_01",
+    "kind": "FN",
+    "family": "H_INDEM_01",
+    "release": "v7.2.0",
+    "text_sha256": "3dfe6ff8acade06df874c9b0bc00450981888c262ecf016f4c0b9c6179dd572a",
+    "case_sha256": "87ef04df206f80715de4db0cf7165709434c01b3f678644a33d9095ae4a97a0a"
+  },
+  {
+    "doc_id": "lic_01",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "3dfe6ff8acade06df874c9b0bc00450981888c262ecf016f4c0b9c6179dd572a",
+    "case_sha256": "06374ef4b7398f9683653213464f8904dc383d542df4667eca7e47a92e5376fc"
+  },
+  {
+    "doc_id": "lic_02",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "1b7ced470b1c693c72b982ec8bf56941a7ec65115db242f89ece7d2aa3953bc3",
+    "case_sha256": "d57a994614d6043cf147c26c624b9e6feb6a8917cca655c474187e0f3bcc2d7e"
+  },
+  {
+    "doc_id": "lic_04",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "85139ab619df03ee53c3d8d9056551c01529e2e3cc7220f773e77e0f3bcfe380",
+    "case_sha256": "ad3d2ae993494f0a6653b9862eb6e1a8a3051d7cd6a0feb0b25588d78621d2ab"
+  },
+  {
+    "doc_id": "lic_05",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "6a5fe21320ee1261065c4cb75843cf56714adf24f6eec83729d40613eb6d6735",
+    "case_sha256": "a72dccf9a296630c6a1eb753bbbae36f02cfa73efa4f60d9ece09d2099b20b7f"
+  },
+  {
+    "doc_id": "lic_06",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "599370045f02805dcdc86e682ef88dea46dda004bd2d22c9d5719e4301091d96",
+    "case_sha256": "46830364d02596c5e0d1df145bfaf00630e6f00c87e1401dadb545b8ccfb29e9"
+  },
+  {
+    "doc_id": "lic_07",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "80e5d7afc5417e3b2b0a736ca94da87c39bd5d22ab8b6541cbac85c362fed4ce",
+    "case_sha256": "08f04f94e7d18f731c5fd70f6e865db512120fb340d97f80bd4530e495b22bfb"
+  },
+  {
+    "doc_id": "lic_09",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "0ce6f53fe18b7bc7d95df6caf023d275a41a766501c7818e1f9a1e707d78eb6c",
+    "case_sha256": "aa2b9979f252bfacb2736a26b9addf8390cd554f821bf0fce585a941b21e39d0"
+  },
+  {
+    "doc_id": "lic_10",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "a95f74c531d551d274b361f56de77a7997cfe7015aa480cc012c1f75bd372cfa",
+    "case_sha256": "53a062cb313b2992604ae592d25447edd57a5ff6e0f9e78050d0be73ccc0a5e2"
+  },
+  {
+    "doc_id": "lic_11",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "44ef865ccda8620441671e100b5ea8e3f06b83fc87188a4a9f081602a2756270",
+    "case_sha256": "8d606260043fff13ca799a98db78f5ac6b4403bb468a792777a8d0d3312f8caa"
+  },
+  {
+    "doc_id": "lic_12",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "cbbae57d12c07acf7b253f7f280fa36a95d3c0d5b16530db2ecb8c4bcf6f262b",
+    "case_sha256": "c382ad01700be8256430b30806f3a46461fd50d46364e459e85abc398fd241cf"
+  },
+  {
+    "doc_id": "lic_13",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "5d40b41eb39ecea5c77db603bcb3e8b76abf921f8bbebfabc7475c6032a21400",
+    "case_sha256": "b69a9565b991772c55481744040762adb7c88f4ecfae1ce9ea2194355820caeb"
+  },
+  {
+    "doc_id": "lic_14",
+    "kind": "FP",
+    "family": "H_ATTFEE_01",
+    "release": "v7.2.0",
+    "text_sha256": "997424ae05fee82646e2de1ef0ec156a568ac0919eff80ed450b85d31e44e3e2",
+    "case_sha256": "f003176770f20e6864d5854fbb0bffee42c7b8ed05cdfee42cc19afa17457244"
+  },
+  {
+    "doc_id": "lic_15",
+    "kind": "FN",
+    "family": "H_LOL_CARVEOUT_01",
+    "release": "v7.2.0",
+    "text_sha256": "f70dfd61c34b7af4c73adc5676f7218c06b26c5afeb30f37027942c8417c77eb",
+    "case_sha256": "17b641f307169e747abca79946d844bd12e617b0a5cf414613c63b31cb13cf81"
+  }
+]

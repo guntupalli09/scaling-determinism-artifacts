@@ -1,0 +1,166 @@
+[{"stream_name":"stderr","time":6.221674049,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.221716312,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.221723332,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.221728777,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.823781402,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.82381176,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.823818128,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.823826328,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":177.049944174,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":177.049982137,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.049987028,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.049990405,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.254199443,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":177.254230069,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.25423509,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.254238888,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.254242142,"data":"\n"}
+,{"stream_name":"stderr","time":177.254244968,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":177.254248047,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.254251129,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":177.254254887,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":177.352618486,"data":"commit a6cc4f29ab6268ea6669917af8c3cd8889f4d4d0 | texts 618\n"}
+,{"stream_name":"stdout","time":177.352652502,"data":"name, memory.total [MiB]\r\n"}
+,{"stream_name":"stdout","time":177.352657988,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":177.352662353,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":182.081994969,"data":"GPUs: 2\n"}
+,{"stream_name":"stdout","time":481.885948087,"data":"09:34 {'roberta-large': 0, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":781.8883720809999,"data":"09:39 {'roberta-large': 2, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":1081.888875961,"data":"09:44 {'roberta-large': 3, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":1381.892122094,"data":"09:49 {'roberta-large': 4, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":1681.892650766,"data":"09:54 {'roberta-large': 6, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":1981.894105359,"data":"09:59 {'roberta-large': 7, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":2281.895891004,"data":"10:04 {'roberta-large': 8, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":2581.897467769,"data":"10:09 {'roberta-large': 10, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":2881.898863703,"data":"10:14 {'roberta-large': 10, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":3181.900284374,"data":"10:19 {'roberta-large': 12, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":3481.901740376,"data":"10:24 {'roberta-large': 14, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":3781.903487814,"data":"10:29 {'roberta-large': 14, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":4081.905199199,"data":"10:34 {'roberta-large': 16, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":4381.906885299,"data":"10:39 {'roberta-large': 17, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":4681.908455981,"data":"10:44 {'roberta-large': 18, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":4981.910547874,"data":"10:49 {'roberta-large': 20, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":5281.912467273,"data":"10:54 {'roberta-large': 21, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":5581.913918497,"data":"10:59 {'roberta-large': 22, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":5881.916204785,"data":"11:04 {'roberta-large': 23, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":6181.917209142,"data":"11:09 {'roberta-large': 25, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":6481.918847868,"data":"11:14 {'roberta-large': 27, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":6781.92047649,"data":"11:19 {'roberta-large': 28, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":7081.923732706,"data":"11:24 {'roberta-large': 29, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":7381.924065304,"data":"11:29 {'roberta-large': 31, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":7681.926594185,"data":"11:34 {'roberta-large': 32, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":7981.928123406,"data":"11:39 {'roberta-large': 33, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":8281.929466123,"data":"11:44 {'roberta-large': 34, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":8581.931199267,"data":"11:49 {'roberta-large': 35, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":8881.93304329,"data":"11:54 {'roberta-large': 37, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":9181.934714034,"data":"11:59 {'roberta-large': 37, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":9481.936213842,"data":"12:04 {'roberta-large': 38, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":9781.938312637,"data":"12:09 {'roberta-large': 40, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":10081.940036917,"data":"12:14 {'roberta-large': 42, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":10381.94204837,"data":"12:19 {'roberta-large': 43, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":10681.945333129,"data":"12:24 {'roberta-large': 44, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":10981.945923757,"data":"12:29 {'roberta-large': 44, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":11281.947881381,"data":"12:34 {'roberta-large': 47, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":11581.949573648,"data":"12:39 {'roberta-large': 47, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":11881.951724371,"data":"12:44 {'roberta-large': 49, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":12181.953714199,"data":"12:49 {'roberta-large': 50, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":12481.955644677,"data":"12:54 {'roberta-large': 51, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":12781.958101634,"data":"12:59 {'roberta-large': 53, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":13081.960059957,"data":"13:04 {'roberta-large': 53, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":13381.962280988,"data":"13:09 {'roberta-large': 55, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":13681.964086332,"data":"13:14 {'roberta-large': 55, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":13981.969875521,"data":"13:19 {'roberta-large': 57, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":14281.970013225,"data":"13:24 {'roberta-large': 58, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":14581.973515626,"data":"13:29 {'roberta-large': 59, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":14881.975376472,"data":"13:34 {'roberta-large': 60, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":15181.977414633,"data":"13:39 {'roberta-large': 61, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":15481.979881243,"data":"13:44 {'roberta-large': 62, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":15781.981783962,"data":"13:49 {'roberta-large': 63, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":16081.98338252,"data":"13:54 {'roberta-large': 65, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":16381.985590916,"data":"13:59 {'roberta-large': 65, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":16681.988247789,"data":"14:04 {'roberta-large': 67, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":16981.990516357,"data":"14:09 {'roberta-large': 69, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":17281.992718959,"data":"14:14 {'roberta-large': 69, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":17581.995350224,"data":"14:19 {'roberta-large': 70, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":17881.99833444,"data":"14:24 {'roberta-large': 71, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":18181.999955373,"data":"14:29 {'roberta-large': 72, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":18482.001812306,"data":"14:34 {'roberta-large': 73, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":18782.004296342,"data":"14:39 {'roberta-large': 74, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":19082.006303238,"data":"14:44 {'roberta-large': 75, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":19382.009450174,"data":"14:49 {'roberta-large': 77, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":19682.011352006,"data":"14:54 {'roberta-large': 77, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":19982.01476261,"data":"14:59 {'roberta-large': 79, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":20282.01625267,"data":"15:04 {'roberta-large': 79, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":20582.018900819,"data":"15:09 {'roberta-large': 81, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":20882.021237311,"data":"15:14 {'roberta-large': 81, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":21182.025331385,"data":"15:19 {'roberta-large': 82, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":21482.02683865,"data":"15:24 {'roberta-large': 83, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":21782.02914121,"data":"15:29 {'roberta-large': 84, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":22082.031058712,"data":"15:34 {'roberta-large': 85, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":22382.033841703,"data":"15:39 {'roberta-large': 86, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":22682.037368357,"data":"15:44 {'roberta-large': 87, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":22982.044146151,"data":"15:49 {'roberta-large': 87, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":23282.041225871,"data":"15:54 {'roberta-large': 89, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":23582.043434632,"data":"15:59 {'roberta-large': 90, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":23882.046609023,"data":"16:04 {'roberta-large': 91, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":24182.048651476,"data":"16:09 {'roberta-large': 91, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":24482.051222193,"data":"16:14 {'roberta-large': 91, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":24782.054633941,"data":"16:19 {'roberta-large': 91, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":25082.056924397,"data":"16:24 {'roberta-large': 93, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":25382.059396549,"data":"16:29 {'roberta-large': 95, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":25682.061171253,"data":"16:34 {'roberta-large': 95, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":25982.064197232,"data":"16:39 {'roberta-large': 96, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":26282.066946258,"data":"16:44 {'roberta-large': 97, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":26582.069739071,"data":"16:49 {'roberta-large': 98, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":26882.071930427,"data":"16:54 {'roberta-large': 99, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":27182.076433271,"data":"16:59 {'roberta-large': 101, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":27482.078723537,"data":"17:04 {'roberta-large': 101, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":27782.08236452,"data":"17:09 {'roberta-large': 103, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":28082.086804142,"data":"17:14 {'roberta-large': 103, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":28382.088729843,"data":"17:19 {'roberta-large': 104, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":28682.091364924,"data":"17:24 {'roberta-large': 104, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":28982.094066956,"data":"17:29 {'roberta-large': 104, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":29282.096805135,"data":"17:34 {'roberta-large': 105, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":29582.100177717,"data":"17:39 {'roberta-large': 106, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":29882.103739341,"data":"17:44 {'roberta-large': 106, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":30182.106231704,"data":"17:49 {'roberta-large': 106, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":30482.109395283,"data":"17:54 {'roberta-large': 107, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":30782.112540281,"data":"17:59 {'roberta-large': 108, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":31082.115535051,"data":"18:04 {'roberta-large': 109, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":31382.118362566,"data":"18:09 {'roberta-large': 110, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":31682.122596943,"data":"18:14 {'roberta-large': 110, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":31982.125657684,"data":"18:19 {'roberta-large': 112, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":32282.127438548,"data":"18:24 {'roberta-large': 112, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":32582.131510731,"data":"18:29 {'roberta-large': 113, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":32882.134032173,"data":"18:34 {'roberta-large': 114, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":33182.136837117,"data":"18:39 {'roberta-large': 114, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":33482.141189745,"data":"18:44 {'roberta-large': 116, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":33782.143445438,"data":"18:49 {'roberta-large': 116, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":34082.147055952,"data":"18:54 {'roberta-large': 118, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":34382.149392775,"data":"18:59 {'roberta-large': 118, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":34682.152962661,"data":"19:04 {'roberta-large': 119, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":34982.155637241,"data":"19:09 {'roberta-large': 120, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":35282.159898795,"data":"19:14 {'roberta-large': 121, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":35582.162339707,"data":"19:19 {'roberta-large': 122, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":35882.165996844,"data":"19:24 {'roberta-large': 124, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":36182.169330203,"data":"19:29 {'roberta-large': 124, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":36482.172244214,"data":"19:34 {'roberta-large': 126, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":36782.176222268,"data":"19:39 {'roberta-large': 127, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":37082.179605511,"data":"19:44 {'roberta-large': 128, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":37382.181964035,"data":"19:49 {'roberta-large': 129, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":37682.185148819,"data":"19:54 {'roberta-large': 129, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":37982.188144283,"data":"19:59 {'roberta-large': 131, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":38282.191861344,"data":"20:04 {'roberta-large': 131, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":38582.196252256,"data":"20:09 {'roberta-large': 133, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":38882.198797934,"data":"20:14 {'roberta-large': 134, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":39182.198228993,"data":"20:19 {'roberta-large': 136, 'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":39182.199373382,"data":"exit codes [0, 0]\n"}
+,{"stream_name":"stderr","time":39185.737435896,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":39185.73749894,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":39185.917541892,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":39185.917620063,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":39186.814046369,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":39186.919614762,"data":"[NbConvertApp] Writing 15028 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":39189.997698222,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":39190.612010678,"data":"[NbConvertApp] Writing 302931 bytes to __results__.html\n"}
+]

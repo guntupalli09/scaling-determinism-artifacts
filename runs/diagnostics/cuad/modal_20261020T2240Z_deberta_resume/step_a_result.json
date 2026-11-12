@@ -1,0 +1,26 @@
+{
+  "model": "deberta-v2-xlarge",
+  "checked_at": "2026-10-21T03:34:07.229347+00:00",
+  "questions_expected": 4182,
+  "questions_present": 4182,
+  "published": {
+    "aupr": 47.8,
+    "p_at_80r": 44.0,
+    "p_at_90r": 17.8
+  },
+  "tolerance": {
+    "aupr": 3.0,
+    "p_at_80r": 5.0
+  },
+  "reproduced": {
+    "aupr": 47.788322413975024,
+    "p_at_80r": 44.02241594022416,
+    "p_at_90r": 17.832350526237217
+  },
+  "delta": {
+    "aupr": -0.011677586024973152,
+    "p_at_80r": 0.022415940224156827,
+    "p_at_90r": 0.03235052623721657
+  },
+  "status": "STEP_A_PASS"
+}

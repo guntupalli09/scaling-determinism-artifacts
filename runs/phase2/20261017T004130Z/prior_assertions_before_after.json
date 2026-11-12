@@ -1,0 +1,3691 @@
+[
+ {
+  "doc_id": "emp_01",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_01",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_01",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_01",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_02",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_02",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_02",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_03",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_03",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_03",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_03",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_04",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_04",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_04",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_05",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_05",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_05",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_05",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_06",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_06",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_06",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_07",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_07",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_07",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_08",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_08",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_08",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_08",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_09",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_09",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_09",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_10",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_10",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_10",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_10",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_11",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_11",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_11",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_12",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_12",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_12",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_12",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_13",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_13",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_13",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_14",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_14",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_14",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_14",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_15",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_15",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_15",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_16",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_16",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_16",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_17",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_17",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_17",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_18",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_18",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_18",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_18",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_19",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_19",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_19",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "emp_20",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "emp_20",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_20",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "emp_20",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_01",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_01",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "lic_01",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_02",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_02",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_03",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_03",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_03",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_04",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_04",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_05",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_05",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_05",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_05",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_06",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_06",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_07",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_07",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_07",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_07",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_08",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_08",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_09",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_09",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_09",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_09",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_10",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_10",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_11",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_11",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_11",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_11",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_12",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_12",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_13",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_13",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_13",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_13",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_14",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_14",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_15",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_15",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "lic_15",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "lic_15",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_01",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_01",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": true
+ },
+ {
+  "doc_id": "msa_01",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_02",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_02",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_02",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_02",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_03",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_03",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_03",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_04",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_04",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_04",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_05",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_05",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_05",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_05",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_05",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_06",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_06",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_06",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_06",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_06",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_07",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_07",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_07",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_07",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_08",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_08",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_08",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_08",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_08",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_09",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_09",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_09",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_10",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_10",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_10",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_10",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_10",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_11",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_11",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_11",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_11",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_12",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_12",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_12",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_13",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_13",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_13",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_13",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_13",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_14",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_14",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_14",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_14",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_15",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_15",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_15",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_15",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_15",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_16",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_16",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_16",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_16",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_17",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_17",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_17",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_17",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_17",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_18",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_18",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_18",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_18",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_18",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_19",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_19",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_19",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_19",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_20",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_20",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "msa_20",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_20",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "msa_20",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_01",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_02",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_03",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_04",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_05",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_06",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_07",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_08",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_09",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_10",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_11",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_12",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_13",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_14",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_15",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_16",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_17",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_18",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_19",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_20",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_21",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_22",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_23",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_24",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_25",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_26",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_27",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "absent",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_28",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "H_INDEM_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "L_GOVLAW_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "absent",
+  "rule": "M_CONF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "present",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "present",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_29",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "absent",
+  "rule": "H_LOL_CARVEOUT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "absent",
+  "rule": "L_LATEFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "absent",
+  "rule": "M_AUDIT_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "H_ATTFEE_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "H_INDEM_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "H_IP_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "H_LOL_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "L_BROADDEF_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "L_GOVLAW_01",
+  "before": true,
+  "after": true
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "M_CONF_01",
+  "before": false,
+  "after": false
+ },
+ {
+  "doc_id": "synthetic_30",
+  "kind": "present",
+  "rule": "M_RENEW_01",
+  "before": true,
+  "after": true
+ }
+]

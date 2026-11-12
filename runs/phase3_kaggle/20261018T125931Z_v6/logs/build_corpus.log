@@ -1,0 +1,100 @@
+
+===== 2026-10-17T23:25:22+00:00 /usr/bin/python3 -m experiments.followup.build_corpus
+{
+  "manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+  "slices": {
+    "mcc_employment": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_lease": {
+      "docs": 32,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_purchase": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_services": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "nda": {
+      "docs": 123,
+      "with_gold": 123,
+      "duplicates": 2,
+      "in_dev_fixtures": 0
+    },
+    "licensing": {
+      "docs": 61,
+      "with_gold": 61,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "cuad_test": {
+      "docs": 102,
+      "with_gold": 102,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    }
+  },
+  "total_rows": 618
+}
+
+===== 2026-10-18T12:27:46+00:00 /usr/bin/python3 -m experiments.followup.build_corpus
+{
+  "manifest_sha256": "3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b",
+  "slices": {
+    "mcc_employment": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_lease": {
+      "docs": 32,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_purchase": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "mcc_services": {
+      "docs": 100,
+      "with_gold": 0,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "nda": {
+      "docs": 123,
+      "with_gold": 123,
+      "duplicates": 2,
+      "in_dev_fixtures": 0
+    },
+    "licensing": {
+      "docs": 61,
+      "with_gold": 61,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    },
+    "cuad_test": {
+      "docs": 102,
+      "with_gold": 102,
+      "duplicates": 0,
+      "in_dev_fixtures": 0
+    }
+  },
+  "total_rows": 618
+}

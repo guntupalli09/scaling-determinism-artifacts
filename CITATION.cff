@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these artefacts, please cite them as below."
+title: 'Research artefacts for "The Cost of Scaling Determinism: Coverage, Regression Risk and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis"'
+type: dataset
+version: "1.0"
+license: CC-BY-4.0
+# Metadata default only; archive includes MIT code and MCC-derived CC-BY-NC-SA-4.0 excerpts.
+# See LICENSE and RELEASE_DISCLOSURE_AUDIT.md before redistributing individual files.
+authors:
+  - family-names: ANONYMIZED
+    given-names: ANONYMIZED
+    affiliation: ANONYMIZED
+    orcid: "https://orcid.org/ANONYMIZED"
+  - family-names: ANONYMIZED
+    given-names: ANONYMIZED
+    affiliation: ANONYMIZED (ANONYMIZED)
+    orcid: "https://orcid.org/ANONYMIZED"
+keywords:
+  - reproducibility
+  - deterministic execution
+  - neuro-symbolic systems
+  - large language models
+  - contract analysis
+  - prompt injection
+  - software regression

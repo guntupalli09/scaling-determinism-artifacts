@@ -1,0 +1,31 @@
+{
+  "overall": "COMPLETE",
+  "step_a_passed": 0,
+  "comparators": {
+    "cuad_roberta-base": {
+      "step_a": "STEP_A_FAIL",
+      "step_b": "NOT_STARTED",
+      "step_c": "NOT_STARTED",
+      "complete": true
+    },
+    "cuad_roberta-large": {
+      "step_a": "STEP_A_FAIL",
+      "step_b": "NOT_STARTED",
+      "step_c": "NOT_STARTED",
+      "complete": true
+    },
+    "cuad_deberta-v2-xlarge": {
+      "step_a": "STEP_A_FAIL",
+      "step_b": "NOT_STARTED",
+      "step_c": "NOT_STARTED",
+      "complete": true
+    },
+    "contractnli_bert-base": {
+      "train": "COMPLETE",
+      "test": "COMPLETE",
+      "step_a": "STEP_A_FAIL",
+      "pairing": "GATED_STEP_A_NOT_PASSED",
+      "complete": true
+    }
+  }
+}

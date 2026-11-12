@@ -1,0 +1,150 @@
+[{"stream_name":"stderr","time":7.799274172,"data":"/usr/local/lib/python3.13/dist-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":7.79933383,"data":"  _validate(nbdict, ref, version, version_minor, relax_add_props)\n"}
+,{"stream_name":"stderr","time":8.857381027,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.857411044,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.857416479,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.857421992999999,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.555914423,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.555946962,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.555952308,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.555957,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":49.057814039,"data":"fresh state\n"}
+,{"stream_name":"stdout","time":119.608816028,"data":"code commit: 3bb4bfcb7baf38572855a66f0d9ecf512f978411\n"}
+,{"stream_name":"stdout","time":119.608852022,"data":"name, memory.total [MiB]\r\n"}
+,{"stream_name":"stdout","time":119.608856317,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":119.608859837,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":127.741943754,"data":"CUDA available: True | devices: 2\n"}
+,{"stream_name":"stdout","time":127.875190865,"data":"{\n"}
+,{"stream_name":"stdout","time":127.875216694,"data":" \"at\": \"2026-10-17T23:23:47+00:00\",\n"}
+,{"stream_name":"stdout","time":127.875222689,"data":" \"python\": \"3.13.15\",\n"}
+,{"stream_name":"stdout","time":127.875227817,"data":" \"repo_commit\": \"3bb4bfcb7baf38572855a66f0d9ecf512f978411\",\n"}
+,{"stream_name":"stdout","time":127.875232947,"data":" \"code_source\": \"git-archive snapshot\",\n"}
+,{"stream_name":"stdout","time":127.875237902,"data":" \"repo_dirty\": false,\n"}
+,{"stream_name":"stdout","time":127.875242979,"data":" \"budget_deadline_utc\": \"2026-10-18T10:23:47+00:00\",\n"}
+,{"stream_name":"stdout","time":127.8752482,"data":" \"gpus\": [\n"}
+,{"stream_name":"stdout","time":127.875252908,"data":"  \"Tesla T4, 15360 MiB, 580.178.04\",\n"}
+,{"stream_name":"stdout","time":127.875258141,"data":"  \"Tesla T4, 15360 MiB, 580.178.04\"\n"}
+,{"stream_name":"stdout","time":127.875262688,"data":" ]\n"}
+,{"stream_name":"stdout","time":127.875267184,"data":"}\n"}
+,{"stream_name":"stdout","time":127.943045534,"data":"{\n"}
+,{"stream_name":"stdout","time":127.943073671,"data":" \"at\": \"2026-10-17T23:23:47+00:00\",\n"}
+,{"stream_name":"stdout","time":127.943080418,"data":" \"python\": \"3.13.15\",\n"}
+,{"stream_name":"stdout","time":127.943085641,"data":" \"repo_commit\": \"3bb4bfcb7baf38572855a66f0d9ecf512f978411\",\n"}
+,{"stream_name":"stdout","time":127.943091004,"data":" \"code_source\": \"git-archive snapshot\",\n"}
+,{"stream_name":"stdout","time":127.943096216,"data":" \"repo_dirty\": false,\n"}
+,{"stream_name":"stdout","time":127.943114388,"data":" \"budget_deadline_utc\": \"2026-10-18T10:23:47+00:00\",\n"}
+,{"stream_name":"stdout","time":127.943117594,"data":" \"gpus\": [\n"}
+,{"stream_name":"stdout","time":127.943120192,"data":"  \"Tesla T4, 15360 MiB, 580.178.04\",\n"}
+,{"stream_name":"stdout","time":127.943122946,"data":"  \"Tesla T4, 15360 MiB, 580.178.04\"\n"}
+,{"stream_name":"stdout","time":127.94312554,"data":" ]\n"}
+,{"stream_name":"stdout","time":127.94312798,"data":"}\n"}
+,{"stream_name":"stdout","time":238.014844791,"data":"[2026-10-17T23:25:38+00:00] data: OK {'manifest_sha256': '3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b'}\n"}
+,{"stream_name":"stdout","time":238.21939862,"data":"[2026-10-17T23:25:38+00:00] data: OK {'manifest_sha256': '3bcd0d90806f244197d7afe6ca1752dbcae4dad6430d06c7b81fd4130a8c755b'}\n"}
+,{"stream_name":"stdout","time":266.57229548,"data":"[2026-10-17T23:26:06+00:00] cuad_deps: OK \n"}
+,{"stream_name":"stdout","time":266.573451961,"data":"[2026-10-17T23:26:06+00:00] cuad_roberta-base_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":266.775822706,"data":"[2026-10-17T23:26:06+00:00] cuad_deps: OK \n"}
+,{"stream_name":"stdout","time":266.775848338,"data":"[2026-10-17T23:26:06+00:00] cuad_roberta-base_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":379.544132786,"data":"[2026-10-17T23:27:59+00:00] cnli_env: OK {'torch': '1.8.1+cu111'}\n"}
+,{"stream_name":"stdout","time":379.550139441,"data":"[2026-10-17T23:27:59+00:00] cnli_train: RUNNING \n"}
+,{"stream_name":"stdout","time":379.75094622,"data":"[2026-10-17T23:27:59+00:00] cnli_env: OK {'torch': '1.8.1+cu111'}\n"}
+,{"stream_name":"stdout","time":379.750979288,"data":"[2026-10-17T23:27:59+00:00] cnli_train: RUNNING \n"}
+,{"stream_name":"stdout","time":6106.736802184,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-base_step_a: STEP_A_FAIL {'reproduced': {'aupr': 37.70365717030697, 'p_at_80r': 26.795580110497237, 'p_at_90r': 0}, 'published': {'aupr': 42.6, 'p_at_80r': 31.1, 'p_at_90r': 0.0}}\n"}
+,{"stream_name":"stdout","time":6106.738010789,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-base_step_bc: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":6106.738051606,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-large_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":6106.952627072,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-base_step_a: STEP_A_FAIL {'reproduced': {'aupr': 37.70365717030697, 'p_at_80r': 26.795580110497237, 'p_at_90r': 0}, 'published': {'aupr': 42.6, 'p_at_80r': 31.1, 'p_at_90r': 0.0}}\n"}
+,{"stream_name":"stdout","time":6106.952655352,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-base_step_bc: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":6106.952660687,"data":"[2026-10-18T01:03:26+00:00] cuad_roberta-large_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":22682.151667325,"data":"[2026-10-18T05:39:42+00:00] cuad_roberta-large_step_a: STEP_A_FAIL {'reproduced': {'aupr': 44.62980640131671, 'p_at_80r': 34.72648055510731, 'p_at_90r': 0}, 'published': {'aupr': 48.2, 'p_at_80r': 38.1, 'p_at_90r': 0.0}}\n"}
+,{"stream_name":"stdout","time":22682.151738731,"data":"[2026-10-18T05:39:42+00:00] cuad_roberta-large_step_bc: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":22682.151763675,"data":"[2026-10-18T05:39:42+00:00] cuad_deberta-v2-xlarge_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":22682.36771684,"data":"[2026-10-18T05:39:42+00:00] cuad_roberta-large_step_a: STEP_A_FAIL {'reproduced': {'aupr': 44.62980640131671, 'p_at_80r': 34.72648055510731, 'p_at_90r': 0}, 'published': {'aupr': 48.2, 'p_at_80r': 38.1, 'p_at_90r': 0.0}}\n"}
+,{"stream_name":"stdout","time":22682.367779994,"data":"[2026-10-18T05:39:42+00:00] cuad_roberta-large_step_bc: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":22682.367795884,"data":"[2026-10-18T05:39:42+00:00] cuad_deberta-v2-xlarge_step_a: RUNNING \n"}
+,{"stream_name":"stdout","time":26260.223039381,"data":"[2026-10-18T06:39:20+00:00] cnli_train: COMPLETE \n"}
+,{"stream_name":"stdout","time":26260.431491898,"data":"[2026-10-18T06:39:20+00:00] cnli_train: COMPLETE \n"}
+,{"stream_name":"stdout","time":27165.256967049,"data":"[2026-10-18T06:54:25+00:00] cnli_test: COMPLETE \n"}
+,{"stream_name":"stdout","time":27165.470030967,"data":"[2026-10-18T06:54:25+00:00] cnli_test: COMPLETE \n"}
+,{"stream_name":"stdout","time":27170.26336787,"data":"[2026-10-18T06:54:30+00:00] cnli_step_a: STEP_A_FAIL {'reproduced': {'accuracy': 0.8240076518412244, 'f1_entailment': 0.7750127279551728, 'map': 0.751117830634757}, 'key_paths': {'accuracy': 'macro_label_micro_doc.class.accuracy', 'f1_entailment': 'macro_label_micro_doc.class.f1_entailment', 'map': 'micro_label_micro_doc.span.map'}}\n"}
+,{"stream_name":"stdout","time":27170.263400033,"data":"[2026-10-18T06:54:30+00:00] cnli_pairing: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":27170.465083856,"data":"[2026-10-18T06:54:30+00:00] cnli_step_a: STEP_A_FAIL {'reproduced': {'accuracy': 0.8240076518412244, 'f1_entailment': 0.7750127279551728, 'map': 0.751117830634757}, 'key_paths': {'accuracy': 'macro_label_micro_doc.class.accuracy', 'f1_entailment': 'macro_label_micro_doc.class.f1_entailment', 'map': 'micro_label_micro_doc.span.map'}}\n"}
+,{"stream_name":"stdout","time":27170.465123916,"data":"[2026-10-18T06:54:30+00:00] cnli_pairing: GATED_STEP_A_NOT_PASSED \n"}
+,{"stream_name":"stdout","time":39732.950997707,"data":"[2026-10-18T10:23:53+00:00] cuad_deberta-v2-xlarge_step_a: INCOMPLETE_BUDGET {'questions_done': 1649, 'questions_expected': 4182}\n"}
+,{"stream_name":"stdout","time":39733.042539045,"data":"# Phase 3 validation report\n"}
+,{"stream_name":"stdout","time":39733.042593935,"data":"\n"}
+,{"stream_name":"stdout","time":39733.04260117,"data":"**Phase 3 status: INCOMPLETE.** Step A passed for 0 of 4 comparators. At least one comparator has not reached a terminal Step A or has unfinished Steps B/C; nothing below that is marked in progress is a result.\n"}
+,{"stream_name":"stdout","time":39733.042609822,"data":"\n"}
+,{"stream_name":"stdout","time":39733.04261278,"data":"Generated 2026-10-18T10:23:53+00:00 from `/kaggle/working/phase3_state`. Protocol: Step A (reproduce published metrics, pre-registered tolerances) → Step B (frozen corpus) → Step C (paired comparison), B/C only after Step A PASS. No tuning.\n"}
+,{"stream_name":"stdout","time":39733.042616841,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042619647,"data":"## Sessions\n"}
+,{"stream_name":"stdout","time":39733.042622435,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042625175,"data":"| Started (UTC) | GPUs | Repo commit | Dirty |\n"}
+,{"stream_name":"stdout","time":39733.042628031,"data":"|---|---|---|---|\n"}
+,{"stream_name":"stdout","time":39733.042630896,"data":"| 2026-10-17T23:23:47+00:00 | Tesla T4, 15360 MiB, 580.178.04; Tesla T4, 15360 MiB, 580.178.04 | `3bb4bfcb7b` | False |\n"}
+,{"stream_name":"stdout","time":39733.042633795,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042636471,"data":"Data: OK (manifest sha256 `3bcd0d90806f2441…`)\n"}
+,{"stream_name":"stdout","time":39733.042639256,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042641936,"data":"## CUAD (Hendrycks et al. 2021, Table 2), test split, 4,182 questions\n"}
+,{"stream_name":"stdout","time":39733.042644733,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042647416,"data":"| Model | Step A | AUPR (published) | P@80R (published) | Step B frozen corpus | Step C paired |\n"}
+,{"stream_name":"stdout","time":39733.042650488,"data":"|---|---|---|---|---|---|\n"}
+,{"stream_name":"stdout","time":39733.042662124,"data":"| roberta-base | STEP_A_FAIL | 37.7 (42.6) | 26.8 (31.1) | gated (Step A not passed) | gated (Step A not passed) |\n"}
+,{"stream_name":"stdout","time":39733.042664679,"data":"| roberta-large | STEP_A_FAIL | 44.6 (48.2) | 34.7 (38.1) | gated (Step A not passed) | gated (Step A not passed) |\n"}
+,{"stream_name":"stdout","time":39733.042666941,"data":"| deberta-v2-xlarge | INCOMPLETE_BUDGET (1649/4182 questions) | not scored | not scored | waits on Step A | waits on Step A |\n"}
+,{"stream_name":"stdout","time":39733.042676813,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042678928,"data":"## ContractNLI Span NLI BERT-base (Koreeda \u0026 Manning 2021, Table 3), test split\n"}
+,{"stream_name":"stdout","time":39733.042681512,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042683539,"data":"- Environment: OK 1.8.1+cu111; training (conf_base.yml, seed 42, one GPU): **COMPLETE**; test.py: **COMPLETE**\n"}
+,{"stream_name":"stdout","time":39733.042686179,"data":"- Step A: **STEP_A_FAIL**. mAP 0.751 (target 0.885), accuracy 0.824 (0.838), F1(E) 0.775 (0.765); key paths `{'accuracy': 'macro_label_micro_doc.class.accuracy', 'f1_entailment': 'macro_label_micro_doc.class.f1_entailment', 'map': 'micro_label_micro_doc.span.map'}`\n"}
+,{"stream_name":"stdout","time":39733.042688811,"data":"- Pairing: GATED_STEP_A_NOT_PASSED\n"}
+,{"stream_name":"stdout","time":39733.042690948,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042693003,"data":"## Known deviations from the original setups (declared, not tuned)\n"}
+,{"stream_name":"stdout","time":39733.042695175,"data":"\n"}
+,{"stream_name":"stdout","time":39733.042698228,"data":"- CUAD: community checkpoints `akdeniz27/*-cuad`; our re-implementation of HF SQuAD-v2 post-processing (max_seq 512, stride 256, n-best 20, fp32); tolerance pre-registered in `cuad_step_a.py` (commit `09e7990f`).\n"}
+,{"stream_name":"stdout","time":39733.042700871,"data":"- ContractNLI: one published configuration (conf_base.yml, seed 42) instead of the paper's 100-config sweep averaged over the best 3; torch 1.8.1+cu111 (the authors' README build for newer GPUs) instead of 1.7.1; other pins as in the authors' requirements.txt, plus packaging==20.9 and protobuf==3.20.3 (unpinned transitive dependencies whose current versions break transformers 4.5.1 / tensorboard 2.4.1).\n"}
+,{"stream_name":"stdout","time":39733.042703608,"data":"- Hardware: Kaggle free GPU (see Sessions). Results from a different GPU may differ in the last digits.\n"}
+,{"stream_name":"stdout","time":39733.042705876,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075531137,"data":"[2026-10-18T10:23:53+00:00] cuad_deberta-v2-xlarge_step_a: INCOMPLETE_BUDGET {'questions_done': 1649, 'questions_expected': 4182}\n"}
+,{"stream_name":"stdout","time":39733.075574344,"data":"# Phase 3 validation report\n"}
+,{"stream_name":"stdout","time":39733.075580478,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075584596,"data":"**Phase 3 status: INCOMPLETE.** Step A passed for 0 of 4 comparators. At least one comparator has not reached a terminal Step A or has unfinished Steps B/C; nothing below that is marked in progress is a result.\n"}
+,{"stream_name":"stdout","time":39733.075589375,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075593182,"data":"Generated 2026-10-18T10:23:53+00:00 from `/kaggle/working/phase3_state`. Protocol: Step A (reproduce published metrics, pre-registered tolerances) → Step B (frozen corpus) → Step C (paired comparison), B/C only after Step A PASS. No tuning.\n"}
+,{"stream_name":"stdout","time":39733.075598837,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075604928,"data":"## Sessions\n"}
+,{"stream_name":"stdout","time":39733.07562837,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075640155,"data":"| Started (UTC) | GPUs | Repo commit | Dirty |\n"}
+,{"stream_name":"stdout","time":39733.075661031,"data":"|---|---|---|---|\n"}
+,{"stream_name":"stdout","time":39733.075665446,"data":"| 2026-10-17T23:23:47+00:00 | Tesla T4, 15360 MiB, 580.178.04; Tesla T4, 15360 MiB, 580.178.04 | `3bb4bfcb7b` | False |\n"}
+,{"stream_name":"stdout","time":39733.075670171,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075674114,"data":"Data: OK (manifest sha256 `3bcd0d90806f2441…`)\n"}
+,{"stream_name":"stdout","time":39733.075686158,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075690105,"data":"## CUAD (Hendrycks et al. 2021, Table 2), test split, 4,182 questions\n"}
+,{"stream_name":"stdout","time":39733.075694108,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075697748,"data":"| Model | Step A | AUPR (published) | P@80R (published) | Step B frozen corpus | Step C paired |\n"}
+,{"stream_name":"stdout","time":39733.075701897,"data":"|---|---|---|---|---|---|\n"}
+,{"stream_name":"stdout","time":39733.075738363,"data":"| roberta-base | STEP_A_FAIL | 37.7 (42.6) | 26.8 (31.1) | gated (Step A not passed) | gated (Step A not passed) |\n"}
+,{"stream_name":"stdout","time":39733.075741928,"data":"| roberta-large | STEP_A_FAIL | 44.6 (48.2) | 34.7 (38.1) | gated (Step A not passed) | gated (Step A not passed) |\n"}
+,{"stream_name":"stdout","time":39733.075745081,"data":"| deberta-v2-xlarge | INCOMPLETE_BUDGET (1649/4182 questions) | not scored | not scored | waits on Step A | waits on Step A |\n"}
+,{"stream_name":"stdout","time":39733.075761972,"data":"\n"}
+,{"stream_name":"stdout","time":39733.07577699,"data":"## ContractNLI Span NLI BERT-base (Koreeda \u0026 Manning 2021, Table 3), test split\n"}
+,{"stream_name":"stdout","time":39733.075781814,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075785337,"data":"- Environment: OK 1.8.1+cu111; training (conf_base.yml, seed 42, one GPU): **COMPLETE**; test.py: **COMPLETE**\n"}
+,{"stream_name":"stdout","time":39733.075790076,"data":"- Step A: **STEP_A_FAIL**. mAP 0.751 (target 0.885), accuracy 0.824 (0.838), F1(E) 0.775 (0.765); key paths `{'accuracy': 'macro_label_micro_doc.class.accuracy', 'f1_entailment': 'macro_label_micro_doc.class.f1_entailment', 'map': 'micro_label_micro_doc.span.map'}`\n"}
+,{"stream_name":"stdout","time":39733.075796613,"data":"- Pairing: GATED_STEP_A_NOT_PASSED\n"}
+,{"stream_name":"stdout","time":39733.075800168,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075814637,"data":"## Known deviations from the original setups (declared, not tuned)\n"}
+,{"stream_name":"stdout","time":39733.075818041,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075822392,"data":"- CUAD: community checkpoints `akdeniz27/*-cuad`; our re-implementation of HF SQuAD-v2 post-processing (max_seq 512, stride 256, n-best 20, fp32); tolerance pre-registered in `cuad_step_a.py` (commit `09e7990f`).\n"}
+,{"stream_name":"stdout","time":39733.07582634,"data":"- ContractNLI: one published configuration (conf_base.yml, seed 42) instead of the paper's 100-config sweep averaged over the best 3; torch 1.8.1+cu111 (the authors' README build for newer GPUs) instead of 1.7.1; other pins as in the authors' requirements.txt, plus packaging==20.9 and protobuf==3.20.3 (unpinned transitive dependencies whose current versions break transformers 4.5.1 / tensorboard 2.4.1).\n"}
+,{"stream_name":"stdout","time":39733.075830752,"data":"- Hardware: Kaggle free GPU (see Sessions). Results from a different GPU may differ in the last digits.\n"}
+,{"stream_name":"stdout","time":39733.075834311,"data":"\n"}
+,{"stream_name":"stdout","time":39733.075837413,"data":"driver exit code: 0\n"}
+,{"stream_name":"stderr","time":39739.400456785,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":39739.400491572,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":39739.776503794,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":39739.776530274,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":39741.695397254,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":39741.779429078,"data":"[NbConvertApp] Writing 20381 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":39744.345157196,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":39745.251396522,"data":"[NbConvertApp] Writing 304173 bytes to __results__.html\n"}
+]

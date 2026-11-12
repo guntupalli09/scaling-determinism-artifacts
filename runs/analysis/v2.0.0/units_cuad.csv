@@ -1,0 +1,2143 @@
+doc_id,category,strength,in_release_scope,gold,engine
+cuad_test_001,Change Of Control,direct,True,False,False
+cuad_test_001,Anti-Assignment,partial,True,True,False
+cuad_test_001,Ip Ownership Assignment,direct,True,False,False
+cuad_test_001,Uncapped Liability,partial,True,False,False
+cuad_test_001,Cap On Liability,partial,True,False,False
+cuad_test_001,Audit Rights,direct,True,True,False
+cuad_test_001,Non-Compete,direct,True,False,False
+cuad_test_001,No-Solicit Of Customers,partial,True,False,False
+cuad_test_001,No-Solicit Of Employees,direct,True,False,False
+cuad_test_001,Renewal Term,partial,True,False,False
+cuad_test_001,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_001,Governing Law,direct,True,True,False
+cuad_test_001,Termination For Convenience,partial,True,False,False
+cuad_test_001,Most Favored Nation,direct,True,False,False
+cuad_test_001,Minimum Commitment,direct,False,False,False
+cuad_test_001,Non-Disparagement,direct,False,False,False
+cuad_test_001,Source Code Escrow,direct,True,False,False
+cuad_test_001,Liquidated Damages,partial,False,False,False
+cuad_test_001,Insurance,partial,False,False,False
+cuad_test_001,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_001,Exclusivity,partial,False,False,False
+cuad_test_002,Change Of Control,direct,True,False,False
+cuad_test_002,Anti-Assignment,partial,True,False,False
+cuad_test_002,Ip Ownership Assignment,direct,True,False,False
+cuad_test_002,Uncapped Liability,partial,True,False,False
+cuad_test_002,Cap On Liability,partial,True,True,False
+cuad_test_002,Audit Rights,direct,True,False,True
+cuad_test_002,Non-Compete,direct,True,False,False
+cuad_test_002,No-Solicit Of Customers,partial,True,False,False
+cuad_test_002,No-Solicit Of Employees,direct,True,False,False
+cuad_test_002,Renewal Term,partial,True,False,False
+cuad_test_002,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_002,Governing Law,direct,True,True,False
+cuad_test_002,Termination For Convenience,partial,True,True,False
+cuad_test_002,Most Favored Nation,direct,True,False,False
+cuad_test_002,Minimum Commitment,direct,False,True,False
+cuad_test_002,Non-Disparagement,direct,False,False,False
+cuad_test_002,Source Code Escrow,direct,True,False,False
+cuad_test_002,Liquidated Damages,partial,False,True,False
+cuad_test_002,Insurance,partial,False,True,False
+cuad_test_002,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_002,Exclusivity,partial,False,False,False
+cuad_test_003,Change Of Control,direct,True,False,False
+cuad_test_003,Anti-Assignment,partial,True,True,False
+cuad_test_003,Ip Ownership Assignment,direct,True,False,False
+cuad_test_003,Uncapped Liability,partial,True,False,False
+cuad_test_003,Cap On Liability,partial,True,True,False
+cuad_test_003,Audit Rights,direct,True,True,False
+cuad_test_003,Non-Compete,direct,True,True,False
+cuad_test_003,No-Solicit Of Customers,partial,True,False,False
+cuad_test_003,No-Solicit Of Employees,direct,True,False,False
+cuad_test_003,Renewal Term,partial,True,False,False
+cuad_test_003,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_003,Governing Law,direct,True,True,True
+cuad_test_003,Termination For Convenience,partial,True,False,False
+cuad_test_003,Most Favored Nation,direct,True,True,False
+cuad_test_003,Minimum Commitment,direct,False,False,False
+cuad_test_003,Non-Disparagement,direct,False,False,False
+cuad_test_003,Source Code Escrow,direct,True,False,False
+cuad_test_003,Liquidated Damages,partial,False,False,False
+cuad_test_003,Insurance,partial,False,False,False
+cuad_test_003,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_003,Exclusivity,partial,False,True,False
+cuad_test_004,Change Of Control,direct,True,False,False
+cuad_test_004,Anti-Assignment,partial,True,False,False
+cuad_test_004,Ip Ownership Assignment,direct,True,False,False
+cuad_test_004,Uncapped Liability,partial,True,False,False
+cuad_test_004,Cap On Liability,partial,True,False,False
+cuad_test_004,Audit Rights,direct,True,True,False
+cuad_test_004,Non-Compete,direct,True,False,False
+cuad_test_004,No-Solicit Of Customers,partial,True,False,False
+cuad_test_004,No-Solicit Of Employees,direct,True,False,False
+cuad_test_004,Renewal Term,partial,True,False,False
+cuad_test_004,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_004,Governing Law,direct,True,False,False
+cuad_test_004,Termination For Convenience,partial,True,True,False
+cuad_test_004,Most Favored Nation,direct,True,False,False
+cuad_test_004,Minimum Commitment,direct,False,False,False
+cuad_test_004,Non-Disparagement,direct,False,False,False
+cuad_test_004,Source Code Escrow,direct,True,False,False
+cuad_test_004,Liquidated Damages,partial,False,False,False
+cuad_test_004,Insurance,partial,False,False,False
+cuad_test_004,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_004,Exclusivity,partial,False,False,False
+cuad_test_005,Change Of Control,direct,True,False,False
+cuad_test_005,Anti-Assignment,partial,True,True,False
+cuad_test_005,Ip Ownership Assignment,direct,True,False,False
+cuad_test_005,Uncapped Liability,partial,True,False,False
+cuad_test_005,Cap On Liability,partial,True,False,False
+cuad_test_005,Audit Rights,direct,True,True,False
+cuad_test_005,Non-Compete,direct,True,False,False
+cuad_test_005,No-Solicit Of Customers,partial,True,False,False
+cuad_test_005,No-Solicit Of Employees,direct,True,False,False
+cuad_test_005,Renewal Term,partial,True,False,False
+cuad_test_005,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_005,Governing Law,direct,True,True,True
+cuad_test_005,Termination For Convenience,partial,True,False,False
+cuad_test_005,Most Favored Nation,direct,True,False,False
+cuad_test_005,Minimum Commitment,direct,False,True,False
+cuad_test_005,Non-Disparagement,direct,False,False,False
+cuad_test_005,Source Code Escrow,direct,True,False,False
+cuad_test_005,Liquidated Damages,partial,False,False,False
+cuad_test_005,Insurance,partial,False,True,False
+cuad_test_005,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_005,Exclusivity,partial,False,True,False
+cuad_test_006,Change Of Control,direct,True,True,False
+cuad_test_006,Anti-Assignment,partial,True,True,False
+cuad_test_006,Ip Ownership Assignment,direct,True,True,False
+cuad_test_006,Uncapped Liability,partial,True,False,False
+cuad_test_006,Cap On Liability,partial,True,False,False
+cuad_test_006,Audit Rights,direct,True,False,False
+cuad_test_006,Non-Compete,direct,True,True,False
+cuad_test_006,No-Solicit Of Customers,partial,True,False,False
+cuad_test_006,No-Solicit Of Employees,direct,True,False,False
+cuad_test_006,Renewal Term,partial,True,True,False
+cuad_test_006,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_006,Governing Law,direct,True,True,True
+cuad_test_006,Termination For Convenience,partial,True,False,True
+cuad_test_006,Most Favored Nation,direct,True,False,False
+cuad_test_006,Minimum Commitment,direct,False,True,False
+cuad_test_006,Non-Disparagement,direct,False,False,False
+cuad_test_006,Source Code Escrow,direct,True,False,False
+cuad_test_006,Liquidated Damages,partial,False,False,False
+cuad_test_006,Insurance,partial,False,True,False
+cuad_test_006,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_006,Exclusivity,partial,False,True,False
+cuad_test_007,Change Of Control,direct,True,True,False
+cuad_test_007,Anti-Assignment,partial,True,True,False
+cuad_test_007,Ip Ownership Assignment,direct,True,False,False
+cuad_test_007,Uncapped Liability,partial,True,False,True
+cuad_test_007,Cap On Liability,partial,True,False,False
+cuad_test_007,Audit Rights,direct,True,True,False
+cuad_test_007,Non-Compete,direct,True,False,False
+cuad_test_007,No-Solicit Of Customers,partial,True,False,False
+cuad_test_007,No-Solicit Of Employees,direct,True,False,False
+cuad_test_007,Renewal Term,partial,True,False,False
+cuad_test_007,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_007,Governing Law,direct,True,True,True
+cuad_test_007,Termination For Convenience,partial,True,False,False
+cuad_test_007,Most Favored Nation,direct,True,False,False
+cuad_test_007,Minimum Commitment,direct,False,False,False
+cuad_test_007,Non-Disparagement,direct,False,False,False
+cuad_test_007,Source Code Escrow,direct,True,False,False
+cuad_test_007,Liquidated Damages,partial,False,False,False
+cuad_test_007,Insurance,partial,False,False,False
+cuad_test_007,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_007,Exclusivity,partial,False,False,False
+cuad_test_008,Change Of Control,direct,True,True,False
+cuad_test_008,Anti-Assignment,partial,True,True,False
+cuad_test_008,Ip Ownership Assignment,direct,True,True,False
+cuad_test_008,Uncapped Liability,partial,True,False,False
+cuad_test_008,Cap On Liability,partial,True,False,False
+cuad_test_008,Audit Rights,direct,True,False,False
+cuad_test_008,Non-Compete,direct,True,False,False
+cuad_test_008,No-Solicit Of Customers,partial,True,False,False
+cuad_test_008,No-Solicit Of Employees,direct,True,False,False
+cuad_test_008,Renewal Term,partial,True,False,False
+cuad_test_008,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_008,Governing Law,direct,True,True,True
+cuad_test_008,Termination For Convenience,partial,True,False,False
+cuad_test_008,Most Favored Nation,direct,True,False,False
+cuad_test_008,Minimum Commitment,direct,False,False,False
+cuad_test_008,Non-Disparagement,direct,False,False,False
+cuad_test_008,Source Code Escrow,direct,True,False,False
+cuad_test_008,Liquidated Damages,partial,False,False,False
+cuad_test_008,Insurance,partial,False,False,False
+cuad_test_008,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_008,Exclusivity,partial,False,True,False
+cuad_test_009,Change Of Control,direct,True,True,False
+cuad_test_009,Anti-Assignment,partial,True,True,False
+cuad_test_009,Ip Ownership Assignment,direct,True,False,False
+cuad_test_009,Uncapped Liability,partial,True,False,True
+cuad_test_009,Cap On Liability,partial,True,True,False
+cuad_test_009,Audit Rights,direct,True,True,False
+cuad_test_009,Non-Compete,direct,True,False,False
+cuad_test_009,No-Solicit Of Customers,partial,True,True,False
+cuad_test_009,No-Solicit Of Employees,direct,True,False,False
+cuad_test_009,Renewal Term,partial,True,False,False
+cuad_test_009,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_009,Governing Law,direct,True,True,True
+cuad_test_009,Termination For Convenience,partial,True,True,True
+cuad_test_009,Most Favored Nation,direct,True,False,False
+cuad_test_009,Minimum Commitment,direct,False,True,False
+cuad_test_009,Non-Disparagement,direct,False,False,False
+cuad_test_009,Source Code Escrow,direct,True,False,False
+cuad_test_009,Liquidated Damages,partial,False,False,False
+cuad_test_009,Insurance,partial,False,True,False
+cuad_test_009,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_009,Exclusivity,partial,False,False,False
+cuad_test_010,Change Of Control,direct,True,False,False
+cuad_test_010,Anti-Assignment,partial,True,True,False
+cuad_test_010,Ip Ownership Assignment,direct,True,False,False
+cuad_test_010,Uncapped Liability,partial,True,False,False
+cuad_test_010,Cap On Liability,partial,True,False,False
+cuad_test_010,Audit Rights,direct,True,False,False
+cuad_test_010,Non-Compete,direct,True,False,False
+cuad_test_010,No-Solicit Of Customers,partial,True,True,False
+cuad_test_010,No-Solicit Of Employees,direct,True,False,False
+cuad_test_010,Renewal Term,partial,True,True,False
+cuad_test_010,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_010,Governing Law,direct,True,True,True
+cuad_test_010,Termination For Convenience,partial,True,False,False
+cuad_test_010,Most Favored Nation,direct,True,False,False
+cuad_test_010,Minimum Commitment,direct,False,False,False
+cuad_test_010,Non-Disparagement,direct,False,False,False
+cuad_test_010,Source Code Escrow,direct,True,False,False
+cuad_test_010,Liquidated Damages,partial,False,True,False
+cuad_test_010,Insurance,partial,False,False,False
+cuad_test_010,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_010,Exclusivity,partial,False,False,False
+cuad_test_011,Change Of Control,direct,True,True,True
+cuad_test_011,Anti-Assignment,partial,True,True,True
+cuad_test_011,Ip Ownership Assignment,direct,True,False,False
+cuad_test_011,Uncapped Liability,partial,True,False,False
+cuad_test_011,Cap On Liability,partial,True,False,False
+cuad_test_011,Audit Rights,direct,True,False,False
+cuad_test_011,Non-Compete,direct,True,True,False
+cuad_test_011,No-Solicit Of Customers,partial,True,False,False
+cuad_test_011,No-Solicit Of Employees,direct,True,False,False
+cuad_test_011,Renewal Term,partial,True,False,False
+cuad_test_011,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_011,Governing Law,direct,True,True,True
+cuad_test_011,Termination For Convenience,partial,True,False,True
+cuad_test_011,Most Favored Nation,direct,True,False,False
+cuad_test_011,Minimum Commitment,direct,False,False,False
+cuad_test_011,Non-Disparagement,direct,False,True,False
+cuad_test_011,Source Code Escrow,direct,True,False,False
+cuad_test_011,Liquidated Damages,partial,False,False,False
+cuad_test_011,Insurance,partial,False,False,False
+cuad_test_011,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_011,Exclusivity,partial,False,True,False
+cuad_test_012,Change Of Control,direct,True,False,False
+cuad_test_012,Anti-Assignment,partial,True,True,False
+cuad_test_012,Ip Ownership Assignment,direct,True,False,False
+cuad_test_012,Uncapped Liability,partial,True,False,False
+cuad_test_012,Cap On Liability,partial,True,False,False
+cuad_test_012,Audit Rights,direct,True,True,True
+cuad_test_012,Non-Compete,direct,True,False,False
+cuad_test_012,No-Solicit Of Customers,partial,True,False,False
+cuad_test_012,No-Solicit Of Employees,direct,True,False,False
+cuad_test_012,Renewal Term,partial,True,True,False
+cuad_test_012,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_012,Governing Law,direct,True,False,False
+cuad_test_012,Termination For Convenience,partial,True,True,False
+cuad_test_012,Most Favored Nation,direct,True,False,False
+cuad_test_012,Minimum Commitment,direct,False,False,False
+cuad_test_012,Non-Disparagement,direct,False,False,False
+cuad_test_012,Source Code Escrow,direct,True,False,False
+cuad_test_012,Liquidated Damages,partial,False,False,False
+cuad_test_012,Insurance,partial,False,True,False
+cuad_test_012,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_012,Exclusivity,partial,False,True,False
+cuad_test_013,Change Of Control,direct,True,False,False
+cuad_test_013,Anti-Assignment,partial,True,False,False
+cuad_test_013,Ip Ownership Assignment,direct,True,False,False
+cuad_test_013,Uncapped Liability,partial,True,False,False
+cuad_test_013,Cap On Liability,partial,True,True,False
+cuad_test_013,Audit Rights,direct,True,False,False
+cuad_test_013,Non-Compete,direct,True,False,False
+cuad_test_013,No-Solicit Of Customers,partial,True,False,False
+cuad_test_013,No-Solicit Of Employees,direct,True,False,False
+cuad_test_013,Renewal Term,partial,True,True,False
+cuad_test_013,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_013,Governing Law,direct,True,True,True
+cuad_test_013,Termination For Convenience,partial,True,True,True
+cuad_test_013,Most Favored Nation,direct,True,False,False
+cuad_test_013,Minimum Commitment,direct,False,False,False
+cuad_test_013,Non-Disparagement,direct,False,False,False
+cuad_test_013,Source Code Escrow,direct,True,False,False
+cuad_test_013,Liquidated Damages,partial,False,False,False
+cuad_test_013,Insurance,partial,False,False,False
+cuad_test_013,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_013,Exclusivity,partial,False,False,False
+cuad_test_014,Change Of Control,direct,True,False,False
+cuad_test_014,Anti-Assignment,partial,True,True,False
+cuad_test_014,Ip Ownership Assignment,direct,True,False,False
+cuad_test_014,Uncapped Liability,partial,True,False,False
+cuad_test_014,Cap On Liability,partial,True,False,False
+cuad_test_014,Audit Rights,direct,True,False,False
+cuad_test_014,Non-Compete,direct,True,False,False
+cuad_test_014,No-Solicit Of Customers,partial,True,False,False
+cuad_test_014,No-Solicit Of Employees,direct,True,False,False
+cuad_test_014,Renewal Term,partial,True,False,False
+cuad_test_014,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_014,Governing Law,direct,True,True,True
+cuad_test_014,Termination For Convenience,partial,True,False,False
+cuad_test_014,Most Favored Nation,direct,True,False,False
+cuad_test_014,Minimum Commitment,direct,False,False,False
+cuad_test_014,Non-Disparagement,direct,False,False,False
+cuad_test_014,Source Code Escrow,direct,True,False,False
+cuad_test_014,Liquidated Damages,partial,False,False,False
+cuad_test_014,Insurance,partial,False,False,False
+cuad_test_014,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_014,Exclusivity,partial,False,False,False
+cuad_test_015,Change Of Control,direct,True,False,False
+cuad_test_015,Anti-Assignment,partial,True,True,False
+cuad_test_015,Ip Ownership Assignment,direct,True,False,False
+cuad_test_015,Uncapped Liability,partial,True,False,False
+cuad_test_015,Cap On Liability,partial,True,False,False
+cuad_test_015,Audit Rights,direct,True,False,False
+cuad_test_015,Non-Compete,direct,True,False,False
+cuad_test_015,No-Solicit Of Customers,partial,True,False,False
+cuad_test_015,No-Solicit Of Employees,direct,True,False,False
+cuad_test_015,Renewal Term,partial,True,True,False
+cuad_test_015,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_015,Governing Law,direct,True,True,True
+cuad_test_015,Termination For Convenience,partial,True,False,False
+cuad_test_015,Most Favored Nation,direct,True,False,False
+cuad_test_015,Minimum Commitment,direct,False,False,False
+cuad_test_015,Non-Disparagement,direct,False,False,False
+cuad_test_015,Source Code Escrow,direct,True,False,False
+cuad_test_015,Liquidated Damages,partial,False,False,False
+cuad_test_015,Insurance,partial,False,False,False
+cuad_test_015,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_015,Exclusivity,partial,False,False,False
+cuad_test_016,Change Of Control,direct,True,False,False
+cuad_test_016,Anti-Assignment,partial,True,True,False
+cuad_test_016,Ip Ownership Assignment,direct,True,False,False
+cuad_test_016,Uncapped Liability,partial,True,False,False
+cuad_test_016,Cap On Liability,partial,True,True,False
+cuad_test_016,Audit Rights,direct,True,False,False
+cuad_test_016,Non-Compete,direct,True,False,False
+cuad_test_016,No-Solicit Of Customers,partial,True,False,False
+cuad_test_016,No-Solicit Of Employees,direct,True,False,False
+cuad_test_016,Renewal Term,partial,True,False,False
+cuad_test_016,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_016,Governing Law,direct,True,True,False
+cuad_test_016,Termination For Convenience,partial,True,False,False
+cuad_test_016,Most Favored Nation,direct,True,False,False
+cuad_test_016,Minimum Commitment,direct,False,False,False
+cuad_test_016,Non-Disparagement,direct,False,False,False
+cuad_test_016,Source Code Escrow,direct,True,False,False
+cuad_test_016,Liquidated Damages,partial,False,False,False
+cuad_test_016,Insurance,partial,False,True,False
+cuad_test_016,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_016,Exclusivity,partial,False,False,False
+cuad_test_017,Change Of Control,direct,True,False,False
+cuad_test_017,Anti-Assignment,partial,True,True,False
+cuad_test_017,Ip Ownership Assignment,direct,True,False,False
+cuad_test_017,Uncapped Liability,partial,True,False,False
+cuad_test_017,Cap On Liability,partial,True,True,False
+cuad_test_017,Audit Rights,direct,True,True,True
+cuad_test_017,Non-Compete,direct,True,True,False
+cuad_test_017,No-Solicit Of Customers,partial,True,False,False
+cuad_test_017,No-Solicit Of Employees,direct,True,False,False
+cuad_test_017,Renewal Term,partial,True,False,False
+cuad_test_017,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_017,Governing Law,direct,True,True,True
+cuad_test_017,Termination For Convenience,partial,True,True,False
+cuad_test_017,Most Favored Nation,direct,True,False,False
+cuad_test_017,Minimum Commitment,direct,False,True,False
+cuad_test_017,Non-Disparagement,direct,False,False,False
+cuad_test_017,Source Code Escrow,direct,True,False,False
+cuad_test_017,Liquidated Damages,partial,False,False,False
+cuad_test_017,Insurance,partial,False,False,False
+cuad_test_017,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_017,Exclusivity,partial,False,False,False
+cuad_test_018,Change Of Control,direct,True,False,False
+cuad_test_018,Anti-Assignment,partial,True,False,False
+cuad_test_018,Ip Ownership Assignment,direct,True,False,False
+cuad_test_018,Uncapped Liability,partial,True,False,False
+cuad_test_018,Cap On Liability,partial,True,False,False
+cuad_test_018,Audit Rights,direct,True,False,False
+cuad_test_018,Non-Compete,direct,True,False,False
+cuad_test_018,No-Solicit Of Customers,partial,True,False,False
+cuad_test_018,No-Solicit Of Employees,direct,True,False,False
+cuad_test_018,Renewal Term,partial,True,False,False
+cuad_test_018,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_018,Governing Law,direct,True,False,False
+cuad_test_018,Termination For Convenience,partial,True,False,False
+cuad_test_018,Most Favored Nation,direct,True,False,False
+cuad_test_018,Minimum Commitment,direct,False,False,False
+cuad_test_018,Non-Disparagement,direct,False,False,False
+cuad_test_018,Source Code Escrow,direct,True,False,False
+cuad_test_018,Liquidated Damages,partial,False,False,False
+cuad_test_018,Insurance,partial,False,False,False
+cuad_test_018,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_018,Exclusivity,partial,False,False,False
+cuad_test_019,Change Of Control,direct,True,True,False
+cuad_test_019,Anti-Assignment,partial,True,True,False
+cuad_test_019,Ip Ownership Assignment,direct,True,False,False
+cuad_test_019,Uncapped Liability,partial,True,False,True
+cuad_test_019,Cap On Liability,partial,True,False,False
+cuad_test_019,Audit Rights,direct,True,True,True
+cuad_test_019,Non-Compete,direct,True,False,False
+cuad_test_019,No-Solicit Of Customers,partial,True,False,False
+cuad_test_019,No-Solicit Of Employees,direct,True,False,False
+cuad_test_019,Renewal Term,partial,True,False,False
+cuad_test_019,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_019,Governing Law,direct,True,True,True
+cuad_test_019,Termination For Convenience,partial,True,False,False
+cuad_test_019,Most Favored Nation,direct,True,False,False
+cuad_test_019,Minimum Commitment,direct,False,True,False
+cuad_test_019,Non-Disparagement,direct,False,False,False
+cuad_test_019,Source Code Escrow,direct,True,False,False
+cuad_test_019,Liquidated Damages,partial,False,False,False
+cuad_test_019,Insurance,partial,False,True,False
+cuad_test_019,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_019,Exclusivity,partial,False,False,False
+cuad_test_020,Change Of Control,direct,True,False,False
+cuad_test_020,Anti-Assignment,partial,True,True,False
+cuad_test_020,Ip Ownership Assignment,direct,True,True,True
+cuad_test_020,Uncapped Liability,partial,True,False,False
+cuad_test_020,Cap On Liability,partial,True,True,False
+cuad_test_020,Audit Rights,direct,True,False,False
+cuad_test_020,Non-Compete,direct,True,True,False
+cuad_test_020,No-Solicit Of Customers,partial,True,True,False
+cuad_test_020,No-Solicit Of Employees,direct,True,True,False
+cuad_test_020,Renewal Term,partial,True,False,False
+cuad_test_020,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_020,Governing Law,direct,True,True,True
+cuad_test_020,Termination For Convenience,partial,True,True,True
+cuad_test_020,Most Favored Nation,direct,True,False,False
+cuad_test_020,Minimum Commitment,direct,False,False,False
+cuad_test_020,Non-Disparagement,direct,False,False,False
+cuad_test_020,Source Code Escrow,direct,True,False,False
+cuad_test_020,Liquidated Damages,partial,False,False,False
+cuad_test_020,Insurance,partial,False,False,False
+cuad_test_020,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_020,Exclusivity,partial,False,False,False
+cuad_test_021,Change Of Control,direct,True,True,False
+cuad_test_021,Anti-Assignment,partial,True,True,False
+cuad_test_021,Ip Ownership Assignment,direct,True,True,False
+cuad_test_021,Uncapped Liability,partial,True,True,False
+cuad_test_021,Cap On Liability,partial,True,True,False
+cuad_test_021,Audit Rights,direct,True,True,True
+cuad_test_021,Non-Compete,direct,True,True,False
+cuad_test_021,No-Solicit Of Customers,partial,True,False,False
+cuad_test_021,No-Solicit Of Employees,direct,True,True,False
+cuad_test_021,Renewal Term,partial,True,False,False
+cuad_test_021,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_021,Governing Law,direct,True,True,True
+cuad_test_021,Termination For Convenience,partial,True,True,True
+cuad_test_021,Most Favored Nation,direct,True,False,False
+cuad_test_021,Minimum Commitment,direct,False,True,False
+cuad_test_021,Non-Disparagement,direct,False,False,False
+cuad_test_021,Source Code Escrow,direct,True,False,False
+cuad_test_021,Liquidated Damages,partial,False,True,False
+cuad_test_021,Insurance,partial,False,True,False
+cuad_test_021,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_021,Exclusivity,partial,False,True,False
+cuad_test_022,Change Of Control,direct,True,False,False
+cuad_test_022,Anti-Assignment,partial,True,True,False
+cuad_test_022,Ip Ownership Assignment,direct,True,False,False
+cuad_test_022,Uncapped Liability,partial,True,False,True
+cuad_test_022,Cap On Liability,partial,True,False,False
+cuad_test_022,Audit Rights,direct,True,False,False
+cuad_test_022,Non-Compete,direct,True,False,False
+cuad_test_022,No-Solicit Of Customers,partial,True,False,False
+cuad_test_022,No-Solicit Of Employees,direct,True,False,False
+cuad_test_022,Renewal Term,partial,True,False,False
+cuad_test_022,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_022,Governing Law,direct,True,True,True
+cuad_test_022,Termination For Convenience,partial,True,True,True
+cuad_test_022,Most Favored Nation,direct,True,False,False
+cuad_test_022,Minimum Commitment,direct,False,False,False
+cuad_test_022,Non-Disparagement,direct,False,False,False
+cuad_test_022,Source Code Escrow,direct,True,False,False
+cuad_test_022,Liquidated Damages,partial,False,False,False
+cuad_test_022,Insurance,partial,False,False,False
+cuad_test_022,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_022,Exclusivity,partial,False,False,False
+cuad_test_023,Change Of Control,direct,True,True,False
+cuad_test_023,Anti-Assignment,partial,True,True,False
+cuad_test_023,Ip Ownership Assignment,direct,True,True,False
+cuad_test_023,Uncapped Liability,partial,True,False,True
+cuad_test_023,Cap On Liability,partial,True,True,False
+cuad_test_023,Audit Rights,direct,True,True,True
+cuad_test_023,Non-Compete,direct,True,False,False
+cuad_test_023,No-Solicit Of Customers,partial,True,False,False
+cuad_test_023,No-Solicit Of Employees,direct,True,False,False
+cuad_test_023,Renewal Term,partial,True,False,False
+cuad_test_023,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_023,Governing Law,direct,True,True,True
+cuad_test_023,Termination For Convenience,partial,True,True,False
+cuad_test_023,Most Favored Nation,direct,True,False,False
+cuad_test_023,Minimum Commitment,direct,False,False,False
+cuad_test_023,Non-Disparagement,direct,False,False,False
+cuad_test_023,Source Code Escrow,direct,True,False,False
+cuad_test_023,Liquidated Damages,partial,False,False,False
+cuad_test_023,Insurance,partial,False,False,False
+cuad_test_023,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_023,Exclusivity,partial,False,True,False
+cuad_test_024,Change Of Control,direct,True,False,False
+cuad_test_024,Anti-Assignment,partial,True,True,False
+cuad_test_024,Ip Ownership Assignment,direct,True,False,False
+cuad_test_024,Uncapped Liability,partial,True,False,False
+cuad_test_024,Cap On Liability,partial,True,False,False
+cuad_test_024,Audit Rights,direct,True,False,False
+cuad_test_024,Non-Compete,direct,True,False,False
+cuad_test_024,No-Solicit Of Customers,partial,True,False,False
+cuad_test_024,No-Solicit Of Employees,direct,True,False,False
+cuad_test_024,Renewal Term,partial,True,False,False
+cuad_test_024,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_024,Governing Law,direct,True,True,True
+cuad_test_024,Termination For Convenience,partial,True,False,False
+cuad_test_024,Most Favored Nation,direct,True,False,False
+cuad_test_024,Minimum Commitment,direct,False,False,False
+cuad_test_024,Non-Disparagement,direct,False,False,False
+cuad_test_024,Source Code Escrow,direct,True,False,False
+cuad_test_024,Liquidated Damages,partial,False,False,False
+cuad_test_024,Insurance,partial,False,True,False
+cuad_test_024,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_024,Exclusivity,partial,False,False,False
+cuad_test_025,Change Of Control,direct,True,True,False
+cuad_test_025,Anti-Assignment,partial,True,True,False
+cuad_test_025,Ip Ownership Assignment,direct,True,False,False
+cuad_test_025,Uncapped Liability,partial,True,False,True
+cuad_test_025,Cap On Liability,partial,True,False,False
+cuad_test_025,Audit Rights,direct,True,False,False
+cuad_test_025,Non-Compete,direct,True,True,False
+cuad_test_025,No-Solicit Of Customers,partial,True,False,False
+cuad_test_025,No-Solicit Of Employees,direct,True,False,False
+cuad_test_025,Renewal Term,partial,True,False,False
+cuad_test_025,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_025,Governing Law,direct,True,True,True
+cuad_test_025,Termination For Convenience,partial,True,True,False
+cuad_test_025,Most Favored Nation,direct,True,False,False
+cuad_test_025,Minimum Commitment,direct,False,False,False
+cuad_test_025,Non-Disparagement,direct,False,False,False
+cuad_test_025,Source Code Escrow,direct,True,False,False
+cuad_test_025,Liquidated Damages,partial,False,False,False
+cuad_test_025,Insurance,partial,False,True,False
+cuad_test_025,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_025,Exclusivity,partial,False,True,False
+cuad_test_026,Change Of Control,direct,True,False,False
+cuad_test_026,Anti-Assignment,partial,True,True,False
+cuad_test_026,Ip Ownership Assignment,direct,True,False,False
+cuad_test_026,Uncapped Liability,partial,True,False,True
+cuad_test_026,Cap On Liability,partial,True,False,False
+cuad_test_026,Audit Rights,direct,True,False,False
+cuad_test_026,Non-Compete,direct,True,False,False
+cuad_test_026,No-Solicit Of Customers,partial,True,False,False
+cuad_test_026,No-Solicit Of Employees,direct,True,False,False
+cuad_test_026,Renewal Term,partial,True,False,False
+cuad_test_026,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_026,Governing Law,direct,True,True,False
+cuad_test_026,Termination For Convenience,partial,True,False,False
+cuad_test_026,Most Favored Nation,direct,True,False,False
+cuad_test_026,Minimum Commitment,direct,False,False,False
+cuad_test_026,Non-Disparagement,direct,False,False,False
+cuad_test_026,Source Code Escrow,direct,True,False,False
+cuad_test_026,Liquidated Damages,partial,False,False,False
+cuad_test_026,Insurance,partial,False,False,False
+cuad_test_026,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_026,Exclusivity,partial,False,False,False
+cuad_test_027,Change Of Control,direct,True,True,False
+cuad_test_027,Anti-Assignment,partial,True,True,False
+cuad_test_027,Ip Ownership Assignment,direct,True,False,False
+cuad_test_027,Uncapped Liability,partial,True,False,False
+cuad_test_027,Cap On Liability,partial,True,False,False
+cuad_test_027,Audit Rights,direct,True,False,False
+cuad_test_027,Non-Compete,direct,True,False,False
+cuad_test_027,No-Solicit Of Customers,partial,True,False,False
+cuad_test_027,No-Solicit Of Employees,direct,True,False,False
+cuad_test_027,Renewal Term,partial,True,False,False
+cuad_test_027,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_027,Governing Law,direct,True,True,False
+cuad_test_027,Termination For Convenience,partial,True,False,False
+cuad_test_027,Most Favored Nation,direct,True,False,False
+cuad_test_027,Minimum Commitment,direct,False,False,False
+cuad_test_027,Non-Disparagement,direct,False,False,False
+cuad_test_027,Source Code Escrow,direct,True,False,False
+cuad_test_027,Liquidated Damages,partial,False,False,False
+cuad_test_027,Insurance,partial,False,True,False
+cuad_test_027,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_027,Exclusivity,partial,False,False,False
+cuad_test_028,Change Of Control,direct,True,False,False
+cuad_test_028,Anti-Assignment,partial,True,False,False
+cuad_test_028,Ip Ownership Assignment,direct,True,False,False
+cuad_test_028,Uncapped Liability,partial,True,False,False
+cuad_test_028,Cap On Liability,partial,True,False,False
+cuad_test_028,Audit Rights,direct,True,False,False
+cuad_test_028,Non-Compete,direct,True,False,False
+cuad_test_028,No-Solicit Of Customers,partial,True,False,False
+cuad_test_028,No-Solicit Of Employees,direct,True,False,False
+cuad_test_028,Renewal Term,partial,True,False,False
+cuad_test_028,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_028,Governing Law,direct,True,False,False
+cuad_test_028,Termination For Convenience,partial,True,False,False
+cuad_test_028,Most Favored Nation,direct,True,False,False
+cuad_test_028,Minimum Commitment,direct,False,False,False
+cuad_test_028,Non-Disparagement,direct,False,False,False
+cuad_test_028,Source Code Escrow,direct,True,False,False
+cuad_test_028,Liquidated Damages,partial,False,False,False
+cuad_test_028,Insurance,partial,False,False,False
+cuad_test_028,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_028,Exclusivity,partial,False,False,False
+cuad_test_029,Change Of Control,direct,True,True,False
+cuad_test_029,Anti-Assignment,partial,True,True,False
+cuad_test_029,Ip Ownership Assignment,direct,True,True,False
+cuad_test_029,Uncapped Liability,partial,True,False,True
+cuad_test_029,Cap On Liability,partial,True,True,False
+cuad_test_029,Audit Rights,direct,True,True,True
+cuad_test_029,Non-Compete,direct,True,True,True
+cuad_test_029,No-Solicit Of Customers,partial,True,True,True
+cuad_test_029,No-Solicit Of Employees,direct,True,True,True
+cuad_test_029,Renewal Term,partial,True,True,False
+cuad_test_029,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_029,Governing Law,direct,True,True,True
+cuad_test_029,Termination For Convenience,partial,True,False,False
+cuad_test_029,Most Favored Nation,direct,True,False,False
+cuad_test_029,Minimum Commitment,direct,False,True,False
+cuad_test_029,Non-Disparagement,direct,False,False,False
+cuad_test_029,Source Code Escrow,direct,True,False,False
+cuad_test_029,Liquidated Damages,partial,False,True,False
+cuad_test_029,Insurance,partial,False,True,False
+cuad_test_029,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_029,Exclusivity,partial,False,False,False
+cuad_test_030,Change Of Control,direct,True,False,False
+cuad_test_030,Anti-Assignment,partial,True,True,False
+cuad_test_030,Ip Ownership Assignment,direct,True,False,False
+cuad_test_030,Uncapped Liability,partial,True,False,False
+cuad_test_030,Cap On Liability,partial,True,True,False
+cuad_test_030,Audit Rights,direct,True,False,False
+cuad_test_030,Non-Compete,direct,True,False,True
+cuad_test_030,No-Solicit Of Customers,partial,True,False,True
+cuad_test_030,No-Solicit Of Employees,direct,True,False,True
+cuad_test_030,Renewal Term,partial,True,False,False
+cuad_test_030,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_030,Governing Law,direct,True,True,True
+cuad_test_030,Termination For Convenience,partial,True,False,False
+cuad_test_030,Most Favored Nation,direct,True,False,False
+cuad_test_030,Minimum Commitment,direct,False,True,False
+cuad_test_030,Non-Disparagement,direct,False,False,False
+cuad_test_030,Source Code Escrow,direct,True,False,False
+cuad_test_030,Liquidated Damages,partial,False,True,False
+cuad_test_030,Insurance,partial,False,True,False
+cuad_test_030,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_030,Exclusivity,partial,False,False,False
+cuad_test_031,Change Of Control,direct,True,True,False
+cuad_test_031,Anti-Assignment,partial,True,True,False
+cuad_test_031,Ip Ownership Assignment,direct,True,True,False
+cuad_test_031,Uncapped Liability,partial,True,False,False
+cuad_test_031,Cap On Liability,partial,True,False,False
+cuad_test_031,Audit Rights,direct,True,True,False
+cuad_test_031,Non-Compete,direct,True,False,False
+cuad_test_031,No-Solicit Of Customers,partial,True,False,False
+cuad_test_031,No-Solicit Of Employees,direct,True,False,False
+cuad_test_031,Renewal Term,partial,True,False,False
+cuad_test_031,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_031,Governing Law,direct,True,True,True
+cuad_test_031,Termination For Convenience,partial,True,False,False
+cuad_test_031,Most Favored Nation,direct,True,False,False
+cuad_test_031,Minimum Commitment,direct,False,False,False
+cuad_test_031,Non-Disparagement,direct,False,False,False
+cuad_test_031,Source Code Escrow,direct,True,False,False
+cuad_test_031,Liquidated Damages,partial,False,False,False
+cuad_test_031,Insurance,partial,False,False,False
+cuad_test_031,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_031,Exclusivity,partial,False,False,False
+cuad_test_032,Change Of Control,direct,True,False,False
+cuad_test_032,Anti-Assignment,partial,True,True,False
+cuad_test_032,Ip Ownership Assignment,direct,True,False,False
+cuad_test_032,Uncapped Liability,partial,True,False,False
+cuad_test_032,Cap On Liability,partial,True,False,False
+cuad_test_032,Audit Rights,direct,True,True,True
+cuad_test_032,Non-Compete,direct,True,False,False
+cuad_test_032,No-Solicit Of Customers,partial,True,False,False
+cuad_test_032,No-Solicit Of Employees,direct,True,False,False
+cuad_test_032,Renewal Term,partial,True,False,False
+cuad_test_032,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_032,Governing Law,direct,True,True,True
+cuad_test_032,Termination For Convenience,partial,True,False,True
+cuad_test_032,Most Favored Nation,direct,True,False,False
+cuad_test_032,Minimum Commitment,direct,False,True,False
+cuad_test_032,Non-Disparagement,direct,False,True,False
+cuad_test_032,Source Code Escrow,direct,True,False,False
+cuad_test_032,Liquidated Damages,partial,False,False,False
+cuad_test_032,Insurance,partial,False,True,False
+cuad_test_032,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_032,Exclusivity,partial,False,True,False
+cuad_test_033,Change Of Control,direct,True,False,False
+cuad_test_033,Anti-Assignment,partial,True,True,False
+cuad_test_033,Ip Ownership Assignment,direct,True,False,False
+cuad_test_033,Uncapped Liability,partial,True,False,False
+cuad_test_033,Cap On Liability,partial,True,True,False
+cuad_test_033,Audit Rights,direct,True,False,False
+cuad_test_033,Non-Compete,direct,True,False,False
+cuad_test_033,No-Solicit Of Customers,partial,True,False,False
+cuad_test_033,No-Solicit Of Employees,direct,True,False,False
+cuad_test_033,Renewal Term,partial,True,False,False
+cuad_test_033,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_033,Governing Law,direct,True,True,True
+cuad_test_033,Termination For Convenience,partial,True,False,False
+cuad_test_033,Most Favored Nation,direct,True,False,False
+cuad_test_033,Minimum Commitment,direct,False,True,False
+cuad_test_033,Non-Disparagement,direct,False,False,False
+cuad_test_033,Source Code Escrow,direct,True,False,False
+cuad_test_033,Liquidated Damages,partial,False,False,False
+cuad_test_033,Insurance,partial,False,True,False
+cuad_test_033,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_033,Exclusivity,partial,False,True,False
+cuad_test_034,Change Of Control,direct,True,False,False
+cuad_test_034,Anti-Assignment,partial,True,False,False
+cuad_test_034,Ip Ownership Assignment,direct,True,False,False
+cuad_test_034,Uncapped Liability,partial,True,False,False
+cuad_test_034,Cap On Liability,partial,True,False,False
+cuad_test_034,Audit Rights,direct,True,False,False
+cuad_test_034,Non-Compete,direct,True,False,False
+cuad_test_034,No-Solicit Of Customers,partial,True,False,False
+cuad_test_034,No-Solicit Of Employees,direct,True,False,False
+cuad_test_034,Renewal Term,partial,True,False,False
+cuad_test_034,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_034,Governing Law,direct,True,False,False
+cuad_test_034,Termination For Convenience,partial,True,False,False
+cuad_test_034,Most Favored Nation,direct,True,False,False
+cuad_test_034,Minimum Commitment,direct,False,False,False
+cuad_test_034,Non-Disparagement,direct,False,False,False
+cuad_test_034,Source Code Escrow,direct,True,False,False
+cuad_test_034,Liquidated Damages,partial,False,False,False
+cuad_test_034,Insurance,partial,False,False,False
+cuad_test_034,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_034,Exclusivity,partial,False,False,False
+cuad_test_035,Change Of Control,direct,True,True,False
+cuad_test_035,Anti-Assignment,partial,True,True,False
+cuad_test_035,Ip Ownership Assignment,direct,True,False,False
+cuad_test_035,Uncapped Liability,partial,True,False,False
+cuad_test_035,Cap On Liability,partial,True,True,False
+cuad_test_035,Audit Rights,direct,True,True,False
+cuad_test_035,Non-Compete,direct,True,False,False
+cuad_test_035,No-Solicit Of Customers,partial,True,False,False
+cuad_test_035,No-Solicit Of Employees,direct,True,False,False
+cuad_test_035,Renewal Term,partial,True,False,False
+cuad_test_035,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_035,Governing Law,direct,True,True,True
+cuad_test_035,Termination For Convenience,partial,True,False,False
+cuad_test_035,Most Favored Nation,direct,True,False,False
+cuad_test_035,Minimum Commitment,direct,False,False,False
+cuad_test_035,Non-Disparagement,direct,False,False,False
+cuad_test_035,Source Code Escrow,direct,True,False,False
+cuad_test_035,Liquidated Damages,partial,False,False,False
+cuad_test_035,Insurance,partial,False,False,False
+cuad_test_035,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_035,Exclusivity,partial,False,True,False
+cuad_test_036,Change Of Control,direct,True,False,False
+cuad_test_036,Anti-Assignment,partial,True,True,False
+cuad_test_036,Ip Ownership Assignment,direct,True,False,False
+cuad_test_036,Uncapped Liability,partial,True,False,False
+cuad_test_036,Cap On Liability,partial,True,False,False
+cuad_test_036,Audit Rights,direct,True,False,False
+cuad_test_036,Non-Compete,direct,True,False,False
+cuad_test_036,No-Solicit Of Customers,partial,True,False,False
+cuad_test_036,No-Solicit Of Employees,direct,True,False,False
+cuad_test_036,Renewal Term,partial,True,False,False
+cuad_test_036,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_036,Governing Law,direct,True,True,False
+cuad_test_036,Termination For Convenience,partial,True,False,False
+cuad_test_036,Most Favored Nation,direct,True,False,False
+cuad_test_036,Minimum Commitment,direct,False,False,False
+cuad_test_036,Non-Disparagement,direct,False,True,False
+cuad_test_036,Source Code Escrow,direct,True,False,False
+cuad_test_036,Liquidated Damages,partial,False,False,False
+cuad_test_036,Insurance,partial,False,False,False
+cuad_test_036,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_036,Exclusivity,partial,False,False,False
+cuad_test_037,Change Of Control,direct,True,False,False
+cuad_test_037,Anti-Assignment,partial,True,True,False
+cuad_test_037,Ip Ownership Assignment,direct,True,False,False
+cuad_test_037,Uncapped Liability,partial,True,False,False
+cuad_test_037,Cap On Liability,partial,True,True,False
+cuad_test_037,Audit Rights,direct,True,True,True
+cuad_test_037,Non-Compete,direct,True,False,False
+cuad_test_037,No-Solicit Of Customers,partial,True,False,False
+cuad_test_037,No-Solicit Of Employees,direct,True,False,False
+cuad_test_037,Renewal Term,partial,True,True,False
+cuad_test_037,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_037,Governing Law,direct,True,True,True
+cuad_test_037,Termination For Convenience,partial,True,False,False
+cuad_test_037,Most Favored Nation,direct,True,False,False
+cuad_test_037,Minimum Commitment,direct,False,True,False
+cuad_test_037,Non-Disparagement,direct,False,False,False
+cuad_test_037,Source Code Escrow,direct,True,False,False
+cuad_test_037,Liquidated Damages,partial,False,True,False
+cuad_test_037,Insurance,partial,False,False,False
+cuad_test_037,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_037,Exclusivity,partial,False,True,False
+cuad_test_038,Change Of Control,direct,True,False,False
+cuad_test_038,Anti-Assignment,partial,True,True,False
+cuad_test_038,Ip Ownership Assignment,direct,True,True,False
+cuad_test_038,Uncapped Liability,partial,True,False,False
+cuad_test_038,Cap On Liability,partial,True,False,False
+cuad_test_038,Audit Rights,direct,True,False,False
+cuad_test_038,Non-Compete,direct,True,True,False
+cuad_test_038,No-Solicit Of Customers,partial,True,False,False
+cuad_test_038,No-Solicit Of Employees,direct,True,False,False
+cuad_test_038,Renewal Term,partial,True,False,False
+cuad_test_038,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_038,Governing Law,direct,True,True,True
+cuad_test_038,Termination For Convenience,partial,True,False,False
+cuad_test_038,Most Favored Nation,direct,True,False,False
+cuad_test_038,Minimum Commitment,direct,False,False,False
+cuad_test_038,Non-Disparagement,direct,False,False,False
+cuad_test_038,Source Code Escrow,direct,True,False,False
+cuad_test_038,Liquidated Damages,partial,False,False,False
+cuad_test_038,Insurance,partial,False,True,False
+cuad_test_038,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_038,Exclusivity,partial,False,False,False
+cuad_test_039,Change Of Control,direct,True,False,False
+cuad_test_039,Anti-Assignment,partial,True,True,False
+cuad_test_039,Ip Ownership Assignment,direct,True,False,False
+cuad_test_039,Uncapped Liability,partial,True,False,True
+cuad_test_039,Cap On Liability,partial,True,True,False
+cuad_test_039,Audit Rights,direct,True,False,False
+cuad_test_039,Non-Compete,direct,True,False,False
+cuad_test_039,No-Solicit Of Customers,partial,True,False,False
+cuad_test_039,No-Solicit Of Employees,direct,True,False,False
+cuad_test_039,Renewal Term,partial,True,False,False
+cuad_test_039,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_039,Governing Law,direct,True,True,False
+cuad_test_039,Termination For Convenience,partial,True,True,False
+cuad_test_039,Most Favored Nation,direct,True,False,False
+cuad_test_039,Minimum Commitment,direct,False,False,False
+cuad_test_039,Non-Disparagement,direct,False,False,False
+cuad_test_039,Source Code Escrow,direct,True,False,False
+cuad_test_039,Liquidated Damages,partial,False,False,False
+cuad_test_039,Insurance,partial,False,False,False
+cuad_test_039,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_039,Exclusivity,partial,False,False,False
+cuad_test_040,Change Of Control,direct,True,True,False
+cuad_test_040,Anti-Assignment,partial,True,True,False
+cuad_test_040,Ip Ownership Assignment,direct,True,False,False
+cuad_test_040,Uncapped Liability,partial,True,True,False
+cuad_test_040,Cap On Liability,partial,True,True,False
+cuad_test_040,Audit Rights,direct,True,True,True
+cuad_test_040,Non-Compete,direct,True,True,False
+cuad_test_040,No-Solicit Of Customers,partial,True,False,False
+cuad_test_040,No-Solicit Of Employees,direct,True,False,False
+cuad_test_040,Renewal Term,partial,True,False,False
+cuad_test_040,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_040,Governing Law,direct,True,True,True
+cuad_test_040,Termination For Convenience,partial,True,True,True
+cuad_test_040,Most Favored Nation,direct,True,False,False
+cuad_test_040,Minimum Commitment,direct,False,False,False
+cuad_test_040,Non-Disparagement,direct,False,False,False
+cuad_test_040,Source Code Escrow,direct,True,False,False
+cuad_test_040,Liquidated Damages,partial,False,False,False
+cuad_test_040,Insurance,partial,False,True,False
+cuad_test_040,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_040,Exclusivity,partial,False,True,False
+cuad_test_041,Change Of Control,direct,True,True,False
+cuad_test_041,Anti-Assignment,partial,True,True,False
+cuad_test_041,Ip Ownership Assignment,direct,True,True,False
+cuad_test_041,Uncapped Liability,partial,True,False,True
+cuad_test_041,Cap On Liability,partial,True,False,False
+cuad_test_041,Audit Rights,direct,True,False,False
+cuad_test_041,Non-Compete,direct,True,False,False
+cuad_test_041,No-Solicit Of Customers,partial,True,False,False
+cuad_test_041,No-Solicit Of Employees,direct,True,False,False
+cuad_test_041,Renewal Term,partial,True,True,True
+cuad_test_041,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_041,Governing Law,direct,True,True,False
+cuad_test_041,Termination For Convenience,partial,True,True,False
+cuad_test_041,Most Favored Nation,direct,True,False,False
+cuad_test_041,Minimum Commitment,direct,False,False,False
+cuad_test_041,Non-Disparagement,direct,False,False,False
+cuad_test_041,Source Code Escrow,direct,True,False,False
+cuad_test_041,Liquidated Damages,partial,False,False,False
+cuad_test_041,Insurance,partial,False,False,False
+cuad_test_041,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_041,Exclusivity,partial,False,False,False
+cuad_test_042,Change Of Control,direct,True,False,False
+cuad_test_042,Anti-Assignment,partial,True,True,False
+cuad_test_042,Ip Ownership Assignment,direct,True,False,False
+cuad_test_042,Uncapped Liability,partial,True,False,True
+cuad_test_042,Cap On Liability,partial,True,True,False
+cuad_test_042,Audit Rights,direct,True,True,True
+cuad_test_042,Non-Compete,direct,True,False,False
+cuad_test_042,No-Solicit Of Customers,partial,True,False,False
+cuad_test_042,No-Solicit Of Employees,direct,True,False,False
+cuad_test_042,Renewal Term,partial,True,True,False
+cuad_test_042,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_042,Governing Law,direct,True,True,True
+cuad_test_042,Termination For Convenience,partial,True,True,False
+cuad_test_042,Most Favored Nation,direct,True,False,False
+cuad_test_042,Minimum Commitment,direct,False,False,False
+cuad_test_042,Non-Disparagement,direct,False,False,False
+cuad_test_042,Source Code Escrow,direct,True,False,False
+cuad_test_042,Liquidated Damages,partial,False,False,False
+cuad_test_042,Insurance,partial,False,False,False
+cuad_test_042,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_042,Exclusivity,partial,False,False,False
+cuad_test_043,Change Of Control,direct,True,False,False
+cuad_test_043,Anti-Assignment,partial,True,False,False
+cuad_test_043,Ip Ownership Assignment,direct,True,False,False
+cuad_test_043,Uncapped Liability,partial,True,False,False
+cuad_test_043,Cap On Liability,partial,True,False,False
+cuad_test_043,Audit Rights,direct,True,True,True
+cuad_test_043,Non-Compete,direct,True,True,False
+cuad_test_043,No-Solicit Of Customers,partial,True,False,False
+cuad_test_043,No-Solicit Of Employees,direct,True,False,False
+cuad_test_043,Renewal Term,partial,True,False,False
+cuad_test_043,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_043,Governing Law,direct,True,True,True
+cuad_test_043,Termination For Convenience,partial,True,False,False
+cuad_test_043,Most Favored Nation,direct,True,False,False
+cuad_test_043,Minimum Commitment,direct,False,True,False
+cuad_test_043,Non-Disparagement,direct,False,False,False
+cuad_test_043,Source Code Escrow,direct,True,False,False
+cuad_test_043,Liquidated Damages,partial,False,False,False
+cuad_test_043,Insurance,partial,False,False,False
+cuad_test_043,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_043,Exclusivity,partial,False,True,False
+cuad_test_044,Change Of Control,direct,True,True,False
+cuad_test_044,Anti-Assignment,partial,True,False,False
+cuad_test_044,Ip Ownership Assignment,direct,True,True,False
+cuad_test_044,Uncapped Liability,partial,True,False,False
+cuad_test_044,Cap On Liability,partial,True,False,False
+cuad_test_044,Audit Rights,direct,True,False,False
+cuad_test_044,Non-Compete,direct,True,False,False
+cuad_test_044,No-Solicit Of Customers,partial,True,False,False
+cuad_test_044,No-Solicit Of Employees,direct,True,False,False
+cuad_test_044,Renewal Term,partial,True,False,False
+cuad_test_044,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_044,Governing Law,direct,True,False,True
+cuad_test_044,Termination For Convenience,partial,True,True,False
+cuad_test_044,Most Favored Nation,direct,True,False,False
+cuad_test_044,Minimum Commitment,direct,False,False,False
+cuad_test_044,Non-Disparagement,direct,False,False,False
+cuad_test_044,Source Code Escrow,direct,True,False,False
+cuad_test_044,Liquidated Damages,partial,False,False,False
+cuad_test_044,Insurance,partial,False,False,False
+cuad_test_044,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_044,Exclusivity,partial,False,False,False
+cuad_test_045,Change Of Control,direct,True,False,False
+cuad_test_045,Anti-Assignment,partial,True,True,False
+cuad_test_045,Ip Ownership Assignment,direct,True,False,False
+cuad_test_045,Uncapped Liability,partial,True,True,True
+cuad_test_045,Cap On Liability,partial,True,True,True
+cuad_test_045,Audit Rights,direct,True,False,False
+cuad_test_045,Non-Compete,direct,True,False,False
+cuad_test_045,No-Solicit Of Customers,partial,True,False,False
+cuad_test_045,No-Solicit Of Employees,direct,True,False,False
+cuad_test_045,Renewal Term,partial,True,False,False
+cuad_test_045,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_045,Governing Law,direct,True,True,True
+cuad_test_045,Termination For Convenience,partial,True,False,False
+cuad_test_045,Most Favored Nation,direct,True,False,False
+cuad_test_045,Minimum Commitment,direct,False,False,False
+cuad_test_045,Non-Disparagement,direct,False,False,False
+cuad_test_045,Source Code Escrow,direct,True,False,False
+cuad_test_045,Liquidated Damages,partial,False,False,False
+cuad_test_045,Insurance,partial,False,False,False
+cuad_test_045,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_045,Exclusivity,partial,False,False,False
+cuad_test_046,Change Of Control,direct,True,False,False
+cuad_test_046,Anti-Assignment,partial,True,True,False
+cuad_test_046,Ip Ownership Assignment,direct,True,False,False
+cuad_test_046,Uncapped Liability,partial,True,False,False
+cuad_test_046,Cap On Liability,partial,True,False,False
+cuad_test_046,Audit Rights,direct,True,True,False
+cuad_test_046,Non-Compete,direct,True,False,False
+cuad_test_046,No-Solicit Of Customers,partial,True,False,False
+cuad_test_046,No-Solicit Of Employees,direct,True,False,False
+cuad_test_046,Renewal Term,partial,True,False,False
+cuad_test_046,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_046,Governing Law,direct,True,True,True
+cuad_test_046,Termination For Convenience,partial,True,False,False
+cuad_test_046,Most Favored Nation,direct,True,True,False
+cuad_test_046,Minimum Commitment,direct,False,True,False
+cuad_test_046,Non-Disparagement,direct,False,False,False
+cuad_test_046,Source Code Escrow,direct,True,False,False
+cuad_test_046,Liquidated Damages,partial,False,False,False
+cuad_test_046,Insurance,partial,False,False,False
+cuad_test_046,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_046,Exclusivity,partial,False,True,False
+cuad_test_047,Change Of Control,direct,True,False,True
+cuad_test_047,Anti-Assignment,partial,True,True,True
+cuad_test_047,Ip Ownership Assignment,direct,True,False,False
+cuad_test_047,Uncapped Liability,partial,True,False,False
+cuad_test_047,Cap On Liability,partial,True,False,False
+cuad_test_047,Audit Rights,direct,True,False,False
+cuad_test_047,Non-Compete,direct,True,False,False
+cuad_test_047,No-Solicit Of Customers,partial,True,False,False
+cuad_test_047,No-Solicit Of Employees,direct,True,False,False
+cuad_test_047,Renewal Term,partial,True,False,False
+cuad_test_047,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_047,Governing Law,direct,True,True,False
+cuad_test_047,Termination For Convenience,partial,True,False,True
+cuad_test_047,Most Favored Nation,direct,True,False,False
+cuad_test_047,Minimum Commitment,direct,False,True,False
+cuad_test_047,Non-Disparagement,direct,False,False,False
+cuad_test_047,Source Code Escrow,direct,True,False,False
+cuad_test_047,Liquidated Damages,partial,False,False,False
+cuad_test_047,Insurance,partial,False,False,False
+cuad_test_047,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_047,Exclusivity,partial,False,False,False
+cuad_test_048,Change Of Control,direct,True,False,False
+cuad_test_048,Anti-Assignment,partial,True,True,False
+cuad_test_048,Ip Ownership Assignment,direct,True,False,False
+cuad_test_048,Uncapped Liability,partial,True,False,False
+cuad_test_048,Cap On Liability,partial,True,False,False
+cuad_test_048,Audit Rights,direct,True,False,False
+cuad_test_048,Non-Compete,direct,True,False,False
+cuad_test_048,No-Solicit Of Customers,partial,True,False,False
+cuad_test_048,No-Solicit Of Employees,direct,True,False,False
+cuad_test_048,Renewal Term,partial,True,False,False
+cuad_test_048,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_048,Governing Law,direct,True,True,True
+cuad_test_048,Termination For Convenience,partial,True,False,False
+cuad_test_048,Most Favored Nation,direct,True,False,False
+cuad_test_048,Minimum Commitment,direct,False,False,False
+cuad_test_048,Non-Disparagement,direct,False,False,False
+cuad_test_048,Source Code Escrow,direct,True,False,False
+cuad_test_048,Liquidated Damages,partial,False,False,False
+cuad_test_048,Insurance,partial,False,False,False
+cuad_test_048,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_048,Exclusivity,partial,False,False,False
+cuad_test_049,Change Of Control,direct,True,False,False
+cuad_test_049,Anti-Assignment,partial,True,False,False
+cuad_test_049,Ip Ownership Assignment,direct,True,False,False
+cuad_test_049,Uncapped Liability,partial,True,False,False
+cuad_test_049,Cap On Liability,partial,True,False,False
+cuad_test_049,Audit Rights,direct,True,False,False
+cuad_test_049,Non-Compete,direct,True,False,False
+cuad_test_049,No-Solicit Of Customers,partial,True,False,False
+cuad_test_049,No-Solicit Of Employees,direct,True,False,False
+cuad_test_049,Renewal Term,partial,True,False,False
+cuad_test_049,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_049,Governing Law,direct,True,True,True
+cuad_test_049,Termination For Convenience,partial,True,False,False
+cuad_test_049,Most Favored Nation,direct,True,False,False
+cuad_test_049,Minimum Commitment,direct,False,False,False
+cuad_test_049,Non-Disparagement,direct,False,False,False
+cuad_test_049,Source Code Escrow,direct,True,False,False
+cuad_test_049,Liquidated Damages,partial,False,False,False
+cuad_test_049,Insurance,partial,False,True,False
+cuad_test_049,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_049,Exclusivity,partial,False,False,False
+cuad_test_050,Change Of Control,direct,True,False,False
+cuad_test_050,Anti-Assignment,partial,True,True,False
+cuad_test_050,Ip Ownership Assignment,direct,True,True,False
+cuad_test_050,Uncapped Liability,partial,True,True,False
+cuad_test_050,Cap On Liability,partial,True,True,False
+cuad_test_050,Audit Rights,direct,True,False,False
+cuad_test_050,Non-Compete,direct,True,False,False
+cuad_test_050,No-Solicit Of Customers,partial,True,False,False
+cuad_test_050,No-Solicit Of Employees,direct,True,True,False
+cuad_test_050,Renewal Term,partial,True,False,False
+cuad_test_050,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_050,Governing Law,direct,True,True,True
+cuad_test_050,Termination For Convenience,partial,True,True,True
+cuad_test_050,Most Favored Nation,direct,True,False,False
+cuad_test_050,Minimum Commitment,direct,False,False,False
+cuad_test_050,Non-Disparagement,direct,False,False,False
+cuad_test_050,Source Code Escrow,direct,True,False,False
+cuad_test_050,Liquidated Damages,partial,False,False,False
+cuad_test_050,Insurance,partial,False,True,False
+cuad_test_050,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_050,Exclusivity,partial,False,False,False
+cuad_test_051,Change Of Control,direct,True,False,False
+cuad_test_051,Anti-Assignment,partial,True,False,False
+cuad_test_051,Ip Ownership Assignment,direct,True,False,False
+cuad_test_051,Uncapped Liability,partial,True,False,False
+cuad_test_051,Cap On Liability,partial,True,False,False
+cuad_test_051,Audit Rights,direct,True,False,False
+cuad_test_051,Non-Compete,direct,True,False,False
+cuad_test_051,No-Solicit Of Customers,partial,True,False,False
+cuad_test_051,No-Solicit Of Employees,direct,True,False,False
+cuad_test_051,Renewal Term,partial,True,False,False
+cuad_test_051,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_051,Governing Law,direct,True,False,False
+cuad_test_051,Termination For Convenience,partial,True,False,False
+cuad_test_051,Most Favored Nation,direct,True,False,False
+cuad_test_051,Minimum Commitment,direct,False,False,False
+cuad_test_051,Non-Disparagement,direct,False,False,False
+cuad_test_051,Source Code Escrow,direct,True,False,False
+cuad_test_051,Liquidated Damages,partial,False,False,False
+cuad_test_051,Insurance,partial,False,False,False
+cuad_test_051,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_051,Exclusivity,partial,False,False,False
+cuad_test_052,Change Of Control,direct,True,False,False
+cuad_test_052,Anti-Assignment,partial,True,False,False
+cuad_test_052,Ip Ownership Assignment,direct,True,False,False
+cuad_test_052,Uncapped Liability,partial,True,False,True
+cuad_test_052,Cap On Liability,partial,True,True,False
+cuad_test_052,Audit Rights,direct,True,False,False
+cuad_test_052,Non-Compete,direct,True,False,False
+cuad_test_052,No-Solicit Of Customers,partial,True,False,False
+cuad_test_052,No-Solicit Of Employees,direct,True,False,False
+cuad_test_052,Renewal Term,partial,True,False,False
+cuad_test_052,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_052,Governing Law,direct,True,True,True
+cuad_test_052,Termination For Convenience,partial,True,False,False
+cuad_test_052,Most Favored Nation,direct,True,False,False
+cuad_test_052,Minimum Commitment,direct,False,False,False
+cuad_test_052,Non-Disparagement,direct,False,False,False
+cuad_test_052,Source Code Escrow,direct,True,False,False
+cuad_test_052,Liquidated Damages,partial,False,False,False
+cuad_test_052,Insurance,partial,False,False,False
+cuad_test_052,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_052,Exclusivity,partial,False,False,False
+cuad_test_053,Change Of Control,direct,True,True,False
+cuad_test_053,Anti-Assignment,partial,True,True,False
+cuad_test_053,Ip Ownership Assignment,direct,True,False,False
+cuad_test_053,Uncapped Liability,partial,True,False,False
+cuad_test_053,Cap On Liability,partial,True,True,False
+cuad_test_053,Audit Rights,direct,True,True,True
+cuad_test_053,Non-Compete,direct,True,True,False
+cuad_test_053,No-Solicit Of Customers,partial,True,False,False
+cuad_test_053,No-Solicit Of Employees,direct,True,True,False
+cuad_test_053,Renewal Term,partial,True,False,False
+cuad_test_053,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_053,Governing Law,direct,True,True,True
+cuad_test_053,Termination For Convenience,partial,True,False,False
+cuad_test_053,Most Favored Nation,direct,True,False,False
+cuad_test_053,Minimum Commitment,direct,False,False,False
+cuad_test_053,Non-Disparagement,direct,False,True,False
+cuad_test_053,Source Code Escrow,direct,True,False,False
+cuad_test_053,Liquidated Damages,partial,False,True,False
+cuad_test_053,Insurance,partial,False,True,False
+cuad_test_053,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_053,Exclusivity,partial,False,True,False
+cuad_test_054,Change Of Control,direct,True,True,False
+cuad_test_054,Anti-Assignment,partial,True,True,False
+cuad_test_054,Ip Ownership Assignment,direct,True,False,False
+cuad_test_054,Uncapped Liability,partial,True,False,False
+cuad_test_054,Cap On Liability,partial,True,True,False
+cuad_test_054,Audit Rights,direct,True,False,False
+cuad_test_054,Non-Compete,direct,True,False,False
+cuad_test_054,No-Solicit Of Customers,partial,True,False,False
+cuad_test_054,No-Solicit Of Employees,direct,True,False,False
+cuad_test_054,Renewal Term,partial,True,True,False
+cuad_test_054,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_054,Governing Law,direct,True,True,True
+cuad_test_054,Termination For Convenience,partial,True,True,False
+cuad_test_054,Most Favored Nation,direct,True,False,False
+cuad_test_054,Minimum Commitment,direct,False,False,False
+cuad_test_054,Non-Disparagement,direct,False,False,False
+cuad_test_054,Source Code Escrow,direct,True,False,False
+cuad_test_054,Liquidated Damages,partial,False,False,False
+cuad_test_054,Insurance,partial,False,False,False
+cuad_test_054,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_054,Exclusivity,partial,False,False,False
+cuad_test_055,Change Of Control,direct,True,True,False
+cuad_test_055,Anti-Assignment,partial,True,True,False
+cuad_test_055,Ip Ownership Assignment,direct,True,True,True
+cuad_test_055,Uncapped Liability,partial,True,False,False
+cuad_test_055,Cap On Liability,partial,True,True,False
+cuad_test_055,Audit Rights,direct,True,True,True
+cuad_test_055,Non-Compete,direct,True,True,False
+cuad_test_055,No-Solicit Of Customers,partial,True,False,False
+cuad_test_055,No-Solicit Of Employees,direct,True,False,False
+cuad_test_055,Renewal Term,partial,True,True,False
+cuad_test_055,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_055,Governing Law,direct,True,True,False
+cuad_test_055,Termination For Convenience,partial,True,False,True
+cuad_test_055,Most Favored Nation,direct,True,False,False
+cuad_test_055,Minimum Commitment,direct,False,True,False
+cuad_test_055,Non-Disparagement,direct,False,False,False
+cuad_test_055,Source Code Escrow,direct,True,False,False
+cuad_test_055,Liquidated Damages,partial,False,False,False
+cuad_test_055,Insurance,partial,False,True,False
+cuad_test_055,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_055,Exclusivity,partial,False,True,False
+cuad_test_056,Change Of Control,direct,True,False,False
+cuad_test_056,Anti-Assignment,partial,True,True,False
+cuad_test_056,Ip Ownership Assignment,direct,True,False,False
+cuad_test_056,Uncapped Liability,partial,True,True,False
+cuad_test_056,Cap On Liability,partial,True,True,False
+cuad_test_056,Audit Rights,direct,True,True,True
+cuad_test_056,Non-Compete,direct,True,False,False
+cuad_test_056,No-Solicit Of Customers,partial,True,False,False
+cuad_test_056,No-Solicit Of Employees,direct,True,False,False
+cuad_test_056,Renewal Term,partial,True,False,False
+cuad_test_056,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_056,Governing Law,direct,True,True,True
+cuad_test_056,Termination For Convenience,partial,True,False,False
+cuad_test_056,Most Favored Nation,direct,True,False,False
+cuad_test_056,Minimum Commitment,direct,False,True,False
+cuad_test_056,Non-Disparagement,direct,False,False,False
+cuad_test_056,Source Code Escrow,direct,True,False,False
+cuad_test_056,Liquidated Damages,partial,False,False,False
+cuad_test_056,Insurance,partial,False,False,False
+cuad_test_056,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_056,Exclusivity,partial,False,True,False
+cuad_test_057,Change Of Control,direct,True,False,False
+cuad_test_057,Anti-Assignment,partial,True,True,False
+cuad_test_057,Ip Ownership Assignment,direct,True,False,False
+cuad_test_057,Uncapped Liability,partial,True,False,False
+cuad_test_057,Cap On Liability,partial,True,False,False
+cuad_test_057,Audit Rights,direct,True,False,False
+cuad_test_057,Non-Compete,direct,True,False,False
+cuad_test_057,No-Solicit Of Customers,partial,True,False,False
+cuad_test_057,No-Solicit Of Employees,direct,True,False,False
+cuad_test_057,Renewal Term,partial,True,True,False
+cuad_test_057,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_057,Governing Law,direct,True,False,False
+cuad_test_057,Termination For Convenience,partial,True,False,False
+cuad_test_057,Most Favored Nation,direct,True,False,False
+cuad_test_057,Minimum Commitment,direct,False,True,False
+cuad_test_057,Non-Disparagement,direct,False,False,False
+cuad_test_057,Source Code Escrow,direct,True,False,False
+cuad_test_057,Liquidated Damages,partial,False,False,False
+cuad_test_057,Insurance,partial,False,False,False
+cuad_test_057,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_057,Exclusivity,partial,False,False,False
+cuad_test_058,Change Of Control,direct,True,False,False
+cuad_test_058,Anti-Assignment,partial,True,True,False
+cuad_test_058,Ip Ownership Assignment,direct,True,False,False
+cuad_test_058,Uncapped Liability,partial,True,False,False
+cuad_test_058,Cap On Liability,partial,True,True,False
+cuad_test_058,Audit Rights,direct,True,True,False
+cuad_test_058,Non-Compete,direct,True,False,False
+cuad_test_058,No-Solicit Of Customers,partial,True,False,False
+cuad_test_058,No-Solicit Of Employees,direct,True,False,False
+cuad_test_058,Renewal Term,partial,True,True,False
+cuad_test_058,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_058,Governing Law,direct,True,True,False
+cuad_test_058,Termination For Convenience,partial,True,True,False
+cuad_test_058,Most Favored Nation,direct,True,False,False
+cuad_test_058,Minimum Commitment,direct,False,False,False
+cuad_test_058,Non-Disparagement,direct,False,True,False
+cuad_test_058,Source Code Escrow,direct,True,False,False
+cuad_test_058,Liquidated Damages,partial,False,False,False
+cuad_test_058,Insurance,partial,False,False,False
+cuad_test_058,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_058,Exclusivity,partial,False,False,False
+cuad_test_059,Change Of Control,direct,True,False,False
+cuad_test_059,Anti-Assignment,partial,True,False,False
+cuad_test_059,Ip Ownership Assignment,direct,True,False,False
+cuad_test_059,Uncapped Liability,partial,True,False,False
+cuad_test_059,Cap On Liability,partial,True,False,False
+cuad_test_059,Audit Rights,direct,True,False,False
+cuad_test_059,Non-Compete,direct,True,False,False
+cuad_test_059,No-Solicit Of Customers,partial,True,False,False
+cuad_test_059,No-Solicit Of Employees,direct,True,False,False
+cuad_test_059,Renewal Term,partial,True,False,False
+cuad_test_059,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_059,Governing Law,direct,True,False,False
+cuad_test_059,Termination For Convenience,partial,True,False,False
+cuad_test_059,Most Favored Nation,direct,True,False,False
+cuad_test_059,Minimum Commitment,direct,False,False,False
+cuad_test_059,Non-Disparagement,direct,False,False,False
+cuad_test_059,Source Code Escrow,direct,True,False,False
+cuad_test_059,Liquidated Damages,partial,False,False,False
+cuad_test_059,Insurance,partial,False,False,False
+cuad_test_059,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_059,Exclusivity,partial,False,False,False
+cuad_test_060,Change Of Control,direct,True,True,False
+cuad_test_060,Anti-Assignment,partial,True,True,False
+cuad_test_060,Ip Ownership Assignment,direct,True,True,False
+cuad_test_060,Uncapped Liability,partial,True,True,False
+cuad_test_060,Cap On Liability,partial,True,True,False
+cuad_test_060,Audit Rights,direct,True,True,True
+cuad_test_060,Non-Compete,direct,True,True,True
+cuad_test_060,No-Solicit Of Customers,partial,True,False,True
+cuad_test_060,No-Solicit Of Employees,direct,True,False,True
+cuad_test_060,Renewal Term,partial,True,True,False
+cuad_test_060,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_060,Governing Law,direct,True,True,True
+cuad_test_060,Termination For Convenience,partial,True,True,True
+cuad_test_060,Most Favored Nation,direct,True,False,False
+cuad_test_060,Minimum Commitment,direct,False,False,False
+cuad_test_060,Non-Disparagement,direct,False,False,False
+cuad_test_060,Source Code Escrow,direct,True,False,False
+cuad_test_060,Liquidated Damages,partial,False,False,False
+cuad_test_060,Insurance,partial,False,True,False
+cuad_test_060,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_060,Exclusivity,partial,False,True,False
+cuad_test_061,Change Of Control,direct,True,False,False
+cuad_test_061,Anti-Assignment,partial,True,True,False
+cuad_test_061,Ip Ownership Assignment,direct,True,True,False
+cuad_test_061,Uncapped Liability,partial,True,False,False
+cuad_test_061,Cap On Liability,partial,True,False,False
+cuad_test_061,Audit Rights,direct,True,False,False
+cuad_test_061,Non-Compete,direct,True,False,False
+cuad_test_061,No-Solicit Of Customers,partial,True,False,False
+cuad_test_061,No-Solicit Of Employees,direct,True,True,False
+cuad_test_061,Renewal Term,partial,True,True,True
+cuad_test_061,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_061,Governing Law,direct,True,True,True
+cuad_test_061,Termination For Convenience,partial,True,True,False
+cuad_test_061,Most Favored Nation,direct,True,False,False
+cuad_test_061,Minimum Commitment,direct,False,False,False
+cuad_test_061,Non-Disparagement,direct,False,False,False
+cuad_test_061,Source Code Escrow,direct,True,False,False
+cuad_test_061,Liquidated Damages,partial,False,False,False
+cuad_test_061,Insurance,partial,False,False,False
+cuad_test_061,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_061,Exclusivity,partial,False,False,False
+cuad_test_062,Change Of Control,direct,True,False,False
+cuad_test_062,Anti-Assignment,partial,True,True,False
+cuad_test_062,Ip Ownership Assignment,direct,True,True,True
+cuad_test_062,Uncapped Liability,partial,True,True,False
+cuad_test_062,Cap On Liability,partial,True,True,False
+cuad_test_062,Audit Rights,direct,True,False,False
+cuad_test_062,Non-Compete,direct,True,False,False
+cuad_test_062,No-Solicit Of Customers,partial,True,False,False
+cuad_test_062,No-Solicit Of Employees,direct,True,False,False
+cuad_test_062,Renewal Term,partial,True,False,False
+cuad_test_062,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_062,Governing Law,direct,True,True,True
+cuad_test_062,Termination For Convenience,partial,True,True,True
+cuad_test_062,Most Favored Nation,direct,True,False,False
+cuad_test_062,Minimum Commitment,direct,False,False,False
+cuad_test_062,Non-Disparagement,direct,False,False,False
+cuad_test_062,Source Code Escrow,direct,True,False,False
+cuad_test_062,Liquidated Damages,partial,False,False,False
+cuad_test_062,Insurance,partial,False,False,False
+cuad_test_062,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_062,Exclusivity,partial,False,False,False
+cuad_test_063,Change Of Control,direct,True,True,False
+cuad_test_063,Anti-Assignment,partial,True,True,False
+cuad_test_063,Ip Ownership Assignment,direct,True,False,False
+cuad_test_063,Uncapped Liability,partial,True,False,False
+cuad_test_063,Cap On Liability,partial,True,True,False
+cuad_test_063,Audit Rights,direct,True,True,False
+cuad_test_063,Non-Compete,direct,True,False,False
+cuad_test_063,No-Solicit Of Customers,partial,True,True,False
+cuad_test_063,No-Solicit Of Employees,direct,True,True,False
+cuad_test_063,Renewal Term,partial,True,False,False
+cuad_test_063,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_063,Governing Law,direct,True,True,False
+cuad_test_063,Termination For Convenience,partial,True,True,False
+cuad_test_063,Most Favored Nation,direct,True,False,False
+cuad_test_063,Minimum Commitment,direct,False,False,False
+cuad_test_063,Non-Disparagement,direct,False,False,False
+cuad_test_063,Source Code Escrow,direct,True,False,False
+cuad_test_063,Liquidated Damages,partial,False,False,False
+cuad_test_063,Insurance,partial,False,False,False
+cuad_test_063,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_063,Exclusivity,partial,False,False,False
+cuad_test_064,Change Of Control,direct,True,False,False
+cuad_test_064,Anti-Assignment,partial,True,False,False
+cuad_test_064,Ip Ownership Assignment,direct,True,False,False
+cuad_test_064,Uncapped Liability,partial,True,False,False
+cuad_test_064,Cap On Liability,partial,True,True,False
+cuad_test_064,Audit Rights,direct,True,False,False
+cuad_test_064,Non-Compete,direct,True,False,False
+cuad_test_064,No-Solicit Of Customers,partial,True,False,False
+cuad_test_064,No-Solicit Of Employees,direct,True,False,False
+cuad_test_064,Renewal Term,partial,True,False,False
+cuad_test_064,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_064,Governing Law,direct,True,True,True
+cuad_test_064,Termination For Convenience,partial,True,False,False
+cuad_test_064,Most Favored Nation,direct,True,False,False
+cuad_test_064,Minimum Commitment,direct,False,False,False
+cuad_test_064,Non-Disparagement,direct,False,False,False
+cuad_test_064,Source Code Escrow,direct,True,False,False
+cuad_test_064,Liquidated Damages,partial,False,False,False
+cuad_test_064,Insurance,partial,False,False,False
+cuad_test_064,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_064,Exclusivity,partial,False,False,False
+cuad_test_065,Change Of Control,direct,True,False,False
+cuad_test_065,Anti-Assignment,partial,True,False,False
+cuad_test_065,Ip Ownership Assignment,direct,True,False,False
+cuad_test_065,Uncapped Liability,partial,True,False,False
+cuad_test_065,Cap On Liability,partial,True,False,False
+cuad_test_065,Audit Rights,direct,True,False,False
+cuad_test_065,Non-Compete,direct,True,False,False
+cuad_test_065,No-Solicit Of Customers,partial,True,False,False
+cuad_test_065,No-Solicit Of Employees,direct,True,False,False
+cuad_test_065,Renewal Term,partial,True,False,False
+cuad_test_065,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_065,Governing Law,direct,True,False,False
+cuad_test_065,Termination For Convenience,partial,True,False,False
+cuad_test_065,Most Favored Nation,direct,True,False,False
+cuad_test_065,Minimum Commitment,direct,False,False,False
+cuad_test_065,Non-Disparagement,direct,False,False,False
+cuad_test_065,Source Code Escrow,direct,True,False,False
+cuad_test_065,Liquidated Damages,partial,False,False,False
+cuad_test_065,Insurance,partial,False,False,False
+cuad_test_065,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_065,Exclusivity,partial,False,False,False
+cuad_test_066,Change Of Control,direct,True,False,False
+cuad_test_066,Anti-Assignment,partial,True,False,False
+cuad_test_066,Ip Ownership Assignment,direct,True,False,False
+cuad_test_066,Uncapped Liability,partial,True,False,False
+cuad_test_066,Cap On Liability,partial,True,False,False
+cuad_test_066,Audit Rights,direct,True,False,False
+cuad_test_066,Non-Compete,direct,True,False,False
+cuad_test_066,No-Solicit Of Customers,partial,True,False,False
+cuad_test_066,No-Solicit Of Employees,direct,True,False,False
+cuad_test_066,Renewal Term,partial,True,False,False
+cuad_test_066,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_066,Governing Law,direct,True,True,True
+cuad_test_066,Termination For Convenience,partial,True,False,False
+cuad_test_066,Most Favored Nation,direct,True,False,False
+cuad_test_066,Minimum Commitment,direct,False,False,False
+cuad_test_066,Non-Disparagement,direct,False,False,False
+cuad_test_066,Source Code Escrow,direct,True,False,False
+cuad_test_066,Liquidated Damages,partial,False,False,False
+cuad_test_066,Insurance,partial,False,False,False
+cuad_test_066,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_066,Exclusivity,partial,False,False,False
+cuad_test_067,Change Of Control,direct,True,False,False
+cuad_test_067,Anti-Assignment,partial,True,True,False
+cuad_test_067,Ip Ownership Assignment,direct,True,True,False
+cuad_test_067,Uncapped Liability,partial,True,False,False
+cuad_test_067,Cap On Liability,partial,True,False,False
+cuad_test_067,Audit Rights,direct,True,False,False
+cuad_test_067,Non-Compete,direct,True,False,False
+cuad_test_067,No-Solicit Of Customers,partial,True,False,False
+cuad_test_067,No-Solicit Of Employees,direct,True,False,False
+cuad_test_067,Renewal Term,partial,True,False,False
+cuad_test_067,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_067,Governing Law,direct,True,True,True
+cuad_test_067,Termination For Convenience,partial,True,True,True
+cuad_test_067,Most Favored Nation,direct,True,False,False
+cuad_test_067,Minimum Commitment,direct,False,True,False
+cuad_test_067,Non-Disparagement,direct,False,False,False
+cuad_test_067,Source Code Escrow,direct,True,False,False
+cuad_test_067,Liquidated Damages,partial,False,False,False
+cuad_test_067,Insurance,partial,False,True,False
+cuad_test_067,Irrevocable Or Perpetual License,partial,False,True,False
+cuad_test_067,Exclusivity,partial,False,False,False
+cuad_test_068,Change Of Control,direct,True,False,False
+cuad_test_068,Anti-Assignment,partial,True,True,False
+cuad_test_068,Ip Ownership Assignment,direct,True,True,False
+cuad_test_068,Uncapped Liability,partial,True,True,True
+cuad_test_068,Cap On Liability,partial,True,True,False
+cuad_test_068,Audit Rights,direct,True,True,True
+cuad_test_068,Non-Compete,direct,True,True,False
+cuad_test_068,No-Solicit Of Customers,partial,True,False,False
+cuad_test_068,No-Solicit Of Employees,direct,True,False,False
+cuad_test_068,Renewal Term,partial,True,True,True
+cuad_test_068,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_068,Governing Law,direct,True,True,True
+cuad_test_068,Termination For Convenience,partial,True,False,False
+cuad_test_068,Most Favored Nation,direct,True,False,False
+cuad_test_068,Minimum Commitment,direct,False,True,False
+cuad_test_068,Non-Disparagement,direct,False,False,False
+cuad_test_068,Source Code Escrow,direct,True,False,False
+cuad_test_068,Liquidated Damages,partial,False,True,False
+cuad_test_068,Insurance,partial,False,False,False
+cuad_test_068,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_068,Exclusivity,partial,False,True,False
+cuad_test_069,Change Of Control,direct,True,False,False
+cuad_test_069,Anti-Assignment,partial,True,True,False
+cuad_test_069,Ip Ownership Assignment,direct,True,False,False
+cuad_test_069,Uncapped Liability,partial,True,False,False
+cuad_test_069,Cap On Liability,partial,True,True,False
+cuad_test_069,Audit Rights,direct,True,False,False
+cuad_test_069,Non-Compete,direct,True,False,False
+cuad_test_069,No-Solicit Of Customers,partial,True,False,False
+cuad_test_069,No-Solicit Of Employees,direct,True,False,False
+cuad_test_069,Renewal Term,partial,True,False,False
+cuad_test_069,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_069,Governing Law,direct,True,True,False
+cuad_test_069,Termination For Convenience,partial,True,False,False
+cuad_test_069,Most Favored Nation,direct,True,False,False
+cuad_test_069,Minimum Commitment,direct,False,False,False
+cuad_test_069,Non-Disparagement,direct,False,False,False
+cuad_test_069,Source Code Escrow,direct,True,False,False
+cuad_test_069,Liquidated Damages,partial,False,False,False
+cuad_test_069,Insurance,partial,False,False,False
+cuad_test_069,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_069,Exclusivity,partial,False,False,False
+cuad_test_070,Change Of Control,direct,True,False,False
+cuad_test_070,Anti-Assignment,partial,True,False,False
+cuad_test_070,Ip Ownership Assignment,direct,True,False,False
+cuad_test_070,Uncapped Liability,partial,True,False,False
+cuad_test_070,Cap On Liability,partial,True,False,False
+cuad_test_070,Audit Rights,direct,True,False,False
+cuad_test_070,Non-Compete,direct,True,False,False
+cuad_test_070,No-Solicit Of Customers,partial,True,False,False
+cuad_test_070,No-Solicit Of Employees,direct,True,False,False
+cuad_test_070,Renewal Term,partial,True,False,False
+cuad_test_070,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_070,Governing Law,direct,True,False,False
+cuad_test_070,Termination For Convenience,partial,True,False,False
+cuad_test_070,Most Favored Nation,direct,True,False,False
+cuad_test_070,Minimum Commitment,direct,False,False,False
+cuad_test_070,Non-Disparagement,direct,False,False,False
+cuad_test_070,Source Code Escrow,direct,True,False,False
+cuad_test_070,Liquidated Damages,partial,False,False,False
+cuad_test_070,Insurance,partial,False,False,False
+cuad_test_070,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_070,Exclusivity,partial,False,False,False
+cuad_test_071,Change Of Control,direct,True,True,False
+cuad_test_071,Anti-Assignment,partial,True,True,False
+cuad_test_071,Ip Ownership Assignment,direct,True,True,False
+cuad_test_071,Uncapped Liability,partial,True,False,False
+cuad_test_071,Cap On Liability,partial,True,False,False
+cuad_test_071,Audit Rights,direct,True,False,False
+cuad_test_071,Non-Compete,direct,True,False,False
+cuad_test_071,No-Solicit Of Customers,partial,True,False,False
+cuad_test_071,No-Solicit Of Employees,direct,True,False,False
+cuad_test_071,Renewal Term,partial,True,False,False
+cuad_test_071,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_071,Governing Law,direct,True,True,True
+cuad_test_071,Termination For Convenience,partial,True,False,False
+cuad_test_071,Most Favored Nation,direct,True,False,False
+cuad_test_071,Minimum Commitment,direct,False,False,False
+cuad_test_071,Non-Disparagement,direct,False,False,False
+cuad_test_071,Source Code Escrow,direct,True,False,False
+cuad_test_071,Liquidated Damages,partial,False,False,False
+cuad_test_071,Insurance,partial,False,False,False
+cuad_test_071,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_071,Exclusivity,partial,False,True,False
+cuad_test_072,Change Of Control,direct,True,False,False
+cuad_test_072,Anti-Assignment,partial,True,False,False
+cuad_test_072,Ip Ownership Assignment,direct,True,False,False
+cuad_test_072,Uncapped Liability,partial,True,True,False
+cuad_test_072,Cap On Liability,partial,True,True,True
+cuad_test_072,Audit Rights,direct,True,False,False
+cuad_test_072,Non-Compete,direct,True,False,False
+cuad_test_072,No-Solicit Of Customers,partial,True,False,False
+cuad_test_072,No-Solicit Of Employees,direct,True,False,False
+cuad_test_072,Renewal Term,partial,True,False,False
+cuad_test_072,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_072,Governing Law,direct,True,False,False
+cuad_test_072,Termination For Convenience,partial,True,False,False
+cuad_test_072,Most Favored Nation,direct,True,False,False
+cuad_test_072,Minimum Commitment,direct,False,False,False
+cuad_test_072,Non-Disparagement,direct,False,False,False
+cuad_test_072,Source Code Escrow,direct,True,False,False
+cuad_test_072,Liquidated Damages,partial,False,False,False
+cuad_test_072,Insurance,partial,False,False,False
+cuad_test_072,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_072,Exclusivity,partial,False,False,False
+cuad_test_073,Change Of Control,direct,True,False,False
+cuad_test_073,Anti-Assignment,partial,True,True,False
+cuad_test_073,Ip Ownership Assignment,direct,True,False,False
+cuad_test_073,Uncapped Liability,partial,True,False,False
+cuad_test_073,Cap On Liability,partial,True,False,False
+cuad_test_073,Audit Rights,direct,True,False,False
+cuad_test_073,Non-Compete,direct,True,True,True
+cuad_test_073,No-Solicit Of Customers,partial,True,False,True
+cuad_test_073,No-Solicit Of Employees,direct,True,True,True
+cuad_test_073,Renewal Term,partial,True,False,False
+cuad_test_073,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_073,Governing Law,direct,True,True,True
+cuad_test_073,Termination For Convenience,partial,True,False,False
+cuad_test_073,Most Favored Nation,direct,True,False,False
+cuad_test_073,Minimum Commitment,direct,False,False,False
+cuad_test_073,Non-Disparagement,direct,False,False,False
+cuad_test_073,Source Code Escrow,direct,True,False,False
+cuad_test_073,Liquidated Damages,partial,False,False,False
+cuad_test_073,Insurance,partial,False,False,False
+cuad_test_073,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_073,Exclusivity,partial,False,False,False
+cuad_test_074,Change Of Control,direct,True,False,False
+cuad_test_074,Anti-Assignment,partial,True,False,False
+cuad_test_074,Ip Ownership Assignment,direct,True,False,False
+cuad_test_074,Uncapped Liability,partial,True,False,False
+cuad_test_074,Cap On Liability,partial,True,False,False
+cuad_test_074,Audit Rights,direct,True,False,False
+cuad_test_074,Non-Compete,direct,True,False,False
+cuad_test_074,No-Solicit Of Customers,partial,True,False,False
+cuad_test_074,No-Solicit Of Employees,direct,True,False,False
+cuad_test_074,Renewal Term,partial,True,False,False
+cuad_test_074,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_074,Governing Law,direct,True,False,False
+cuad_test_074,Termination For Convenience,partial,True,False,False
+cuad_test_074,Most Favored Nation,direct,True,False,False
+cuad_test_074,Minimum Commitment,direct,False,False,False
+cuad_test_074,Non-Disparagement,direct,False,False,False
+cuad_test_074,Source Code Escrow,direct,True,False,False
+cuad_test_074,Liquidated Damages,partial,False,False,False
+cuad_test_074,Insurance,partial,False,False,False
+cuad_test_074,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_074,Exclusivity,partial,False,False,False
+cuad_test_075,Change Of Control,direct,True,False,False
+cuad_test_075,Anti-Assignment,partial,True,False,False
+cuad_test_075,Ip Ownership Assignment,direct,True,False,False
+cuad_test_075,Uncapped Liability,partial,True,False,False
+cuad_test_075,Cap On Liability,partial,True,True,False
+cuad_test_075,Audit Rights,direct,True,False,False
+cuad_test_075,Non-Compete,direct,True,False,False
+cuad_test_075,No-Solicit Of Customers,partial,True,False,False
+cuad_test_075,No-Solicit Of Employees,direct,True,False,False
+cuad_test_075,Renewal Term,partial,True,False,False
+cuad_test_075,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_075,Governing Law,direct,True,True,True
+cuad_test_075,Termination For Convenience,partial,True,False,False
+cuad_test_075,Most Favored Nation,direct,True,False,False
+cuad_test_075,Minimum Commitment,direct,False,True,False
+cuad_test_075,Non-Disparagement,direct,False,False,False
+cuad_test_075,Source Code Escrow,direct,True,False,False
+cuad_test_075,Liquidated Damages,partial,False,False,False
+cuad_test_075,Insurance,partial,False,True,False
+cuad_test_075,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_075,Exclusivity,partial,False,True,False
+cuad_test_076,Change Of Control,direct,True,False,False
+cuad_test_076,Anti-Assignment,partial,True,True,False
+cuad_test_076,Ip Ownership Assignment,direct,True,True,False
+cuad_test_076,Uncapped Liability,partial,True,False,False
+cuad_test_076,Cap On Liability,partial,True,False,False
+cuad_test_076,Audit Rights,direct,True,True,True
+cuad_test_076,Non-Compete,direct,True,False,False
+cuad_test_076,No-Solicit Of Customers,partial,True,True,False
+cuad_test_076,No-Solicit Of Employees,direct,True,False,False
+cuad_test_076,Renewal Term,partial,True,True,False
+cuad_test_076,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_076,Governing Law,direct,True,True,True
+cuad_test_076,Termination For Convenience,partial,True,True,False
+cuad_test_076,Most Favored Nation,direct,True,False,False
+cuad_test_076,Minimum Commitment,direct,False,True,False
+cuad_test_076,Non-Disparagement,direct,False,False,False
+cuad_test_076,Source Code Escrow,direct,True,False,False
+cuad_test_076,Liquidated Damages,partial,False,True,False
+cuad_test_076,Insurance,partial,False,True,False
+cuad_test_076,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_076,Exclusivity,partial,False,True,False
+cuad_test_077,Change Of Control,direct,True,False,False
+cuad_test_077,Anti-Assignment,partial,True,True,False
+cuad_test_077,Ip Ownership Assignment,direct,True,True,False
+cuad_test_077,Uncapped Liability,partial,True,True,False
+cuad_test_077,Cap On Liability,partial,True,True,False
+cuad_test_077,Audit Rights,direct,True,True,False
+cuad_test_077,Non-Compete,direct,True,False,True
+cuad_test_077,No-Solicit Of Customers,partial,True,False,True
+cuad_test_077,No-Solicit Of Employees,direct,True,False,True
+cuad_test_077,Renewal Term,partial,True,False,False
+cuad_test_077,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_077,Governing Law,direct,True,True,False
+cuad_test_077,Termination For Convenience,partial,True,False,False
+cuad_test_077,Most Favored Nation,direct,True,False,False
+cuad_test_077,Minimum Commitment,direct,False,True,False
+cuad_test_077,Non-Disparagement,direct,False,False,False
+cuad_test_077,Source Code Escrow,direct,True,False,False
+cuad_test_077,Liquidated Damages,partial,False,False,False
+cuad_test_077,Insurance,partial,False,False,False
+cuad_test_077,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_077,Exclusivity,partial,False,True,False
+cuad_test_078,Change Of Control,direct,True,False,False
+cuad_test_078,Anti-Assignment,partial,True,False,False
+cuad_test_078,Ip Ownership Assignment,direct,True,False,False
+cuad_test_078,Uncapped Liability,partial,True,False,False
+cuad_test_078,Cap On Liability,partial,True,False,False
+cuad_test_078,Audit Rights,direct,True,False,False
+cuad_test_078,Non-Compete,direct,True,False,False
+cuad_test_078,No-Solicit Of Customers,partial,True,False,False
+cuad_test_078,No-Solicit Of Employees,direct,True,False,False
+cuad_test_078,Renewal Term,partial,True,False,False
+cuad_test_078,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_078,Governing Law,direct,True,False,False
+cuad_test_078,Termination For Convenience,partial,True,False,False
+cuad_test_078,Most Favored Nation,direct,True,False,False
+cuad_test_078,Minimum Commitment,direct,False,False,False
+cuad_test_078,Non-Disparagement,direct,False,False,False
+cuad_test_078,Source Code Escrow,direct,True,False,False
+cuad_test_078,Liquidated Damages,partial,False,False,False
+cuad_test_078,Insurance,partial,False,False,False
+cuad_test_078,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_078,Exclusivity,partial,False,False,False
+cuad_test_079,Change Of Control,direct,True,False,False
+cuad_test_079,Anti-Assignment,partial,True,True,False
+cuad_test_079,Ip Ownership Assignment,direct,True,False,False
+cuad_test_079,Uncapped Liability,partial,True,False,False
+cuad_test_079,Cap On Liability,partial,True,False,False
+cuad_test_079,Audit Rights,direct,True,False,False
+cuad_test_079,Non-Compete,direct,True,False,False
+cuad_test_079,No-Solicit Of Customers,partial,True,False,False
+cuad_test_079,No-Solicit Of Employees,direct,True,False,False
+cuad_test_079,Renewal Term,partial,True,False,False
+cuad_test_079,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_079,Governing Law,direct,True,True,True
+cuad_test_079,Termination For Convenience,partial,True,False,False
+cuad_test_079,Most Favored Nation,direct,True,False,False
+cuad_test_079,Minimum Commitment,direct,False,False,False
+cuad_test_079,Non-Disparagement,direct,False,False,False
+cuad_test_079,Source Code Escrow,direct,True,False,False
+cuad_test_079,Liquidated Damages,partial,False,False,False
+cuad_test_079,Insurance,partial,False,False,False
+cuad_test_079,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_079,Exclusivity,partial,False,False,False
+cuad_test_080,Change Of Control,direct,True,False,False
+cuad_test_080,Anti-Assignment,partial,True,False,False
+cuad_test_080,Ip Ownership Assignment,direct,True,False,False
+cuad_test_080,Uncapped Liability,partial,True,False,False
+cuad_test_080,Cap On Liability,partial,True,False,False
+cuad_test_080,Audit Rights,direct,True,True,False
+cuad_test_080,Non-Compete,direct,True,False,False
+cuad_test_080,No-Solicit Of Customers,partial,True,False,False
+cuad_test_080,No-Solicit Of Employees,direct,True,False,False
+cuad_test_080,Renewal Term,partial,True,True,True
+cuad_test_080,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_080,Governing Law,direct,True,True,False
+cuad_test_080,Termination For Convenience,partial,True,False,False
+cuad_test_080,Most Favored Nation,direct,True,False,False
+cuad_test_080,Minimum Commitment,direct,False,True,False
+cuad_test_080,Non-Disparagement,direct,False,False,False
+cuad_test_080,Source Code Escrow,direct,True,False,False
+cuad_test_080,Liquidated Damages,partial,False,False,False
+cuad_test_080,Insurance,partial,False,True,False
+cuad_test_080,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_080,Exclusivity,partial,False,False,False
+cuad_test_081,Change Of Control,direct,True,False,False
+cuad_test_081,Anti-Assignment,partial,True,True,False
+cuad_test_081,Ip Ownership Assignment,direct,True,False,False
+cuad_test_081,Uncapped Liability,partial,True,False,False
+cuad_test_081,Cap On Liability,partial,True,True,False
+cuad_test_081,Audit Rights,direct,True,True,False
+cuad_test_081,Non-Compete,direct,True,False,False
+cuad_test_081,No-Solicit Of Customers,partial,True,False,False
+cuad_test_081,No-Solicit Of Employees,direct,True,False,False
+cuad_test_081,Renewal Term,partial,True,False,False
+cuad_test_081,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_081,Governing Law,direct,True,True,True
+cuad_test_081,Termination For Convenience,partial,True,False,False
+cuad_test_081,Most Favored Nation,direct,True,False,False
+cuad_test_081,Minimum Commitment,direct,False,False,False
+cuad_test_081,Non-Disparagement,direct,False,False,False
+cuad_test_081,Source Code Escrow,direct,True,False,False
+cuad_test_081,Liquidated Damages,partial,False,False,False
+cuad_test_081,Insurance,partial,False,False,False
+cuad_test_081,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_081,Exclusivity,partial,False,False,False
+cuad_test_082,Change Of Control,direct,True,False,False
+cuad_test_082,Anti-Assignment,partial,True,False,False
+cuad_test_082,Ip Ownership Assignment,direct,True,False,False
+cuad_test_082,Uncapped Liability,partial,True,False,False
+cuad_test_082,Cap On Liability,partial,True,False,False
+cuad_test_082,Audit Rights,direct,True,False,False
+cuad_test_082,Non-Compete,direct,True,False,False
+cuad_test_082,No-Solicit Of Customers,partial,True,False,False
+cuad_test_082,No-Solicit Of Employees,direct,True,False,False
+cuad_test_082,Renewal Term,partial,True,False,False
+cuad_test_082,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_082,Governing Law,direct,True,True,False
+cuad_test_082,Termination For Convenience,partial,True,False,False
+cuad_test_082,Most Favored Nation,direct,True,False,False
+cuad_test_082,Minimum Commitment,direct,False,False,False
+cuad_test_082,Non-Disparagement,direct,False,False,False
+cuad_test_082,Source Code Escrow,direct,True,False,False
+cuad_test_082,Liquidated Damages,partial,False,False,False
+cuad_test_082,Insurance,partial,False,False,False
+cuad_test_082,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_082,Exclusivity,partial,False,False,False
+cuad_test_083,Change Of Control,direct,True,False,False
+cuad_test_083,Anti-Assignment,partial,True,False,False
+cuad_test_083,Ip Ownership Assignment,direct,True,False,False
+cuad_test_083,Uncapped Liability,partial,True,False,False
+cuad_test_083,Cap On Liability,partial,True,False,False
+cuad_test_083,Audit Rights,direct,True,False,True
+cuad_test_083,Non-Compete,direct,True,False,False
+cuad_test_083,No-Solicit Of Customers,partial,True,False,False
+cuad_test_083,No-Solicit Of Employees,direct,True,False,False
+cuad_test_083,Renewal Term,partial,True,False,False
+cuad_test_083,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_083,Governing Law,direct,True,False,False
+cuad_test_083,Termination For Convenience,partial,True,False,False
+cuad_test_083,Most Favored Nation,direct,True,False,True
+cuad_test_083,Minimum Commitment,direct,False,False,False
+cuad_test_083,Non-Disparagement,direct,False,False,False
+cuad_test_083,Source Code Escrow,direct,True,False,False
+cuad_test_083,Liquidated Damages,partial,False,False,False
+cuad_test_083,Insurance,partial,False,False,False
+cuad_test_083,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_083,Exclusivity,partial,False,False,False
+cuad_test_084,Change Of Control,direct,True,False,False
+cuad_test_084,Anti-Assignment,partial,True,True,False
+cuad_test_084,Ip Ownership Assignment,direct,True,False,False
+cuad_test_084,Uncapped Liability,partial,True,True,False
+cuad_test_084,Cap On Liability,partial,True,True,False
+cuad_test_084,Audit Rights,direct,True,True,True
+cuad_test_084,Non-Compete,direct,True,True,True
+cuad_test_084,No-Solicit Of Customers,partial,True,False,True
+cuad_test_084,No-Solicit Of Employees,direct,True,False,True
+cuad_test_084,Renewal Term,partial,True,True,True
+cuad_test_084,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_084,Governing Law,direct,True,True,True
+cuad_test_084,Termination For Convenience,partial,True,True,True
+cuad_test_084,Most Favored Nation,direct,True,False,False
+cuad_test_084,Minimum Commitment,direct,False,False,False
+cuad_test_084,Non-Disparagement,direct,False,False,False
+cuad_test_084,Source Code Escrow,direct,True,False,False
+cuad_test_084,Liquidated Damages,partial,False,False,False
+cuad_test_084,Insurance,partial,False,True,False
+cuad_test_084,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_084,Exclusivity,partial,False,True,False
+cuad_test_085,Change Of Control,direct,True,True,False
+cuad_test_085,Anti-Assignment,partial,True,True,False
+cuad_test_085,Ip Ownership Assignment,direct,True,True,False
+cuad_test_085,Uncapped Liability,partial,True,False,True
+cuad_test_085,Cap On Liability,partial,True,True,False
+cuad_test_085,Audit Rights,direct,True,True,True
+cuad_test_085,Non-Compete,direct,True,True,False
+cuad_test_085,No-Solicit Of Customers,partial,True,True,False
+cuad_test_085,No-Solicit Of Employees,direct,True,True,False
+cuad_test_085,Renewal Term,partial,True,True,False
+cuad_test_085,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_085,Governing Law,direct,True,True,True
+cuad_test_085,Termination For Convenience,partial,True,False,False
+cuad_test_085,Most Favored Nation,direct,True,False,False
+cuad_test_085,Minimum Commitment,direct,False,True,False
+cuad_test_085,Non-Disparagement,direct,False,True,False
+cuad_test_085,Source Code Escrow,direct,True,False,False
+cuad_test_085,Liquidated Damages,partial,False,True,False
+cuad_test_085,Insurance,partial,False,True,False
+cuad_test_085,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_085,Exclusivity,partial,False,True,False
+cuad_test_086,Change Of Control,direct,True,False,False
+cuad_test_086,Anti-Assignment,partial,True,False,False
+cuad_test_086,Ip Ownership Assignment,direct,True,False,False
+cuad_test_086,Uncapped Liability,partial,True,False,False
+cuad_test_086,Cap On Liability,partial,True,False,False
+cuad_test_086,Audit Rights,direct,True,False,False
+cuad_test_086,Non-Compete,direct,True,False,False
+cuad_test_086,No-Solicit Of Customers,partial,True,False,False
+cuad_test_086,No-Solicit Of Employees,direct,True,False,False
+cuad_test_086,Renewal Term,partial,True,False,False
+cuad_test_086,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_086,Governing Law,direct,True,False,False
+cuad_test_086,Termination For Convenience,partial,True,False,False
+cuad_test_086,Most Favored Nation,direct,True,False,False
+cuad_test_086,Minimum Commitment,direct,False,False,False
+cuad_test_086,Non-Disparagement,direct,False,False,False
+cuad_test_086,Source Code Escrow,direct,True,False,False
+cuad_test_086,Liquidated Damages,partial,False,False,False
+cuad_test_086,Insurance,partial,False,False,False
+cuad_test_086,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_086,Exclusivity,partial,False,False,False
+cuad_test_087,Change Of Control,direct,True,False,False
+cuad_test_087,Anti-Assignment,partial,True,True,False
+cuad_test_087,Ip Ownership Assignment,direct,True,False,False
+cuad_test_087,Uncapped Liability,partial,True,False,False
+cuad_test_087,Cap On Liability,partial,True,False,False
+cuad_test_087,Audit Rights,direct,True,True,True
+cuad_test_087,Non-Compete,direct,True,False,False
+cuad_test_087,No-Solicit Of Customers,partial,True,False,False
+cuad_test_087,No-Solicit Of Employees,direct,True,False,False
+cuad_test_087,Renewal Term,partial,True,False,False
+cuad_test_087,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_087,Governing Law,direct,True,True,True
+cuad_test_087,Termination For Convenience,partial,True,False,False
+cuad_test_087,Most Favored Nation,direct,True,False,False
+cuad_test_087,Minimum Commitment,direct,False,True,False
+cuad_test_087,Non-Disparagement,direct,False,False,False
+cuad_test_087,Source Code Escrow,direct,True,False,False
+cuad_test_087,Liquidated Damages,partial,False,True,False
+cuad_test_087,Insurance,partial,False,False,False
+cuad_test_087,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_087,Exclusivity,partial,False,True,False
+cuad_test_088,Change Of Control,direct,True,True,False
+cuad_test_088,Anti-Assignment,partial,True,True,False
+cuad_test_088,Ip Ownership Assignment,direct,True,False,False
+cuad_test_088,Uncapped Liability,partial,True,False,False
+cuad_test_088,Cap On Liability,partial,True,True,False
+cuad_test_088,Audit Rights,direct,True,True,True
+cuad_test_088,Non-Compete,direct,True,False,False
+cuad_test_088,No-Solicit Of Customers,partial,True,False,False
+cuad_test_088,No-Solicit Of Employees,direct,True,False,False
+cuad_test_088,Renewal Term,partial,True,True,False
+cuad_test_088,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_088,Governing Law,direct,True,True,True
+cuad_test_088,Termination For Convenience,partial,True,True,True
+cuad_test_088,Most Favored Nation,direct,True,False,False
+cuad_test_088,Minimum Commitment,direct,False,True,False
+cuad_test_088,Non-Disparagement,direct,False,False,False
+cuad_test_088,Source Code Escrow,direct,True,True,True
+cuad_test_088,Liquidated Damages,partial,False,True,False
+cuad_test_088,Insurance,partial,False,True,False
+cuad_test_088,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_088,Exclusivity,partial,False,False,False
+cuad_test_089,Change Of Control,direct,True,False,False
+cuad_test_089,Anti-Assignment,partial,True,True,False
+cuad_test_089,Ip Ownership Assignment,direct,True,False,False
+cuad_test_089,Uncapped Liability,partial,True,False,False
+cuad_test_089,Cap On Liability,partial,True,True,False
+cuad_test_089,Audit Rights,direct,True,False,False
+cuad_test_089,Non-Compete,direct,True,False,False
+cuad_test_089,No-Solicit Of Customers,partial,True,False,False
+cuad_test_089,No-Solicit Of Employees,direct,True,False,False
+cuad_test_089,Renewal Term,partial,True,False,False
+cuad_test_089,Notice Period To Terminate Renewal,partial,True,True,True
+cuad_test_089,Governing Law,direct,True,True,False
+cuad_test_089,Termination For Convenience,partial,True,False,False
+cuad_test_089,Most Favored Nation,direct,True,False,False
+cuad_test_089,Minimum Commitment,direct,False,False,False
+cuad_test_089,Non-Disparagement,direct,False,False,False
+cuad_test_089,Source Code Escrow,direct,True,False,False
+cuad_test_089,Liquidated Damages,partial,False,False,False
+cuad_test_089,Insurance,partial,False,False,False
+cuad_test_089,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_089,Exclusivity,partial,False,False,False
+cuad_test_090,Change Of Control,direct,True,False,False
+cuad_test_090,Anti-Assignment,partial,True,True,False
+cuad_test_090,Ip Ownership Assignment,direct,True,True,False
+cuad_test_090,Uncapped Liability,partial,True,False,False
+cuad_test_090,Cap On Liability,partial,True,True,False
+cuad_test_090,Audit Rights,direct,True,False,False
+cuad_test_090,Non-Compete,direct,True,True,False
+cuad_test_090,No-Solicit Of Customers,partial,True,False,False
+cuad_test_090,No-Solicit Of Employees,direct,True,False,False
+cuad_test_090,Renewal Term,partial,True,False,False
+cuad_test_090,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_090,Governing Law,direct,True,True,True
+cuad_test_090,Termination For Convenience,partial,True,True,False
+cuad_test_090,Most Favored Nation,direct,True,False,False
+cuad_test_090,Minimum Commitment,direct,False,False,False
+cuad_test_090,Non-Disparagement,direct,False,False,False
+cuad_test_090,Source Code Escrow,direct,True,False,False
+cuad_test_090,Liquidated Damages,partial,False,True,False
+cuad_test_090,Insurance,partial,False,False,False
+cuad_test_090,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_090,Exclusivity,partial,False,True,False
+cuad_test_091,Change Of Control,direct,True,False,False
+cuad_test_091,Anti-Assignment,partial,True,True,False
+cuad_test_091,Ip Ownership Assignment,direct,True,False,False
+cuad_test_091,Uncapped Liability,partial,True,False,False
+cuad_test_091,Cap On Liability,partial,True,False,False
+cuad_test_091,Audit Rights,direct,True,False,False
+cuad_test_091,Non-Compete,direct,True,False,False
+cuad_test_091,No-Solicit Of Customers,partial,True,False,False
+cuad_test_091,No-Solicit Of Employees,direct,True,False,False
+cuad_test_091,Renewal Term,partial,True,False,False
+cuad_test_091,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_091,Governing Law,direct,True,False,False
+cuad_test_091,Termination For Convenience,partial,True,False,False
+cuad_test_091,Most Favored Nation,direct,True,False,False
+cuad_test_091,Minimum Commitment,direct,False,False,False
+cuad_test_091,Non-Disparagement,direct,False,False,False
+cuad_test_091,Source Code Escrow,direct,True,False,False
+cuad_test_091,Liquidated Damages,partial,False,False,False
+cuad_test_091,Insurance,partial,False,False,False
+cuad_test_091,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_091,Exclusivity,partial,False,False,False
+cuad_test_092,Change Of Control,direct,True,False,False
+cuad_test_092,Anti-Assignment,partial,True,False,False
+cuad_test_092,Ip Ownership Assignment,direct,True,False,False
+cuad_test_092,Uncapped Liability,partial,True,False,True
+cuad_test_092,Cap On Liability,partial,True,True,False
+cuad_test_092,Audit Rights,direct,True,False,False
+cuad_test_092,Non-Compete,direct,True,False,False
+cuad_test_092,No-Solicit Of Customers,partial,True,False,False
+cuad_test_092,No-Solicit Of Employees,direct,True,False,False
+cuad_test_092,Renewal Term,partial,True,True,True
+cuad_test_092,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_092,Governing Law,direct,True,True,False
+cuad_test_092,Termination For Convenience,partial,True,False,False
+cuad_test_092,Most Favored Nation,direct,True,True,True
+cuad_test_092,Minimum Commitment,direct,False,True,False
+cuad_test_092,Non-Disparagement,direct,False,False,False
+cuad_test_092,Source Code Escrow,direct,True,False,False
+cuad_test_092,Liquidated Damages,partial,False,False,False
+cuad_test_092,Insurance,partial,False,False,False
+cuad_test_092,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_092,Exclusivity,partial,False,True,False
+cuad_test_093,Change Of Control,direct,True,False,False
+cuad_test_093,Anti-Assignment,partial,True,True,False
+cuad_test_093,Ip Ownership Assignment,direct,True,False,False
+cuad_test_093,Uncapped Liability,partial,True,False,False
+cuad_test_093,Cap On Liability,partial,True,False,False
+cuad_test_093,Audit Rights,direct,True,True,True
+cuad_test_093,Non-Compete,direct,True,True,False
+cuad_test_093,No-Solicit Of Customers,partial,True,False,False
+cuad_test_093,No-Solicit Of Employees,direct,True,False,False
+cuad_test_093,Renewal Term,partial,True,False,False
+cuad_test_093,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_093,Governing Law,direct,True,True,True
+cuad_test_093,Termination For Convenience,partial,True,False,False
+cuad_test_093,Most Favored Nation,direct,True,False,False
+cuad_test_093,Minimum Commitment,direct,False,True,False
+cuad_test_093,Non-Disparagement,direct,False,False,False
+cuad_test_093,Source Code Escrow,direct,True,False,False
+cuad_test_093,Liquidated Damages,partial,False,False,False
+cuad_test_093,Insurance,partial,False,True,False
+cuad_test_093,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_093,Exclusivity,partial,False,False,False
+cuad_test_094,Change Of Control,direct,True,True,False
+cuad_test_094,Anti-Assignment,partial,True,True,False
+cuad_test_094,Ip Ownership Assignment,direct,True,False,False
+cuad_test_094,Uncapped Liability,partial,True,True,False
+cuad_test_094,Cap On Liability,partial,True,True,False
+cuad_test_094,Audit Rights,direct,True,True,False
+cuad_test_094,Non-Compete,direct,True,False,False
+cuad_test_094,No-Solicit Of Customers,partial,True,False,False
+cuad_test_094,No-Solicit Of Employees,direct,True,False,False
+cuad_test_094,Renewal Term,partial,True,True,False
+cuad_test_094,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_094,Governing Law,direct,True,True,True
+cuad_test_094,Termination For Convenience,partial,True,False,True
+cuad_test_094,Most Favored Nation,direct,True,False,False
+cuad_test_094,Minimum Commitment,direct,False,True,False
+cuad_test_094,Non-Disparagement,direct,False,False,False
+cuad_test_094,Source Code Escrow,direct,True,False,False
+cuad_test_094,Liquidated Damages,partial,False,False,False
+cuad_test_094,Insurance,partial,False,True,False
+cuad_test_094,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_094,Exclusivity,partial,False,False,False
+cuad_test_095,Change Of Control,direct,True,False,False
+cuad_test_095,Anti-Assignment,partial,True,False,False
+cuad_test_095,Ip Ownership Assignment,direct,True,False,False
+cuad_test_095,Uncapped Liability,partial,True,False,False
+cuad_test_095,Cap On Liability,partial,True,False,False
+cuad_test_095,Audit Rights,direct,True,False,False
+cuad_test_095,Non-Compete,direct,True,False,False
+cuad_test_095,No-Solicit Of Customers,partial,True,False,False
+cuad_test_095,No-Solicit Of Employees,direct,True,False,False
+cuad_test_095,Renewal Term,partial,True,False,False
+cuad_test_095,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_095,Governing Law,direct,True,False,False
+cuad_test_095,Termination For Convenience,partial,True,False,False
+cuad_test_095,Most Favored Nation,direct,True,False,False
+cuad_test_095,Minimum Commitment,direct,False,False,False
+cuad_test_095,Non-Disparagement,direct,False,False,False
+cuad_test_095,Source Code Escrow,direct,True,False,False
+cuad_test_095,Liquidated Damages,partial,False,False,False
+cuad_test_095,Insurance,partial,False,False,False
+cuad_test_095,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_095,Exclusivity,partial,False,False,False
+cuad_test_096,Change Of Control,direct,True,False,False
+cuad_test_096,Anti-Assignment,partial,True,False,False
+cuad_test_096,Ip Ownership Assignment,direct,True,False,False
+cuad_test_096,Uncapped Liability,partial,True,False,False
+cuad_test_096,Cap On Liability,partial,True,False,False
+cuad_test_096,Audit Rights,direct,True,False,False
+cuad_test_096,Non-Compete,direct,True,True,False
+cuad_test_096,No-Solicit Of Customers,partial,True,False,False
+cuad_test_096,No-Solicit Of Employees,direct,True,True,False
+cuad_test_096,Renewal Term,partial,True,False,False
+cuad_test_096,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_096,Governing Law,direct,True,True,True
+cuad_test_096,Termination For Convenience,partial,True,False,False
+cuad_test_096,Most Favored Nation,direct,True,False,False
+cuad_test_096,Minimum Commitment,direct,False,False,False
+cuad_test_096,Non-Disparagement,direct,False,False,False
+cuad_test_096,Source Code Escrow,direct,True,False,False
+cuad_test_096,Liquidated Damages,partial,False,False,False
+cuad_test_096,Insurance,partial,False,False,False
+cuad_test_096,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_096,Exclusivity,partial,False,False,False
+cuad_test_097,Change Of Control,direct,True,False,False
+cuad_test_097,Anti-Assignment,partial,True,True,False
+cuad_test_097,Ip Ownership Assignment,direct,True,False,False
+cuad_test_097,Uncapped Liability,partial,True,True,True
+cuad_test_097,Cap On Liability,partial,True,True,False
+cuad_test_097,Audit Rights,direct,True,False,False
+cuad_test_097,Non-Compete,direct,True,False,False
+cuad_test_097,No-Solicit Of Customers,partial,True,False,False
+cuad_test_097,No-Solicit Of Employees,direct,True,False,False
+cuad_test_097,Renewal Term,partial,True,True,False
+cuad_test_097,Notice Period To Terminate Renewal,partial,True,True,False
+cuad_test_097,Governing Law,direct,True,True,True
+cuad_test_097,Termination For Convenience,partial,True,False,False
+cuad_test_097,Most Favored Nation,direct,True,False,False
+cuad_test_097,Minimum Commitment,direct,False,False,False
+cuad_test_097,Non-Disparagement,direct,False,False,False
+cuad_test_097,Source Code Escrow,direct,True,False,False
+cuad_test_097,Liquidated Damages,partial,False,False,False
+cuad_test_097,Insurance,partial,False,False,False
+cuad_test_097,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_097,Exclusivity,partial,False,False,False
+cuad_test_098,Change Of Control,direct,True,False,False
+cuad_test_098,Anti-Assignment,partial,True,False,False
+cuad_test_098,Ip Ownership Assignment,direct,True,False,False
+cuad_test_098,Uncapped Liability,partial,True,False,False
+cuad_test_098,Cap On Liability,partial,True,False,False
+cuad_test_098,Audit Rights,direct,True,False,False
+cuad_test_098,Non-Compete,direct,True,True,False
+cuad_test_098,No-Solicit Of Customers,partial,True,False,False
+cuad_test_098,No-Solicit Of Employees,direct,True,False,False
+cuad_test_098,Renewal Term,partial,True,False,False
+cuad_test_098,Notice Period To Terminate Renewal,partial,True,False,True
+cuad_test_098,Governing Law,direct,True,True,True
+cuad_test_098,Termination For Convenience,partial,True,False,False
+cuad_test_098,Most Favored Nation,direct,True,False,False
+cuad_test_098,Minimum Commitment,direct,False,False,False
+cuad_test_098,Non-Disparagement,direct,False,False,False
+cuad_test_098,Source Code Escrow,direct,True,False,False
+cuad_test_098,Liquidated Damages,partial,False,False,False
+cuad_test_098,Insurance,partial,False,False,False
+cuad_test_098,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_098,Exclusivity,partial,False,False,False
+cuad_test_099,Change Of Control,direct,True,False,False
+cuad_test_099,Anti-Assignment,partial,True,True,False
+cuad_test_099,Ip Ownership Assignment,direct,True,True,False
+cuad_test_099,Uncapped Liability,partial,True,False,True
+cuad_test_099,Cap On Liability,partial,True,False,False
+cuad_test_099,Audit Rights,direct,True,False,False
+cuad_test_099,Non-Compete,direct,True,True,False
+cuad_test_099,No-Solicit Of Customers,partial,True,False,False
+cuad_test_099,No-Solicit Of Employees,direct,True,False,False
+cuad_test_099,Renewal Term,partial,True,True,False
+cuad_test_099,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_099,Governing Law,direct,True,True,False
+cuad_test_099,Termination For Convenience,partial,True,False,False
+cuad_test_099,Most Favored Nation,direct,True,False,False
+cuad_test_099,Minimum Commitment,direct,False,True,False
+cuad_test_099,Non-Disparagement,direct,False,True,False
+cuad_test_099,Source Code Escrow,direct,True,False,False
+cuad_test_099,Liquidated Damages,partial,False,False,False
+cuad_test_099,Insurance,partial,False,True,False
+cuad_test_099,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_099,Exclusivity,partial,False,True,False
+cuad_test_100,Change Of Control,direct,True,False,False
+cuad_test_100,Anti-Assignment,partial,True,False,False
+cuad_test_100,Ip Ownership Assignment,direct,True,False,False
+cuad_test_100,Uncapped Liability,partial,True,False,False
+cuad_test_100,Cap On Liability,partial,True,False,False
+cuad_test_100,Audit Rights,direct,True,False,False
+cuad_test_100,Non-Compete,direct,True,False,False
+cuad_test_100,No-Solicit Of Customers,partial,True,False,False
+cuad_test_100,No-Solicit Of Employees,direct,True,False,False
+cuad_test_100,Renewal Term,partial,True,False,False
+cuad_test_100,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_100,Governing Law,direct,True,False,False
+cuad_test_100,Termination For Convenience,partial,True,False,False
+cuad_test_100,Most Favored Nation,direct,True,False,False
+cuad_test_100,Minimum Commitment,direct,False,False,False
+cuad_test_100,Non-Disparagement,direct,False,False,False
+cuad_test_100,Source Code Escrow,direct,True,False,False
+cuad_test_100,Liquidated Damages,partial,False,True,False
+cuad_test_100,Insurance,partial,False,False,False
+cuad_test_100,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_100,Exclusivity,partial,False,True,False
+cuad_test_101,Change Of Control,direct,True,True,False
+cuad_test_101,Anti-Assignment,partial,True,True,False
+cuad_test_101,Ip Ownership Assignment,direct,True,False,False
+cuad_test_101,Uncapped Liability,partial,True,False,False
+cuad_test_101,Cap On Liability,partial,True,True,False
+cuad_test_101,Audit Rights,direct,True,True,False
+cuad_test_101,Non-Compete,direct,True,False,False
+cuad_test_101,No-Solicit Of Customers,partial,True,False,False
+cuad_test_101,No-Solicit Of Employees,direct,True,False,False
+cuad_test_101,Renewal Term,partial,True,False,False
+cuad_test_101,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_101,Governing Law,direct,True,True,True
+cuad_test_101,Termination For Convenience,partial,True,False,False
+cuad_test_101,Most Favored Nation,direct,True,False,False
+cuad_test_101,Minimum Commitment,direct,False,True,False
+cuad_test_101,Non-Disparagement,direct,False,False,False
+cuad_test_101,Source Code Escrow,direct,True,False,False
+cuad_test_101,Liquidated Damages,partial,False,False,False
+cuad_test_101,Insurance,partial,False,False,False
+cuad_test_101,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_101,Exclusivity,partial,False,False,False
+cuad_test_102,Change Of Control,direct,True,False,False
+cuad_test_102,Anti-Assignment,partial,True,False,False
+cuad_test_102,Ip Ownership Assignment,direct,True,False,False
+cuad_test_102,Uncapped Liability,partial,True,False,False
+cuad_test_102,Cap On Liability,partial,True,False,False
+cuad_test_102,Audit Rights,direct,True,False,False
+cuad_test_102,Non-Compete,direct,True,False,False
+cuad_test_102,No-Solicit Of Customers,partial,True,False,False
+cuad_test_102,No-Solicit Of Employees,direct,True,False,False
+cuad_test_102,Renewal Term,partial,True,True,False
+cuad_test_102,Notice Period To Terminate Renewal,partial,True,False,False
+cuad_test_102,Governing Law,direct,True,True,True
+cuad_test_102,Termination For Convenience,partial,True,True,False
+cuad_test_102,Most Favored Nation,direct,True,False,False
+cuad_test_102,Minimum Commitment,direct,False,False,False
+cuad_test_102,Non-Disparagement,direct,False,False,False
+cuad_test_102,Source Code Escrow,direct,True,False,False
+cuad_test_102,Liquidated Damages,partial,False,False,False
+cuad_test_102,Insurance,partial,False,False,False
+cuad_test_102,Irrevocable Or Perpetual License,partial,False,False,False
+cuad_test_102,Exclusivity,partial,False,True,False

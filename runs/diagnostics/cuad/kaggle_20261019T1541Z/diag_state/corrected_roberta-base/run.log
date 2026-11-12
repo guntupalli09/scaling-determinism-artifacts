@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "/tmp/diag_work/Triage/experiments/followup/comparators/diagnostics/cuad_reference_full.py", line 63, in <module>
+    main(p.parse_args())
+    ~~~~^^^^^^^^^^^^^^^^
+  File "/tmp/diag_work/Triage/experiments/followup/comparators/diagnostics/cuad_reference_full.py", line 41, in main
+    ref.main(types.SimpleNamespace(model=a.model, titles_file=str(cdir / "titles.txt"), out=str(cdir),
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   max_query_length=64, batch_size=a.batch_size,
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   threads=a.threads))
+                                   ^^^^^^^^^^^^^^^^^^^
+  File "/tmp/diag_work/Triage/experiments/followup/comparators/diagnostics/cuad_reference_pipeline.py", line 49, in main
+    assert len(sub["data"]) == len(titles), "unknown title in sample"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: unknown title in sample

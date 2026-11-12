@@ -1,0 +1,32 @@
+{
+  "version": "7.3.0-pipelinetest.1",
+  "base_release": "v7.2.0",
+  "base_ruleset_sha256": "129f7be56482f9af35ebf93782840d05eb0cd91c5b367a721c7dd0cc4a31a024",
+  "overlay_rules": [
+    {
+      "rule_id": "H_ATTFEE_01_A1",
+      "rule_name": "one_way_fee_recovery_variant",
+      "title": "One party 'entitled to recover all attorneys' fees'",
+      "severity": "high",
+      "rationale": "Variant phrasing of one-way attorneys' fees: '<Party> shall be entitled to recover all attorneys' fees and costs'.",
+      "pattern": "\\b(?:shall\\s+be|is)\\s+entitled\\s+to\\s+recover\\s+(?:all\\s+)?(?:its\\s+|reasonable\\s+)?attorneys?['\u2019]?\\s+fees\\b"
+    },
+    {
+      "rule_id": "H_INDEM_01_A1",
+      "rule_name": "indemnification_without_limitation_variant",
+      "title": "Indemnification 'against all claims ... without limitation'",
+      "severity": "high",
+      "rationale": "Variant phrasing of potentially unlimited indemnification: 'indemnify ... against all claims, losses, and expenses without limitation'.",
+      "pattern": "\\bindemnif(?:y|ies|ication)\\b[^.]{0,80}\\bagainst\\s+all\\s+claims\\b[^.]{0,80}\\bwithout\\s+limitation\\b"
+    }
+  ],
+  "overlay_sha256": "e6d58c3179f7135bcdc066d2b3938323e88476566fd6ba3856cc0a99f864f4d6",
+  "approval_entry_sha256": [
+    "d30053158956f5b80438f865348c0506c7072019717e040ee7f17578331b7d28",
+    "4d224af2dc95708c071afb90bc1a99d8cf1ac257370950ab9ec2cbe02255ef34"
+  ],
+  "pipeline_git_commit": "ec32d703844ded3c945915f682ce56a8e86a5c6b",
+  "built_at": "2026-10-17T00:41:33.411310+00:00",
+  "status": "FROZEN",
+  "release_sha256": "1a05702fa3f4c5f61fcbb057b4dcfc15ec7872bbbdd997c8640f32124a8e0781"
+}

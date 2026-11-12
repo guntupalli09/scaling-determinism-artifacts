@@ -1,0 +1,118 @@
+[{"stream_name":"stderr","time":6.28142875,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.281474163,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.281478371,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.281480914,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.8300542140000005,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.830085959,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.830090546,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.830094167,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":30.790381341,"data":"resuming from /kaggle/input/triage-step-b-state/step_b_state\n"}
+,{"stream_name":"stdout","time":30.790417075,"data":"resumed chunks {'deberta-v2-xlarge': 0, 'roberta-large': 0}\n"}
+,{"stream_name":"stderr","time":45.718437369,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":45.718473515,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.718478597,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.718482261,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.921484446,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":45.921513065,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.921519494,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.921525413,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.92153111,"data":"\n"}
+,{"stream_name":"stderr","time":45.921536076,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":45.92154106,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.921546298,"data":"gradio 6.26.0 requires pillow\u003c13.0,\u003e=8.0, but you have pillow 13.0.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":45.921551253,"data":"diffusers 0.40.0 requires huggingface-hub\u003c2.0,\u003e=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":46.001415729,"data":"commit a5f4092db9970e2a1dddd1d5cbd69038be536e45 | texts 618\n"}
+,{"stream_name":"stdout","time":46.001451965,"data":"name, memory.total [MiB]\r\n"}
+,{"stream_name":"stdout","time":46.001477113,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":46.001480461,"data":"Tesla T4, 15360 MiB\r\n"}
+,{"stream_name":"stdout","time":51.709726333,"data":"GPUs: 2\n"}
+,{"stream_name":"stdout","time":351.512857213,"data":"10:52 {'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":651.514107563,"data":"10:57 {'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":951.51682189,"data":"11:02 {'deberta-v2-xlarge': 0}\n"}
+,{"stream_name":"stdout","time":1251.517211465,"data":"11:07 {'deberta-v2-xlarge': 1}\n"}
+,{"stream_name":"stdout","time":1551.520331796,"data":"11:12 {'deberta-v2-xlarge': 2}\n"}
+,{"stream_name":"stdout","time":1851.520399398,"data":"11:17 {'deberta-v2-xlarge': 2}\n"}
+,{"stream_name":"stdout","time":2151.522118792,"data":"11:22 {'deberta-v2-xlarge': 3}\n"}
+,{"stream_name":"stdout","time":2451.523604567,"data":"11:27 {'deberta-v2-xlarge': 3}\n"}
+,{"stream_name":"stdout","time":2751.524794802,"data":"11:32 {'deberta-v2-xlarge': 4}\n"}
+,{"stream_name":"stdout","time":3051.526627142,"data":"11:37 {'deberta-v2-xlarge': 4}\n"}
+,{"stream_name":"stdout","time":3351.527759028,"data":"11:42 {'deberta-v2-xlarge': 5}\n"}
+,{"stream_name":"stdout","time":3651.529253478,"data":"11:47 {'deberta-v2-xlarge': 6}\n"}
+,{"stream_name":"stdout","time":3951.530825909,"data":"11:52 {'deberta-v2-xlarge': 6}\n"}
+,{"stream_name":"stdout","time":4251.531857053,"data":"11:57 {'deberta-v2-xlarge': 7}\n"}
+,{"stream_name":"stdout","time":4551.533453611,"data":"12:02 {'deberta-v2-xlarge': 7}\n"}
+,{"stream_name":"stdout","time":4851.534903889,"data":"12:07 {'deberta-v2-xlarge': 8}\n"}
+,{"stream_name":"stdout","time":5151.535997043,"data":"12:12 {'deberta-v2-xlarge': 8}\n"}
+,{"stream_name":"stdout","time":5451.53748001,"data":"12:17 {'deberta-v2-xlarge': 9}\n"}
+,{"stream_name":"stdout","time":5751.538951044,"data":"12:22 {'deberta-v2-xlarge': 10}\n"}
+,{"stream_name":"stdout","time":6051.539844778,"data":"12:27 {'deberta-v2-xlarge': 10}\n"}
+,{"stream_name":"stdout","time":6351.541291689,"data":"12:32 {'deberta-v2-xlarge': 10}\n"}
+,{"stream_name":"stdout","time":6651.546434792,"data":"12:37 {'deberta-v2-xlarge': 11}\n"}
+,{"stream_name":"stdout","time":6951.546707264,"data":"12:42 {'deberta-v2-xlarge': 12}\n"}
+,{"stream_name":"stdout","time":7251.548652134,"data":"12:47 {'deberta-v2-xlarge': 12}\n"}
+,{"stream_name":"stdout","time":7551.550069388,"data":"12:52 {'deberta-v2-xlarge': 12}\n"}
+,{"stream_name":"stdout","time":7851.551582362,"data":"12:57 {'deberta-v2-xlarge': 13}\n"}
+,{"stream_name":"stdout","time":8151.552810058,"data":"13:02 {'deberta-v2-xlarge': 14}\n"}
+,{"stream_name":"stdout","time":8451.554266183,"data":"13:07 {'deberta-v2-xlarge': 14}\n"}
+,{"stream_name":"stdout","time":8751.555712774,"data":"13:12 {'deberta-v2-xlarge': 14}\n"}
+,{"stream_name":"stdout","time":9051.557419269,"data":"13:17 {'deberta-v2-xlarge': 14}\n"}
+,{"stream_name":"stdout","time":9351.559249308,"data":"13:22 {'deberta-v2-xlarge': 16}\n"}
+,{"stream_name":"stdout","time":9651.560883248,"data":"13:27 {'deberta-v2-xlarge': 16}\n"}
+,{"stream_name":"stdout","time":9951.562321006,"data":"13:32 {'deberta-v2-xlarge': 16}\n"}
+,{"stream_name":"stdout","time":10251.56715991,"data":"13:37 {'deberta-v2-xlarge': 16}\n"}
+,{"stream_name":"stdout","time":10551.565739983,"data":"13:42 {'deberta-v2-xlarge': 18}\n"}
+,{"stream_name":"stdout","time":10851.56738428,"data":"13:47 {'deberta-v2-xlarge': 18}\n"}
+,{"stream_name":"stdout","time":11151.569417841,"data":"13:52 {'deberta-v2-xlarge': 18}\n"}
+,{"stream_name":"stdout","time":11451.570626733,"data":"13:57 {'deberta-v2-xlarge': 19}\n"}
+,{"stream_name":"stdout","time":11751.572409302,"data":"14:02 {'deberta-v2-xlarge': 20}\n"}
+,{"stream_name":"stdout","time":12051.573931582,"data":"14:07 {'deberta-v2-xlarge': 20}\n"}
+,{"stream_name":"stdout","time":12351.575840286,"data":"14:12 {'deberta-v2-xlarge': 20}\n"}
+,{"stream_name":"stdout","time":12651.577809185,"data":"14:17 {'deberta-v2-xlarge': 21}\n"}
+,{"stream_name":"stdout","time":12951.579407182,"data":"14:22 {'deberta-v2-xlarge': 22}\n"}
+,{"stream_name":"stdout","time":13251.580738674,"data":"14:27 {'deberta-v2-xlarge': 22}\n"}
+,{"stream_name":"stdout","time":13551.582909402,"data":"14:32 {'deberta-v2-xlarge': 23}\n"}
+,{"stream_name":"stdout","time":13851.587312815,"data":"14:37 {'deberta-v2-xlarge': 23}\n"}
+,{"stream_name":"stdout","time":14151.586234841,"data":"14:42 {'deberta-v2-xlarge': 24}\n"}
+,{"stream_name":"stdout","time":14451.587774616,"data":"14:47 {'deberta-v2-xlarge': 24}\n"}
+,{"stream_name":"stdout","time":14751.592906844,"data":"14:52 {'deberta-v2-xlarge': 24}\n"}
+,{"stream_name":"stdout","time":15051.591533919,"data":"14:57 {'deberta-v2-xlarge': 26}\n"}
+,{"stream_name":"stdout","time":15351.592721884,"data":"15:02 {'deberta-v2-xlarge': 26}\n"}
+,{"stream_name":"stdout","time":15651.594919615,"data":"15:07 {'deberta-v2-xlarge': 26}\n"}
+,{"stream_name":"stdout","time":15951.596449693,"data":"15:12 {'deberta-v2-xlarge': 28}\n"}
+,{"stream_name":"stdout","time":16251.598049594,"data":"15:17 {'deberta-v2-xlarge': 28}\n"}
+,{"stream_name":"stdout","time":16551.599934998,"data":"15:22 {'deberta-v2-xlarge': 28}\n"}
+,{"stream_name":"stdout","time":16851.601815411,"data":"15:27 {'deberta-v2-xlarge': 29}\n"}
+,{"stream_name":"stdout","time":17151.60470465,"data":"15:32 {'deberta-v2-xlarge': 30}\n"}
+,{"stream_name":"stdout","time":17451.60643716,"data":"15:37 {'deberta-v2-xlarge': 30}\n"}
+,{"stream_name":"stdout","time":17751.607756594,"data":"15:42 {'deberta-v2-xlarge': 30}\n"}
+,{"stream_name":"stdout","time":18051.609271693,"data":"15:47 {'deberta-v2-xlarge': 31}\n"}
+,{"stream_name":"stdout","time":18351.610902976,"data":"15:52 {'deberta-v2-xlarge': 32}\n"}
+,{"stream_name":"stdout","time":18651.612535955,"data":"15:57 {'deberta-v2-xlarge': 32}\n"}
+,{"stream_name":"stdout","time":18951.615544412,"data":"16:02 {'deberta-v2-xlarge': 33}\n"}
+,{"stream_name":"stdout","time":19251.616128982,"data":"16:07 {'deberta-v2-xlarge': 33}\n"}
+,{"stream_name":"stdout","time":19551.621280711,"data":"16:12 {'deberta-v2-xlarge': 34}\n"}
+,{"stream_name":"stdout","time":19851.619531472,"data":"16:17 {'deberta-v2-xlarge': 34}\n"}
+,{"stream_name":"stdout","time":20151.621561719,"data":"16:22 {'deberta-v2-xlarge': 35}\n"}
+,{"stream_name":"stdout","time":20451.623722312,"data":"16:27 {'deberta-v2-xlarge': 36}\n"}
+,{"stream_name":"stdout","time":20751.625582364,"data":"16:32 {'deberta-v2-xlarge': 36}\n"}
+,{"stream_name":"stdout","time":21051.627103038,"data":"16:37 {'deberta-v2-xlarge': 37}\n"}
+,{"stream_name":"stdout","time":21351.628475988,"data":"16:42 {'deberta-v2-xlarge': 37}\n"}
+,{"stream_name":"stdout","time":21651.631091505,"data":"16:47 {'deberta-v2-xlarge': 38}\n"}
+,{"stream_name":"stdout","time":21951.632128243,"data":"16:52 {'deberta-v2-xlarge': 38}\n"}
+,{"stream_name":"stdout","time":22251.633733693,"data":"16:57 {'deberta-v2-xlarge': 38}\n"}
+,{"stream_name":"stdout","time":22551.636465557,"data":"17:02 {'deberta-v2-xlarge': 38}\n"}
+,{"stream_name":"stdout","time":22851.638710538,"data":"17:07 {'deberta-v2-xlarge': 40}\n"}
+,{"stream_name":"stdout","time":23151.639082771,"data":"17:12 {'deberta-v2-xlarge': 41}\n"}
+,{"stream_name":"stdout","time":23451.640658479,"data":"17:17 {'deberta-v2-xlarge': 41}\n"}
+,{"stream_name":"stdout","time":23751.640861112,"data":"17:22 {'deberta-v2-xlarge': 42}\n"}
+,{"stream_name":"stdout","time":24051.643620939,"data":"17:27 {'deberta-v2-xlarge': 43}\n"}
+,{"stream_name":"stdout","time":24051.644528884,"data":"exit codes [0, 0]\n"}
+,{"stream_name":"stderr","time":24054.318312304,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":24054.318374978,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":24054.463062345,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":24054.46310459,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":24055.188330301,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":24055.267154472,"data":"[NbConvertApp] Writing 11986 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":24057.652716197,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":24058.150168056,"data":"[NbConvertApp] Writing 305124 bytes to __results__.html\n"}
+]

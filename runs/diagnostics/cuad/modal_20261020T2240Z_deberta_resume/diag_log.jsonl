@@ -1,0 +1,7 @@
+{"at": "2026-10-20T02:48:22Z", "step": "deberta-v2-xlarge:start", "note": "progress marker"}
+{"at": "2026-10-20T02:48:41Z", "step": "deberta-v2-xlarge:official_score", "ok": true, "status": "STEP_A_PASS", "reproduced": {"aupr": 47.793473887270935, "p_at_80r": 44.03155490969483, "p_at_90r": 17.828358208955226}, "published": {"aupr": 47.8, "p_at_80r": 44.0, "p_at_90r": 17.8}}
+{"at": "2026-10-20T02:49:55Z", "step": "deberta-v2-xlarge:weights", "ok": true, "official_tensors": 396, "community_tensors": 396, "common": 396, "max_abs_diff": 0.0}
+{"at": "2026-10-20T03:16:23Z", "step": "deberta-v2-xlarge:sample_validation", "ok": true, "questions": 123, "top_agree": 123, "max_abs_dp": 0.0035331731147433265}
+{"at": "2026-10-20T22:53:33Z", "step": "deberta-v2-xlarge:start", "note": "progress marker"}
+{"at": "2026-10-21T02:01:43Z", "step": "deberta-v2-xlarge:start", "note": "progress marker"}
+{"at": "2026-10-21T03:34:21Z", "step": "deberta-v2-xlarge:corrected_full", "ok": true, "label": "CORRECTED_DIAGNOSTIC (not the pre-registered Step A)", "status": "STEP_A_PASS", "reproduced": {"aupr": 47.788322413975024, "p_at_80r": 44.02241594022416, "p_at_90r": 17.832350526237217}, "published": {"aupr": 47.8, "p_at_80r": 44.0, "p_at_90r": 17.8}}

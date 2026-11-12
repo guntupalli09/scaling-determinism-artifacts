@@ -1,0 +1,25 @@
+{
+  "_label": "TEST FIXTURES - hand-authored candidate rules used ONLY to exercise the Phase 2 pipeline and its security boundary. They are NOT outputs of any LLM and NOT experimental results of bounded adaptivity. The LLM proposal-generation experiment is BLOCKED_API.",
+  "candidates": [
+    {
+      "for_case": "emp_01:FN:H_INDEM_01",
+      "rule_id": "H_INDEM_01_A1",
+      "rule_name": "indemnification_without_limitation_variant",
+      "title": "Indemnification 'against all claims ... without limitation'",
+      "severity": "high",
+      "rationale": "Variant phrasing of potentially unlimited indemnification: 'indemnify ... against all claims, losses, and expenses without limitation'.",
+      "pattern": "\\bindemnif(?:y|ies|ication)\\b[^.]{0,80}\\bagainst\\s+all\\s+claims\\b[^.]{0,80}\\bwithout\\s+limitation\\b",
+      "provenance": "fixture"
+    },
+    {
+      "for_case": "emp_01:FN:H_ATTFEE_01",
+      "rule_id": "H_ATTFEE_01_A1",
+      "rule_name": "one_way_fee_recovery_variant",
+      "title": "One party 'entitled to recover all attorneys' fees'",
+      "severity": "high",
+      "rationale": "Variant phrasing of one-way attorneys' fees: '<Party> shall be entitled to recover all attorneys' fees and costs'.",
+      "pattern": "\\b(?:shall\\s+be|is)\\s+entitled\\s+to\\s+recover\\s+(?:all\\s+)?(?:its\\s+|reasonable\\s+)?attorneys?['’]?\\s+fees\\b",
+      "provenance": "fixture"
+    }
+  ]
+}

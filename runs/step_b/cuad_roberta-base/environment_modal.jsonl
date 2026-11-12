@@ -1,0 +1,4 @@
+{"provider": "modal", "gpu": "Tesla T4", "started": "2026-11-02T09:11:11Z", "commit": "de40eaf5afd252c0a92d8ca77457f9654cc3143a", "queue": ["roberta-base"], "shard_of": 1, "shards": [0]}
+{"provider": "modal", "gpu": "Tesla T4", "started": "2026-11-02T17:33:11Z", "commit": "de40eaf5afd252c0a92d8ca77457f9654cc3143a", "queue": ["roberta-base"], "shard_of": 1, "shards": [0]}
+{"provider": "modal", "gpu": "Tesla T4", "started": "2026-11-02T21:05:06Z", "commit": "de40eaf5afd252c0a92d8ca77457f9654cc3143a", "queue": ["roberta-base"], "shard_of": 1, "shards": [0]}
+{"provider": "modal", "gpu": "Tesla T4", "started": "2026-11-03T03:49:53Z", "commit": "de40eaf5afd252c0a92d8ca77457f9654cc3143a", "queue": ["roberta-base"], "shard_of": 1, "shards": [0]}
