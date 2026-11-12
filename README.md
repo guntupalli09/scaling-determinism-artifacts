@@ -1,7 +1,7 @@
 # Research artefacts: The Cost of Scaling Determinism
 
 Research artefacts for S. Guntupalli and M.-P. Laakkonen, *The Cost of Scaling Determinism: Coverage, Regression Risk
-and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis* (submitted for publication).
+and Attack Surface in a Versioned Symbolic Control Plane for LLM-Assisted Contract Analysis* (manuscript in preparation for submission).
 
 Archived version 1.0: https://doi.org/10.5281/zenodo.23985168
 
